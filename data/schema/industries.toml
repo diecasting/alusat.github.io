@@ -1,160 +1,190 @@
 # ==========================================================================
-# industries.toml — Industries Served [SITE LAYER] (TEMPLATE EXAMPLE)
+# industries.toml — Industries Served [SITE LAYER]
 # ==========================================================================
 # Feeds areaServed in Service schema and ItemList on homepage.
-# CUSTOMIZE: add/remove industries relevant to your business.
+# Alusat aluminum extrusion target sectors.
 # ==========================================================================
 
 # --- Industry catalog (language-neutral IDs) ---
 
 [[industries]]
-id = "pump-valve"
+id = "automotive-ev"
 sort_order = 1
-url_path = "/industries/pump-valve/"
+url_path = "/industries/automotive-ev/"
 
 [[industries]]
-id = "marine"
+id = "electronics-thermal"
 sort_order = 2
-url_path = "/industries/marine/"
+url_path = "/industries/electronics-thermal/"
 
 [[industries]]
-id = "automotive"
+id = "renewable-energy"
 sort_order = 3
-url_path = "/industries/automotive/"
+url_path = "/industries/renewable-energy/"
 
 [[industries]]
-id = "food-machinery"
+id = "led-lighting"
 sort_order = 4
-url_path = "/industries/food-machinery/"
+url_path = "/industries/led-lighting/"
 
 [[industries]]
-id = "chemical-processing"
+id = "building-construction"
 sort_order = 5
-url_path = "/industries/chemical-processing/"
+url_path = "/industries/building-construction/"
+
+[[industries]]
+id = "industrial-automation"
+sort_order = 6
+url_path = "/industries/industrial-automation/"
 
 # --- Localized industry names and descriptions ---
 
-[en.pump-valve]
-name = "Pump & Valve Industry"
-description = "Pressure-tight components for fluid control equipment."
-applications = ["Pump impellers", "Valve bodies", "Pump housings"]
+[en.automotive-ev]
+name = "Automotive & EV"
+description = "Lightweight extruded aluminum components for vehicle structures, battery enclosures and thermal systems."
+applications = ["Battery enclosures", "Structural frames", "Crash management systems"]
 
-[en.marine]
-name = "Marine Equipment"
-description = "Corrosion-resistant hardware built for continuous saltwater service."
-applications = ["Cleats", "Deck fittings", "Propellers"]
+[en.electronics-thermal]
+name = "Electronics & Thermal Management"
+description = "Heat sinks and enclosures that manage heat and protect sensitive electronics."
+applications = ["Heat sinks", "Enclosures", "Housings"]
 
-[en.automotive]
-name = "Automotive Components"
-description = "Precision components for automotive systems."
-applications = ["Brackets", "Housings", "Sensor bodies"]
+[en.renewable-energy]
+name = "Renewable Energy & Solar"
+description = "Corrosion-resistant aluminum profiles for solar mounting and energy storage systems."
+applications = ["Solar panel frames", "Mounting rails", "Inverter housings"]
 
-[en.food-machinery]
-name = "Food Machinery"
-description = "Hygienic components for food processing equipment."
-applications = ["Mixer parts", "Sanitary fittings", "Conveyor components"]
+[en.led-lighting]
+name = "LED Lighting"
+description = "Precision aluminum profiles that combine heat dissipation with clean architectural form."
+applications = ["LED heat sinks", "Linear light housings", "Track lighting profiles"]
 
-[en.chemical-processing]
-name = "Chemical Processing"
-description = "Corrosion-resistant components for aggressive chemical environments."
-applications = ["Reactor fittings", "Pump parts", "Pipeline components"]
+[en.building-construction]
+name = "Building & Construction"
+description = "Architectural aluminum extrusions for facades, windows, doors and structural systems."
+applications = ["Window & door frames", "Curtain wall profiles", "Railings"]
 
-[de.pump-valve]
-name = "Pumpen- und Ventilindustrie"
-description = "Druckdichte Bauteile für Fluidsteuerungstechnik."
-applications = ["Pumpenlaufräder", "Ventilgehäuse", "Pumpengehäuse"]
+[en.industrial-automation]
+name = "Industrial Automation"
+description = "Structural aluminum framing and machine components for automation and equipment builders."
+applications = ["T-slot framing", "Machine guards", "Linear motion profiles"]
 
-[de.marine]
-name = "Marineausrüstung"
-description = "Korrosionsbeständige Beschläge für den Dauerbetrieb in Salzwasser."
-applications = ["Klampen", "Deckbeschläge", "Propeller"]
+[de.automotive-ev]
+name = "Automobil & Elektromobilität"
+description = "Leichte stranggepresste Aluminiumbauteile für Fahrzeugstrukturen, Batteriegehäuse und Thermosysteme."
+applications = ["Batteriegehäuse", "Strukturrahmen", "Crash-Management-Systeme"]
 
-[de.automotive]
-name = "Automobilkomponenten"
-description = "Präzisionsbauteile für Automobilsysteme."
-applications = ["Halter", "Gehäuse", "Sensorgehäuse"]
+[de.electronics-thermal]
+name = "Elektronik & Wärmemanagement"
+description = "Kühlkörper und Gehäuse, die Wärme ableiten und empfindliche Elektronik schützen."
+applications = ["Kühlkörper", "Gehäuse", "Umhausungen"]
 
-[de.food-machinery]
-name = "Lebensmittelmaschinen"
-description = "Hygienische Komponenten für Lebensmittelverarbeitungsanlagen."
-applications = ["Mischerteile", "Sanitärarmaturen", "Förderkomponenten"]
+[de.renewable-energy]
+name = "Erneuerbare Energien & Solar"
+description = "Korrosionsbeständige Aluminiumprofile für Solarmontage und Energiespeichersysteme."
+applications = ["Solarmodulrahmen", "Montageschienen", "Wechselrichtergehäuse"]
 
-[de.chemical-processing]
-name = "Chemische Verfahrenstechnik"
-description = "Korrosionsbeständige Bauteile für aggressive chemische Umgebungen."
-applications = ["Reaktorarmaturen", "Pumpenteile", "Rohrleitungskomponenten"]
+[de.led-lighting]
+name = "LED-Beleuchtung"
+description = "Präzise Aluminiumprofile, die Wärmeableitung mit klarer architektonischer Form verbinden."
+applications = ["LED-Kühlkörper", "Lineare Leuchtengehäuse", "Schienenprofile"]
 
-[ja.pump-valve]
-name = "ポンプ・バルブ産業"
-description = "流体制御機器向けの耐圧部品。"
-applications = ["ポンプインペラ", "バルブボディ", "ポンプハウジング"]
+[de.building-construction]
+name = "Bau & Konstruktion"
+description = "Architektonische Aluminium-Strangpressprofile für Fassaden, Fenster, Türen und Tragwerke."
+applications = ["Fenster- & Türrahmen", "Vorhangfassadenprofile", "Geländer"]
 
-[ja.marine]
-name = "船舶機器"
-description = "連続海水使用に耐える耐食性金物。"
-applications = ["クリート", "デッキ金具", "プロペラ"]
+[de.industrial-automation]
+name = "Industrieautomation"
+description = "Strukturelle Aluminiumrahmen und Maschinenkomponenten für Automations- und Anlagenbauer."
+applications = ["T-Nut-Profile", "Maschinenschutz", "Linearführungsprofile"]
 
-[ja.automotive]
-name = "自動車部品"
-description = "自動車システム向け精密部品。"
-applications = ["ブラケット", "ハウジング", "センサーハウジング"]
+[ja.automotive-ev]
+name = "自動車・EV"
+description = "車両構造・バッテリーケース・熱システム向けの軽量アルミ押出部品。"
+applications = ["バッテリーケース", "構造フレーム", "衝突安全システム"]
 
-[ja.food-machinery]
-name = "食品機械"
-description = "食品加工機器向け衛生部品。"
-applications = ["ミキサー部品", "サニタリー継手", "コンベア部品"]
+[ja.electronics-thermal]
+name = "電子機器・熱管理"
+description = "熱を管理し、精密な電子機器を保護するヒートシンクと筐体。"
+applications = ["ヒートシンク", "筐体", "ハウジング"]
 
-[ja.chemical-processing]
-name = "化学プラント"
-description = "腐食性の高い化学環境向けの耐食部品。"
-applications = ["リアクター継手", "ポンプ部品", "配管部品"]
+[ja.renewable-energy]
+name = "再生可能エネルギー・太陽光"
+description = "太陽光架台・蓄電システム向けの耐食アルミ形材。"
+applications = ["太陽光パネルフレーム", "取付レール", "インバータ筐体"]
 
-[fr.pump-valve]
-name = "Industrie des pompes et vannes"
-description = "Pièces étanches à la pression pour équipements de contrôle des fluides."
-applications = ["Roues de pompe", "Corps de vanne", "Carter de pompe"]
+[ja.led-lighting]
+name = "LED照明"
+description = "放熱性と美しい形状を両立する精密アルミ形材。"
+applications = ["LEDヒートシンク", "ライン照明筐体", "ライティングレール形材"]
 
-[fr.marine]
-name = "Équipement marin"
-description = "Accastillage résistant à la corrosion en service maritime continu."
-applications = ["Taquets", "Ferrures de pont", "Hélices"]
+[ja.building-construction]
+name = "建築・建設"
+description = "外装・窓・ドア・構造システム向けの建築用アルミ押出材。"
+applications = ["窓・ドア枠", "カーテンウォール形材", "手すり"]
 
-[fr.automotive]
-name = "Composants automobiles"
-description = "Pièces de précision pour systèmes automobiles."
-applications = ["Supports", "Carter", "Boîtiers de capteur"]
+[ja.industrial-automation]
+name = "産業オートメーション"
+description = "オートメーション・装置メーカー向けの構造用アルミフレームと機械部品。"
+applications = ["T溝フレーム", "機械カバー", "リニアモーション形材"]
 
-[fr.food-machinery]
-name = "Machines agroalimentaires"
-description = "Composants hygiéniques pour équipements de transformation alimentaire."
-applications = ["Pièces de mélangeur", "Raccords sanitaires", "Composants de convoyeur"]
+[fr.automotive-ev]
+name = "Automobile & VE"
+description = "Composants aluminium extrudé légers pour structures de véhicules, bacs de batterie et systèmes thermiques."
+applications = ["Bacs de batterie", "Cadres structurels", "Systèmes anti-choc"]
 
-[fr.chemical-processing]
-name = "Industrie chimique"
-description = "Pièces résistant à la corrosion pour environnements chimiques agressifs."
-applications = ["Raccords de réacteur", "Pièces de pompe", "Composants de canalisation"]
+[fr.electronics-thermal]
+name = "Électronique & gestion thermique"
+description = "Dissipateurs et boîtiers qui gèrent la chaleur et protègent l'électronique sensible."
+applications = ["Dissipateurs thermiques", "Boîtiers", "Carters"]
 
-[es.pump-valve]
-name = "Industria de bombas y válvulas"
-description = "Piezas estancas a la presión para equipos de control de fluidos."
-applications = ["Impulsores de bomba", "Cuerpos de válvula", "Carcasas de bomba"]
+[fr.renewable-energy]
+name = "Énergies renouvelables & solaire"
+description = "Profilés aluminium résistants à la corrosion pour le montage solaire et le stockage d'énergie."
+applications = ["Cadres de panneaux solaires", "Rails de montage", "Boîtiers d'onduleur"]
 
-[es.marine]
-name = "Equipamiento marino"
-description = "Herrajes resistentes a la corrosión para servicio marítimo continuo."
-applications = ["Cornamusas", "Accesorios de cubierta", "Hélices"]
+[fr.led-lighting]
+name = "Éclairage LED"
+description = "Profilés aluminium de précision alliant dissipation thermique et forme architecturale épurée."
+applications = ["Dissipateurs LED", "Boîtiers de luminaires linéaires", "Profilés de rails"]
 
-[es.automotive]
-name = "Componentes de automoción"
-description = "Piezas de precisión para sistemas de automoción."
-applications = ["Soportes", "Carcasas", "Carcasas de sensores"]
+[fr.building-construction]
+name = "Bâtiment & construction"
+description = "Extrusions aluminium architecturales pour façades, fenêtres, portes et systèmes structurels."
+applications = ["Cadres de fenêtres & portes", "Profilés de mur-rideau", "Garde-corps"]
 
-[es.food-machinery]
-name = "Maquinaria alimentaria"
-description = "Componentes higiénicos para equipos de procesamiento de alimentos."
-applications = ["Piezas de mezcladora", "Racores sanitarios", "Componentes de transportador"]
+[fr.industrial-automation]
+name = "Automatisation industrielle"
+description = "Ossatures aluminium structurelles et composants machine pour l'automatisation et les équipementiers."
+applications = ["Profilés à rainure en T", "Protecteurs de machine", "Profilés de mouvement linéaire"]
 
-[es.chemical-processing]
-name = "Procesamiento químico"
-description = "Piezas resistentes a la corrosión para entornos químicos agresivos."
-applications = ["Racores de reactor", "Piezas de bombas", "Componentes de tuberías"]
+[es.automotive-ev]
+name = "Automoción y VE"
+description = "Componentes de aluminio extruido ligeros para estructuras de vehículos, cajas de batería y sistemas térmicos."
+applications = ["Cajas de batería", "Bastidores estructurales", "Sistemas anticolisión"]
+
+[es.electronics-thermal]
+name = "Electrónica y gestión térmica"
+description = "Disipadores y carcasas que gestionan el calor y protegen la electrónica sensible."
+applications = ["Disipadores de calor", "Carcasas", "Alojamientos"]
+
+[es.renewable-energy]
+name = "Energías renovables y solar"
+description = "Perfiles de aluminio resistentes a la corrosión para montaje solar y sistemas de almacenamiento de energía."
+applications = ["Marcos de paneles solares", "Rieles de montaje", "Carcasas de inversor"]
+
+[es.led-lighting]
+name = "Iluminación LED"
+description = "Perfiles de aluminio de precisión que combinan disipación de calor con una forma arquitectónica limpia."
+applications = ["Disipadores LED", "Carcasas de luminarias lineales", "Perfiles de carril"]
+
+[es.building-construction]
+name = "Edificación y construcción"
+description = "Extrusiones de aluminio arquitectónicas para fachadas, ventanas, puertas y sistemas estructurales."
+applications = ["Marcos de ventanas y puertas", "Perfiles de muro cortina", "Barandillas"]
+
+[es.industrial-automation]
+name = "Automatización industrial"
+description = "Estructuras de aluminio y componentes de máquina para automatización y fabricantes de equipos."
+applications = ["Perfiles con ranura en T", "Protecciones de máquina", "Perfiles de movimiento lineal"]

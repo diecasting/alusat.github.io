@@ -1,7 +1,7 @@
 # ==========================================================================
-# services.toml — Service Catalog [SITE LAYER] (PRODUCTION TEMPLATE V3)
+# services.toml — Service Catalog [SITE LAYER]
 # ==========================================================================
-# >>> EDIT / EXTEND with your services. <<<
+# >>> Alusat aluminum extrusion services. <<<
 # url_path must match the content directory path so the schema engine
 # (layouts/partials/schema/render.html) emits Service JSON-LD automatically.
 # Add one [[services]] block + a [<lang>.<id>] map per language you support.
@@ -10,133 +10,107 @@
 # --- Service catalog (language-neutral IDs) ---
 
 [[services]]
-id = "precision-casting"
+id = "custom-aluminum-extrusion"
 schema_type = "Service"
-url_path = "/services/precision-casting/"
+url_path = "/services/custom-aluminum-extrusion/"
 sort_order = 1
 
 [[services]]
-id = "cnc-machining"
+id = "extrusion-fabrication"
 schema_type = "Service"
-url_path = "/services/cnc-machining/"
+url_path = "/services/extrusion-fabrication/"
 sort_order = 2
 
 [[services]]
-id = "sheet-metal-fabrication"
+id = "aluminum-cnc-machining"
 schema_type = "Service"
-url_path = "/services/sheet-metal-fabrication/"
+url_path = "/services/aluminum-cnc-machining/"
 sort_order = 3
 
 [[services]]
-id = "surface-treatment"
+id = "aluminum-surface-finishing"
 schema_type = "Service"
-url_path = "/services/surface-treatment/"
+url_path = "/services/aluminum-surface-finishing/"
 sort_order = 4
-
-[[services]]
-id = "assembly-services"
-schema_type = "Service"
-url_path = "/services/assembly-services/"
-sort_order = 5
 
 # --- Localized service names and descriptions ---
 
-[en.precision-casting]
-name = "Precision Casting"
-description = "Investment and sand casting of complex, near-net-shape metal components with tight tolerances and excellent surface finish."
+[en.custom-aluminum-extrusion]
+name = "Custom Aluminum Extrusion Services"
+description = "Design and extrusion of custom aluminum profiles from your drawings, with in-house die development in 6061, 6063 and other alloys for demanding OEM applications."
 
-[en.cnc-machining]
-name = "CNC Machining"
-description = "Multi-axis CNC milling and turning that brings cast and forged components to tight, repeatable tolerances."
+[en.extrusion-fabrication]
+name = "Aluminum Extrusion Fabrication Services"
+description = "Value-added fabrication of extruded aluminum profiles — precision cutting, drilling, tapping, bending, welding and assembly into finished components."
 
-[en.sheet-metal-fabrication]
-name = "Sheet Metal Fabrication"
-description = "Laser cutting, bending and welding of sheet metal enclosures, brackets and structural parts."
+[en.aluminum-cnc-machining]
+name = "Aluminum CNC Machining Services"
+description = "Multi-axis CNC milling and turning of aluminum extrusions and profiles to tight, repeatable tolerances for functional and mating features."
 
-[en.surface-treatment]
-name = "Surface Treatment & Finishing"
-description = "Passivation, anodizing, powder coating and plating to protect parts and meet appearance specifications."
+[en.aluminum-surface-finishing]
+name = "Aluminum Surface Finishing Services"
+description = "Anodizing, powder coating, polishing and brushing to protect aluminum parts and meet appearance and corrosion-resistance specifications."
 
-[en.assembly-services]
-name = "Assembly & Value-Added Services"
-description = "Sub-assembly, kitting, testing and packaging that deliver finished, inspection-ready modules."
+[de.custom-aluminum-extrusion]
+name = "Kundenspezifische Aluminium-Strangpressleistungen"
+description = "Konstruktion und Strangpressen kundenspezifischer Aluminiumprofile nach Ihren Zeichnungen, mit eigener Werkzeugentwicklung in 6061, 6063 und weiteren Legierungen für anspruchsvolle OEM-Anwendungen."
 
-[de.precision-casting]
-name = "Präzisionsguss"
-description = "Investment- und Sandguss komplexer, nahezu endkonturnaher Metallbauteile mit engen Toleranzen und erstklassiger Oberfläche."
+[de.extrusion-fabrication]
+name = "Aluminium-Strangpress-Weiterverarbeitung"
+description = "Weiterverarbeitung stranggepresster Aluminiumprofile mit Mehrwert — präzises Schneiden, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage zu fertigen Bauteilen."
 
-[de.cnc-machining]
-name = "CNC-Bearbeitung"
-description = "Mehrachsige CNC-Fräs- und Drehbearbeitung, die Guss- und Schmiedeteile auf engste, wiederholbare Toleranzen bringt."
+[de.aluminum-cnc-machining]
+name = "Aluminium-CNC-Bearbeitungsleistungen"
+description = "Mehrachsige CNC-Fräs- und Drehbearbeitung von Aluminiumprofilen und Strangpressteilen auf engste, wiederholbare Toleranzen für Funktions- und Passflächen."
 
-[de.sheet-metal-fabrication]
-name = "Blechbearbeitung"
-description = "Laserschneiden, Biegen und Schweißen von Blechgehäusen, Halterungen und Strukturteilen."
+[de.aluminum-surface-finishing]
+name = "Aluminium-Oberflächenveredelung"
+description = "Eloxieren, Pulverbeschichten, Polieren und Bürsten zum Schutz von Aluminiumteilen und zur Einhaltung von Optik- und Korrosionsschutzvorgaben."
 
-[de.surface-treatment]
-name = "Oberflächenbehandlung"
-description = "Passivieren, Eloxieren, Pulverbeschichten und Galvanisieren zum Korrosionsschutz und für Optik."
+[ja.custom-aluminum-extrusion]
+name = "カスタムアルミ押出サービス"
+description = "お客様の図面に基づくカスタムアルミ形材の設計・押出。6061・6063などの合金で自社金型を開発し、要求の厳しいOEM用途に対応します。"
 
-[de.assembly-services]
-name = "Montage & Weiterverarbeitung"
-description = "Unterbaugruppen, Kitting, Prüfung und Verpackung fertiger, prüffähiger Module."
+[ja.extrusion-fabrication]
+name = "アルミ押出加工サービス"
+description = "押出アルミ形材の付加価値加工 — 精密切断・穴あけ・タップ・曲げ・溶接・組立により完成部品に仕上げます。"
 
-[ja.precision-casting]
-name = "精密鋳造"
-description = "複雑なニアネットシェイプ金属部品のロストワックスおよび砂型鋳造。高精度かつ優れた表面品質。"
+[ja.aluminum-cnc-machining]
+name = "アルミCNC機械加工サービス"
+description = "アルミ押出材・形材の多軸CNCフライス・旋盤加工により、機能面・嵌合面を高精度かつ再現性よく仕上げます。"
 
-[ja.cnc-machining]
-name = "CNC加工"
-description = "多軸CNCフライス・旋盤加工により、鋳造・鍛造部品を高精度で仕上げ。"
+[ja.aluminum-surface-finishing]
+name = "アルミ表面処理サービス"
+description = "陽極酸化・粉体塗装・研磨・ヘアライン加工により、アルミ部品を保護し、外観と耐食性の要件を満たします。"
 
-[ja.sheet-metal-fabrication]
-name = "板金加工"
-description = "板金筐体・ブラケット・構造部品のレーザー切断・曲げ・溶接。"
+[fr.custom-aluminum-extrusion]
+name = "Services d'extrusion d'aluminium sur mesure"
+description = "Conception et extrusion de profilés aluminium sur mesure d'après vos plans, avec développement de matrices en interne en 6061, 6063 et autres alliages pour des applications OEM exigeantes."
 
-[ja.surface-treatment]
-name = "表面処理・仕上げ"
-description = "耐食性と外観要件を満たすパッシベーション・陽極酸化・粉体塗装・めっき。"
+[fr.extrusion-fabrication]
+name = "Services de fabrication d'extrusion d'aluminium"
+description = "Fabrication à valeur ajoutée de profilés aluminium extrudés — coupe de précision, perçage, taraudage, cintrage, soudure et assemblage en composants finis."
 
-[ja.assembly-services]
-name = "組立・付加価値サービス"
-description = "検査完了品のサブアセンブリ・キッティング・試験・包装。"
+[fr.aluminum-cnc-machining]
+name = "Services d'usinage CNC d'aluminium"
+description = "Fraisage et tournage CNC multi-axes de profilés et extrusions aluminium pour des tolérances serrées et répétables sur les surfaces fonctionnelles."
 
-[fr.precision-casting]
-name = "Moulage de précision"
-description = "Fonderie de précision (cire perdue et sable) de pièces métalliques complexes quasi finies avec des tolérances serrées."
+[fr.aluminum-surface-finishing]
+name = "Services de finition de surface de l'aluminium"
+description = "Anodisation, peinture poudre, polissage et brossage pour protéger les pièces aluminium et répondre aux exigences d'aspect et de résistance à la corrosion."
 
-[fr.cnc-machining]
-name = "Usinage CNC"
-description = "Usinage CNC multi-axes (fraisage et tournage) pour des tolérances serrées et répétables."
+[es.custom-aluminum-extrusion]
+name = "Servicios de extrusión de aluminio personalizada"
+description = "Diseño y extrusión de perfiles de aluminio personalizados a partir de sus planos, con desarrollo de matrices propio en 6061, 6063 y otras aleaciones para aplicaciones OEM exigentes."
 
-[fr.sheet-metal-fabrication]
-name = "Tôlerie"
-description = "Découpe laser, pliage et soudure de coffrets, supports et pièces structurelles en tôle."
+[es.extrusion-fabrication]
+name = "Servicios de fabricación de extrusión de aluminio"
+description = "Fabricación de valor añadido de perfiles de aluminio extruido — corte de precisión, taladrado, roscado, curvado, soldadura y montaje en componentes terminados."
 
-[fr.surface-treatment]
-name = "Traitement de surface"
-description = "Passivation, anodisation, peinture poudre et galvanisation pour la protection et l'esthétique."
+[es.aluminum-cnc-machining]
+name = "Servicios de mecanizado CNC de aluminio"
+description = "Fresado y torneado CNC multieje de extrusiones y perfiles de aluminio con tolerancias ajustadas y repetibles para superficies funcionales y de acoplamiento."
 
-[fr.assembly-services]
-name = "Assemblage & services à valeur ajoutée"
-description = "Sous-ensembles, kitting, tests et emballage de modules finis prêts au contrôle."
-
-[es.precision-casting]
-name = "Fundición de precisión"
-description = "Fundición de precisión (cera perdida y arena) de componentes metálicos complejos casi netos con tolerancias ajustadas."
-
-[es.cnc-machining]
-name = "Mecanizado CNC"
-description = "Mecanizado CNC multieje (fresado y torneado) con tolerancias ajustadas y repetibles."
-
-[es.sheet-metal-fabrication]
-name = "Carpintería metálica"
-description = "Corte por láser, plegado y soldadura de chasis, soportes y piezas estructurales."
-
-[es.surface-treatment]
-name = "Tratamiento de superficies"
-description = "Pasivado, anodizado, recubrimiento en polvo y galvanizado para protección y acabado."
-
-[es.assembly-services]
-name = "Montaje y servicios de valor añadido"
-description = "Subensamblaje, kitting, pruebas y embalaje de módulos terminados listos para inspección."
+[es.aluminum-surface-finishing]
+name = "Servicios de acabado de superficies de aluminio"
+description = "Anodizado, recubrimiento en polvo, pulido y cepillado para proteger las piezas de aluminio y cumplir las especificaciones de aspecto y resistencia a la corrosión."

@@ -9,16 +9,18 @@ sections:
   - rfq
 schema:
   faq:
-    - question: "What manufacturing processes do you offer?"
-      answer: "We provide precision casting, in-house tooling, CNC machining and finishing, so components are delivered as finished, inspection-ready parts."
-    - question: "What is the typical weight and tolerance of your parts?"
-      answer: "Our process handles parts across a broad weight range with dimensional tolerances suitable for functional surfaces; CNC machining brings critical features to tight limits."
-    - question: "Do you provide machining and finishing in-house?"
-      answer: "Yes. Machining centers, surface finishing and inspection are all performed on site, which keeps lead times short and results consistent."
-    - question: "Which industries do you serve?"
-      answer: "We supply components to the pump and valve, marine, automotive, food machinery and chemical processing industries."
-    - question: "How can I request a quote?"
-      answer: "Use the quote form on this page or email our sales address with your drawings, material grade, quantities and tolerances. Our engineering team responds with a quotation."
+    - question: "What aluminum alloys does Alusat extrude?"
+      answer: "Alusat extrudes a full range of wrought aluminum alloys, including 6061, 6063, 6005A, 6082 and 7075, and can recommend the right alloy and temper for your structural, thermal or cosmetic requirements."
+    - question: "Can Alusat design custom aluminum extrusion dies from my drawings?"
+      answer: "Yes. Our engineers develop custom extrusion dies from your 2D/3D drawings or samples, including a design-for-manufacturability review, so we can produce bespoke aluminum profiles for OEM applications."
+    - question: "What value-added fabrication services do you provide?"
+      answer: "Beyond extrusion we offer precision cutting, CNC machining, drilling, tapping, bending, welding and assembly, delivering finished, ready-to-install aluminum components rather than raw profiles."
+    - question: "What surface finishing options are available for aluminum profiles?"
+      answer: "We provide anodizing, powder coating, polishing and brushing to meet appearance, corrosion-resistance and durability specifications for both indoor and outdoor use."
+    - question: "Where is Alusat located and do you export worldwide?"
+      answer: "Alusat operates an aluminum extrusion manufacturing facility in Dongguan, Guangdong, China, and supplies custom aluminum profiles and components to OEM customers across North America, Europe, Asia and beyond."
+    - question: "How do I request a quote for custom aluminum extrusion?"
+      answer: "Send your drawings, target alloy, quantities, tolerances and finishing requirements through the RFQ form on this site or email hank@alusat.com, and our engineering team will respond with a feasibility review and quotation."
 ---
 
 ## A Trusted Precision Manufacturing Partner

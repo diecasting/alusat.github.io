@@ -1,78 +1,78 @@
 # ==========================================================================
 # products.toml — Product Categories & Material Specifications [SITE LAYER]
 # ==========================================================================
-# CUSTOMIZE: Add your product categories with material grades.
+# >>> Alusat aluminum product categories with alloy grades. <<<
 # Feeds Product schema and material specification sections.
 # ==========================================================================
 
 # --- Product category catalog (language-neutral) ---
 
 [[products]]
-id = "precision-castings"
-category = "Precision Castings"
-material_family = "Engineering Alloys"
-material_grades = ["Alloy A", "Alloy B", "Alloy C"]
-alloy_designations = ["A", "B", "C"]
+id = "custom-extrusion-profiles"
+category = "Aluminum Extrusion Profiles"
+material_family = "Aluminum Alloys"
+material_grades = ["6061", "6063", "6005A", "6082", "7075"]
+alloy_designations = ["6061", "6063", "6005A", "6082", "7075"]
 sort_order = 1
-url_path = "/services/precision-casting/"
+url_path = "/services/custom-aluminum-extrusion/"
 
 [[products]]
-id = "machined-parts"
-category = "Machined Parts"
-material_family = "Engineering Alloys"
-material_grades = ["Alloy A", "Alloy B"]
-alloy_designations = ["A", "B"]
+id = "aluminum-heatsink-profiles"
+category = "Aluminum Heat Sink Profiles"
+material_family = "Aluminum Alloys"
+material_grades = ["6063", "6061"]
+alloy_designations = ["6063", "6061"]
 sort_order = 2
-url_path = "/services/cnc-machining/"
+url_path = "/services/aluminum-cnc-machining/"
 
 # --- Localized product descriptions ---
 
-[en.precision-castings]
-name = "Precision Castings"
-description = "Custom precision cast components in a range of engineering alloys for demanding industrial applications."
-key_properties = "Dimensional accuracy, excellent surface finish, complex geometry capability"
+[en.custom-extrusion-profiles]
+name = "Custom Aluminum Extrusion Profiles"
+description = "Custom aluminum extrusion profiles produced from customer drawings in 6061, 6063 and other alloys for a wide range of OEM applications."
+key_properties = "Custom cross-sections, tight dimensional tolerances, wide alloy range, anodizing-ready surfaces"
 
-[en.machined-parts]
-name = "Machined Parts"
-description = "Precision machined components with tight tolerances for functional and mating surfaces."
-key_properties = "Tight tolerances, excellent surface finish, complex geometry capability"
+[en.aluminum-heatsink-profiles]
+name = "Aluminum Heat Sink Profiles"
+description = "High-performance extruded aluminum heat sink profiles for thermal management in electronics, LED and power applications."
+key_properties = "High fin ratios, efficient heat dissipation, custom geometries, precision tolerances"
 
-[de.precision-castings]
-name = "Präzisionsgussteile"
-description = "Kundenspezifische Präzisionsgussteile aus Engineering-Legierungen für anspruchsvolle Industrieanwendungen."
-key_properties = "Maßgenauigkeit, erstklassige Oberfläche, komplexe Geometrie"
+[de.custom-extrusion-profiles]
+name = "Kundenspezifische Aluminium-Strangpressprofile"
+description = "Kundenspezifische Aluminium-Strangpressprofile nach Kundenzeichnung in 6061, 6063 und weiteren Legierungen für ein breites Spektrum an OEM-Anwendungen."
+key_properties = "Individuelle Querschnitte, enge Maßtoleranzen, breite Legierungsauswahl, eloxierfertige Oberflächen"
 
-[de.machined-parts]
-name = "Bearbeitete Teile"
-description = "Präzise bearbeitete Komponenten mit engen Toleranzen für Funktionselemente."
-key_properties = "Toleranzen, erstklassige Oberfläche, komplexe Geometrie"
+[de.aluminum-heatsink-profiles]
+name = "Aluminium-Kühlkörperprofile"
+description = "Hochleistungs-Aluminium-Kühlkörperprofile aus dem Strangpressverfahren für das Wärmemanagement in Elektronik-, LED- und Leistungsanwendungen."
+key_properties = "Hohe Rippenverhältnisse, effiziente Wärmeableitung, individuelle Geometrien, Präzisionstoleranzen"
 
-[ja.precision-castings]
-name = "精密鋳造部品"
-description = "厳しい産業用途向けの各種エンジニアリング合金によるカスタム精密鋳造部品。"
-key_properties = "寸法精度、優れた表面仕上がり、複雑形状対応"
+[ja.custom-extrusion-profiles]
+name = "カスタムアルミ押出形材"
+description = "お客様の図面に基づき、6061・6063などの合金で製造するカスタムアルミ押出形材。幅広いOEM用途に対応します。"
+key_properties = "カスタム断面、高い寸法精度、豊富な合金対応、陽極酸化対応の表面"
 
-[ja.machined-parts]
-name = "加工部品"
-description = "機能面・嵌合面に対して高精度な精密加工部品。"
-key_properties = "公差、優れた表面仕上がり、複雑形状対応"
+[ja.aluminum-heatsink-profiles]
+name = "アルミヒートシンク形材"
+description = "電子機器・LED・電力用途の熱管理に対応する高性能な押出アルミヒートシンク形材。"
+key_properties = "高フィン比、高効率な放熱、カスタム形状、高精度公差"
 
-[fr.precision-castings]
-name = "Pièces moulées de précision"
-description = "Pièces moulées de précision sur mesure en alliages d'ingénierie pour applications industrielles."
-key_properties = "Précision dimensionnelle, excellente finition, géométrie complexe"
+[fr.custom-extrusion-profiles]
+name = "Profilés d'aluminium extrudé sur mesure"
+description = "Profilés d'aluminium extrudé sur mesure produits d'après les plans clients en 6061, 6063 et autres alliages pour un large éventail d'applications OEM."
+key_properties = "Sections sur mesure, tolérances dimensionnelles serrées, large gamme d'alliages, surfaces prêtes à anodiser"
 
-[fr.machined-parts]
-name = "Pièces usinées"
-description = "Pièces usinées de précision avec tolérances serrées pour surfaces fonctionnelles."
-key_properties = "Tolérances, excellente finition, géométrie complexe"
+[fr.aluminum-heatsink-profiles]
+name = "Profilés de dissipateur thermique en aluminium"
+description = "Profilés de dissipateur thermique en aluminium extrudé haute performance pour la gestion thermique dans l'électronique, les LED et les applications de puissance."
+key_properties = "Rapports d'ailettes élevés, dissipation thermique efficace, géométries sur mesure, tolérances de précision"
 
-[es.precision-castings]
-name = "Piezas fundidas de precisión"
-description = "Piezas fundidas de precisión a medida en aleaciones de ingeniería para aplicaciones industriales."
-key_properties = "Precisión dimensional, excelente acabado, geometría compleja"
+[es.custom-extrusion-profiles]
+name = "Perfiles de extrusión de aluminio personalizados"
+description = "Perfiles de extrusión de aluminio personalizados producidos a partir de planos del cliente en 6061, 6063 y otras aleaciones para una amplia gama de aplicaciones OEM."
+key_properties = "Secciones personalizadas, tolerancias dimensionales ajustadas, amplia gama de aleaciones, superficies listas para anodizar"
 
-[es.machined-parts]
-name = "Piezas mecanizadas"
-description = "Piezas mecanizadas de precisión con tolerancias ajustadas para superficies funcionales."
-key_properties = "Tolerancias, excelente acabado, geometría compleja"
+[es.aluminum-heatsink-profiles]
+name = "Perfiles de disipador de calor de aluminio"
+description = "Perfiles de disipador de calor de aluminio extruido de alto rendimiento para la gestión térmica en electrónica, LED y aplicaciones de potencia."
+key_properties = "Altas relaciones de aletas, disipación de calor eficiente, geometrías personalizadas, tolerancias de precisión"

@@ -1,7 +1,7 @@
 # ==========================================================================
-# organization.toml — Organization Identity [SITE LAYER] (TEMPLATE PLACEHOLDER)
+# organization.toml — Organization Identity [SITE LAYER]
 # ==========================================================================
-# >>> EDIT THIS FILE with your company identity. <<<
+# >>> Alusat company identity. <<<
 # Feeds Organization, ManufacturingBusiness, and WebSite schemas (JSON-LD is
 # generated automatically by layouts/partials/schema/*.html).
 # Brand name/email/logo also fall back to config/_default/params.toml.
@@ -14,66 +14,66 @@
 # --- Multilingual metadata (rendered at Organization level) ---
 
 [en]
-name = "Industrial Manufacturer"
-description = "Industrial manufacturer providing precision casting, CNC machining and engineering components for industrial customers worldwide."
+name = "Alusat"
+description = "Alusat is a professional aluminum extrusion manufacturer in Dongguan, China, providing custom aluminum profiles, extrusion fabrication, CNC machining and surface finishing solutions for global OEM customers."
 keywords = [
-  "Precision Casting",
-  "CNC Machining",
-  "Investment Casting",
-  "Custom Manufacturing",
-  "Engineering Components"
+  "Aluminum Extrusion Manufacturer",
+  "Custom Aluminum Profiles",
+  "Aluminum Extrusion Fabrication",
+  "Aluminum CNC Machining",
+  "Aluminum Surface Finishing"
 ]
-site_title = "Industrial Manufacturer"
-slogan = "Precision Manufacturing & Engineering"
+site_title = "Alusat"
+slogan = "Aluminum Extrusion Manufacturer"
 
 [de]
-name = "Industrial Manufacturer"
-description = "Industrieunternehmen für Präzisionsguss, CNC-Bearbeitung und Engineering-Bauteile für Kunden weltweit."
+name = "Alusat"
+description = "Alusat ist ein professioneller Aluminium-Strangpresshersteller in Dongguan, China, und bietet kundenspezifische Aluminiumprofile, Strangpress-Weiterverarbeitung, CNC-Bearbeitung und Oberflächenveredelung für OEM-Kunden weltweit."
 keywords = [
-  "Präzisionsguss",
-  "CNC-Bearbeitung",
-  "Investment Casting",
-  "Kundenfertigung",
-  "Engineering-Komponenten"
+  "Aluminium-Strangpresshersteller",
+  "Kundenspezifische Aluminiumprofile",
+  "Aluminium-Strangpress-Weiterverarbeitung",
+  "Aluminium-CNC-Bearbeitung",
+  "Aluminium-Oberflächenveredelung"
 ]
-site_title = "Industrial Manufacturer"
-slogan = "Präzisionsfertigung & Engineering"
+site_title = "Alusat"
+slogan = "Aluminium-Strangpresshersteller"
 
 [ja]
-name = "Industrial Manufacturer"
-description = "世界の産業顧客向けに、精密鋳造・CNC加工・エンジニアリング部品を提供する工業メーカー。"
+name = "Alusat"
+description = "Alusatは中国・東莞に拠点を置くアルミ押出専門メーカーで、世界のOEM顧客向けにカスタムアルミ形材、押出加工、CNC機械加工、表面処理ソリューションを提供します。"
 keywords = [
-  "精密鋳造",
-  "CNC加工",
-  "インベストメント鋳造",
-  "カスタム製造",
-  "エンジニアリング部品"
+  "アルミ押出メーカー",
+  "カスタムアルミ形材",
+  "アルミ押出加工",
+  "アルミCNC機械加工",
+  "アルミ表面処理"
 ]
-site_title = "Industrial Manufacturer"
-slogan = "精密製造とエンジニアリング"
+site_title = "Alusat"
+slogan = "アルミ押出メーカー"
 
 [fr]
-name = "Industrial Manufacturer"
-description = "Fabricant industriel proposant la fonderie de précision, l'usinage CNC et des composants d'ingénierie pour les clients du monde entier."
+name = "Alusat"
+description = "Alusat est un fabricant professionnel de profilés d'aluminium par extrusion à Dongguan, en Chine, proposant des profilés aluminium sur mesure, la fabrication d'extrusion, l'usinage CNC et la finition de surface pour les clients OEM du monde entier."
 keywords = [
-  "Fonderie de précision",
-  "Usinage CNC",
-  "Moulage de précision",
-  "Fabrication sur mesure",
-  "Composants d'ingénierie"
+  "Fabricant d'extrusion d'aluminium",
+  "Profilés d'aluminium sur mesure",
+  "Fabrication d'extrusion d'aluminium",
+  "Usinage CNC d'aluminium",
+  "Finition de surface de l'aluminium"
 ]
-site_title = "Industrial Manufacturer"
-slogan = "Fabrication de précision & ingénierie"
+site_title = "Alusat"
+slogan = "Fabricant d'extrusion d'aluminium"
 
 [es]
-name = "Industrial Manufacturer"
-description = "Fabricante industrial que ofrece fundición de precisión, mecanizado CNC y componentes de ingeniería para clientes de todo el mundo."
+name = "Alusat"
+description = "Alusat es un fabricante profesional de extrusión de aluminio en Dongguan, China, que ofrece perfiles de aluminio personalizados, fabricación de extrusión, mecanizado CNC y acabado de superficies para clientes OEM de todo el mundo."
 keywords = [
-  "Fundición de precisión",
-  "Mecanizado CNC",
-  "Fundición a la cera perdida",
-  "Fabricación a medida",
-  "Componentes de ingeniería"
+  "Fabricante de extrusión de aluminio",
+  "Perfiles de aluminio personalizados",
+  "Fabricación de extrusión de aluminio",
+  "Mecanizado CNC de aluminio",
+  "Acabado de superficies de aluminio"
 ]
-site_title = "Industrial Manufacturer"
-slogan = "Fabricación de precisión e ingeniería"
+site_title = "Alusat"
+slogan = "Fabricante de extrusión de aluminio"

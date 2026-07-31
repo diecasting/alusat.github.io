@@ -1,27 +1,28 @@
 # ==========================================================================
-# manufacturing.toml — Manufacturing Capabilities [SITE LAYER] (TEMPLATE EXAMPLE)
+# manufacturing.toml — Manufacturing Capabilities [SITE LAYER]
 # ==========================================================================
-# Feeds ManufacturingBusiness "knowsAbout" and capabilities sections.
-# CUSTOMIZE: describe your process, equipment and materials.
+# Feeds ManufacturingBusiness "knowsAbout"/"owns" and capabilities sections.
+# Describes Alusat's aluminum extrusion process, equipment and materials.
 # ==========================================================================
 
 # --- Language-neutral equipment & process identifiers ---
 
 [equipment]
 key_equipment = [
-  "Pattern / Tooling Production",
-  "Shell Molding Line",
-  "Melting Furnaces",
+  "Aluminum Extrusion Presses",
+  "Extrusion Die Design & Tooling",
+  "Aging / Heat-Treatment Ovens",
   "CNC Machining Centers",
-  "CMM Dimensional Inspection",
-  "Material Spectrometer"
+  "Anodizing & Powder Coating Lines",
+  "CMM Dimensional Inspection"
 ]
 
 [processes]
 core_processes = [
-  "pattern-making",
-  "shell-building",
-  "pouring",
+  "die-design",
+  "billet-heating",
+  "extrusion",
+  "aging-heat-treatment",
   "cnc-machining",
   "surface-finishing",
   "quality-inspection"
@@ -31,85 +32,95 @@ core_processes = [
 
 [en]
 knows_about = [
-  "Precision Casting Process",
-  "Lost Wax / Investment Casting for complex geometries",
-  "Precision CNC Machining of castings",
-  "Surface Finishing: polishing, passivation, blasting",
-  "Quality Assurance: CMM inspection, spectrometry, NDT"
+  "Aluminum Extrusion Process",
+  "Custom Aluminum Profile & Die Design",
+  "Extrusion Fabrication: cutting, drilling, bending, welding",
+  "Precision CNC Machining of aluminum profiles",
+  "Surface Finishing: anodizing, powder coating, polishing",
+  "Quality Assurance: CMM inspection, alloy verification"
 ]
-capabilities_description = "Integrated manufacturing of precision components with in-house tooling, machining and quality control."
-materials_primary = ["Alloy A", "Alloy B", "Alloy C"]
+capabilities_description = "Integrated aluminum extrusion manufacturing with in-house die design, extrusion, fabrication, CNC machining, surface finishing and quality control."
+materials_primary = ["6061", "6063", "6005A", "6082", "7075"]
 process_types = [
-  "Precision Casting",
-  "Pattern Production",
+  "Aluminum Extrusion",
+  "Custom Die Design",
+  "Extrusion Fabrication",
   "CNC Machining",
-  "Surface Finishing & Passivation"
+  "Surface Finishing (Anodizing & Powder Coating)"
 ]
 
 [de]
 knows_about = [
-  "Präzisionsgussverfahren",
-  "Wachsausschmelzverfahren für komplexe Geometrien",
-  "Präzise CNC-Bearbeitung von Gussteilen",
-  "Oberflächenveredelung: Polieren, Passivieren, Strahlen",
-  "Qualitätssicherung: CMM, Spektrometrie, ZfP"
+  "Aluminium-Strangpressverfahren",
+  "Kundenspezifisches Aluminiumprofil- & Werkzeugdesign",
+  "Strangpress-Weiterverarbeitung: Schneiden, Bohren, Biegen, Schweißen",
+  "Präzise CNC-Bearbeitung von Aluminiumprofilen",
+  "Oberflächenveredelung: Eloxieren, Pulverbeschichten, Polieren",
+  "Qualitätssicherung: CMM-Prüfung, Legierungsanalyse"
 ]
-capabilities_description = "Integrierte Fertigung von Präzisionsbauteilen mit eigenem Werkzeugbau, Bearbeitung und Qualitätskontrolle."
-materials_primary = ["Legierung A", "Legierung B", "Legierung C"]
+capabilities_description = "Integrierte Aluminium-Strangpressfertigung mit eigenem Werkzeugdesign, Strangpressen, Weiterverarbeitung, CNC-Bearbeitung, Oberflächenveredelung und Qualitätskontrolle."
+materials_primary = ["6061", "6063", "6005A", "6082", "7075"]
 process_types = [
-  "Präzisionsguss",
-  "Modellherstellung",
+  "Aluminium-Strangpressen",
+  "Kundenspezifisches Werkzeugdesign",
+  "Strangpress-Weiterverarbeitung",
   "CNC-Bearbeitung",
-  "Oberflächenveredelung & Passivierung"
+  "Oberflächenveredelung (Eloxieren & Pulverbeschichten)"
 ]
 
 [ja]
 knows_about = [
-  "精密鋳造プロセス",
-  "複雑形状向けロストワックス鋳造",
-  "鋳物の精密CNC機械加工",
-  "表面処理：研磨・不動態化・ブラスト",
-  "品質保証：三次元測定・分光分析・非破壊検査"
+  "アルミ押出プロセス",
+  "カスタムアルミ形材・金型設計",
+  "押出加工：切断・穴あけ・曲げ・溶接",
+  "アルミ形材の精密CNC機械加工",
+  "表面処理：陽極酸化・粉体塗装・研磨",
+  "品質保証：三次元測定・合金分析"
 ]
-capabilities_description = "自社金型・加工・品質管理によるプレシジョン部品の統合製造。"
-materials_primary = ["合金A", "合金B", "合金C"]
+capabilities_description = "自社金型設計・押出・加工・CNC機械加工・表面処理・品質管理によるアルミ押出の統合製造。"
+materials_primary = ["6061", "6063", "6005A", "6082", "7075"]
 process_types = [
-  "精密鋳造",
-  "パターン製作",
-  "精密CNC機械加工",
-  "表面処理・不動態化"
+  "アルミ押出",
+  "カスタム金型設計",
+  "押出加工",
+  "CNC機械加工",
+  "表面処理（陽極酸化・粉体塗装）"
 ]
 
 [fr]
 knows_about = [
-  "Procédé de moulage de précision",
-  "Moulage à la cire perdue pour géométries complexes",
-  "Usinage CNC de précision des pièces",
-  "Finition: polissage, passivation, grenaillage",
-  "Assurance qualité: MMT, spectrométrie, CND"
+  "Procédé d'extrusion d'aluminium",
+  "Conception sur mesure de profilés et de matrices",
+  "Fabrication d'extrusion : coupe, perçage, cintrage, soudure",
+  "Usinage CNC de précision des profilés aluminium",
+  "Finition de surface : anodisation, peinture poudre, polissage",
+  "Assurance qualité : contrôle MMT, analyse des alliages"
 ]
-capabilities_description = "Fabrication intégrée de composants de précision avec outillage, usinage et contrôle qualité internes."
-materials_primary = ["Alliage A", "Alliage B", "Alliage C"]
+capabilities_description = "Fabrication intégrée d'extrusion d'aluminium avec conception de matrices, extrusion, fabrication, usinage CNC, finition de surface et contrôle qualité en interne."
+materials_primary = ["6061", "6063", "6005A", "6082", "7075"]
 process_types = [
-  "Moulage de précision",
-  "Production de modèles",
+  "Extrusion d'aluminium",
+  "Conception de matrices sur mesure",
+  "Fabrication d'extrusion",
   "Usinage CNC",
-  "Finition & passivation"
+  "Finition de surface (anodisation & peinture poudre)"
 ]
 
 [es]
 knows_about = [
-  "Proceso de fundición de precisión",
-  "Fundición a la cera perdida para geometrías complejas",
-  "Mecanizado CNC de precisión de piezas",
-  "Acabado: pulido, pasivado, granallado",
-  "Garantía de calidad: CMM, espectrometría, END"
+  "Proceso de extrusión de aluminio",
+  "Diseño personalizado de perfiles y matrices",
+  "Fabricación de extrusión: corte, taladrado, curvado, soldadura",
+  "Mecanizado CNC de precisión de perfiles de aluminio",
+  "Acabado de superficies: anodizado, recubrimiento en polvo, pulido",
+  "Garantía de calidad: inspección CMM, análisis de aleaciones"
 ]
-capabilities_description = "Fabricación integrada de componentes de precisión con utillaje, mecanizado y control de calidad propios."
-materials_primary = ["Aleación A", "Aleación B", "Aleación C"]
+capabilities_description = "Fabricación integrada de extrusión de aluminio con diseño de matrices, extrusión, fabricación, mecanizado CNC, acabado de superficies y control de calidad propios."
+materials_primary = ["6061", "6063", "6005A", "6082", "7075"]
 process_types = [
-  "Fundición de precisión",
-  "Producción de modelos",
+  "Extrusión de aluminio",
+  "Diseño de matrices personalizado",
+  "Fabricación de extrusión",
   "Mecanizado CNC",
-  "Acabado y pasivado"
+  "Acabado de superficies (anodizado y recubrimiento en polvo)"
 ]
