@@ -1,0 +1,130 @@
+# ==========================================================================
+# params.toml — Industrial Manufacturer Template (SITE PARAMETERS)
+# ==========================================================================
+# >>> BRAND IDENTITY LIVES IN config/branding/*.toml (company / contact /
+# seo / schema). Edit those files to brand your site. <<<
+# This file holds non-branded site behaviour only.
+# ==========================================================================
+
+[Author]
+  name = "Industrial Manufacturer"
+  email = "sales@example.com"
+
+# --- Feature flags ---
+[features]
+  enableSearch = false
+  enableBlog = false
+  enableRFQ = true
+  enableMultilingual = true
+
+# --- Homepage configuration ---
+[homepage]
+  showServices = true
+  showIndustries = true
+  showCertifications = true
+  showProcess = true
+
+# --- Footer ---
+[footer]
+  copyright = "Industrial Manufacturer. All rights reserved."
+  showLegalLinks = false
+
+# --- Conversion band (cta-band.html, before footer) ---
+[cta]
+  title = "Need Custom Manufactured Components?"
+  subtitle = "Send us your drawings and specifications — our engineering team reviews feasibility and replies with a quotation."
+
+# >>> BRANDING SYNC START (auto-generated from config/branding/*.toml; do not edit by hand) >>>
+
+# ==========================================================================
+# company.toml — Brand Identity (EDIT THIS TO BRAND YOUR SITE)
+# ==========================================================================
+# This is the SINGLE SOURCE OF TRUTH for brand identity.
+# It is merged into config/_default/params.toml by scripts/sync-branding.py
+# (run by scripts/init-site.sh locally and by the GitHub Actions workflow).
+# Hugo only auto-loads config/_default/params.toml, so the merge is required.
+# Templates read these values as .Site.Params.company.*
+# ==========================================================================
+
+[company]
+  name = "Alusat"
+  tagline = "Aluminum Extrusion Manufacturer"
+
+  [company.branding]
+    # Absolute or root-relative logo URL (PNG/SVG). Empty = text wordmark.
+    logo = ""
+    # 1-3 letter monogram shown in the header logo mark.
+    # Empty = first 2 letters of company.name.
+    logo_mark = "AL"
+    # Small text under the wordmark. Empty = company.tagline.
+    logo_subtitle = "Aluminum Extrusion Manufacturer"
+
+# ==========================================================================
+# contact.toml — Contact Details (EDIT THIS TO BRAND YOUR SITE)
+# ==========================================================================
+# SINGLE SOURCE OF TRUTH for contact details. Merged into
+# config/_default/params.toml by scripts/sync-branding.py.
+# Templates read these values as .Site.Params.contact.*
+# ==========================================================================
+
+[contact]
+  email = "hank@alusat.com"
+  phone = ""
+  address = "Dongguan, Guangdong, China"
+
+  # RFQ form endpoint (Formspree / HubSpot / etc. action URL).
+  # If LEFT EMPTY, the RFQ form is replaced by an email CTA (graceful fallback).
+  form_action = "https://formspree.io/f/mlgqkkvj"
+
+# ==========================================================================
+# seo.toml — Site-wide SEO Defaults (EDIT THIS TO BRAND YOUR SITE)
+# ==========================================================================
+# SINGLE SOURCE OF TRUTH for site-wide SEO defaults. Merged into
+# config/_default/params.toml by scripts/sync-branding.py.
+# Templates read these values as .Site.Params.seo.*
+# Per-page front matter `description` / `seo` overrides these.
+# IMPORTANT: keep `description` inside [params.seo] so it resolves as
+# .Site.Params.seo.description (the site-wide meta-description fallback).
+# ==========================================================================
+
+[seo]
+  description = "Alusat is a professional aluminum extrusion manufacturer in Dongguan, China, providing custom aluminum profiles, extrusion fabrication, CNC machining and surface finishing solutions for global OEM customers."
+  keywords = ["aluminum extrusion manufacturer", "custom aluminum profiles", "aluminum extrusion services", "aluminum fabrication services", "CNC machining aluminum", "aluminum surface finishing", "OEM aluminum extrusion China"]
+
+# ==========================================================================
+# schema.toml — Brand Identity for Structured Data (EDIT THIS TO BRAND)
+# ==========================================================================
+# SINGLE SOURCE OF TRUTH for brand identity in structured data. Merged into
+# config/_default/params.toml by scripts/sync-branding.py.
+# Consumed by the schema engine (Organization, ManufacturingBusiness,
+# WebSite, Geo) as .Site.Params.schema.*
+# Multi-language marketing text (name/description/keywords) stays in
+# data/schema/organization.toml; this file holds brand identity only.
+# ==========================================================================
+
+[schema]
+  legalName = "Alusat"
+  url = "https://alusat.com/"
+  logo = ""   # Absolute or root-relative logo URL. Empty = no logo in schema.
+  images = ["https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp", "https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"]
+
+  addressLocality = "Dongguan"
+  addressRegion = "Guangdong"
+  addressCountry = "CN"
+  contactEmail = "hank@alusat.com"
+  contactPhone = ""
+
+  # Geographic coordinates of the primary facility (used for Geo schema).
+  latitude = 23.0207
+  longitude = 113.7518
+
+  # Social / external profiles -> Organization schema `sameAs`.
+  [schema.sameAs]
+    linkedin = "https://www.linkedin.com/company/alusat"
+    twitter = ""
+    youtube = ""
+
+  # Certifications surfaced in ManufacturingBusiness schema.
+  certifications = ["ISO 9001", "IATF 16949"]
+
+# <<< BRANDING SYNC END <<<
