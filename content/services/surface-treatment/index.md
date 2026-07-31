@@ -117,6 +117,6 @@ We review finish selection against the service environment and part geometry, an
 - [Sheet Metal Fabrication](/services/sheet-metal-fabrication/)
 - [Chemical Processing Industry](/industries/chemical-processing/)
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

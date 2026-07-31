@@ -118,6 +118,6 @@ Our engineering team reviews every drawing for datum scheme, tolerances and feat
 - [Surface Treatment & Finishing](/services/surface-treatment/)
 - [Automotive Industry](/industries/automotive/)
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

@@ -81,6 +81,6 @@ We machine carbon steel, aluminum, stainless and brass, selected per application
 
 Send your drawings, volumes and tolerances and our engineering team will respond with a quotation.
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

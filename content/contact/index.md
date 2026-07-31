@@ -28,7 +28,7 @@ Reach the Industrial Manufacturer team for quotes, engineering support and manuf
 
 ## Direct Contact
 
-- **Email:** [sales@example.com](mailto:sales@example.com)
+- **Email:** [hank@alusat.com](mailto:hank@alusat.com)
 - **Phone:** — *(set `params.contact.phone`)*
 - **Address:** — *(set `params.contact.address`)*
 

@@ -81,6 +81,6 @@ We cast 316 and duplex stainless as standard and review high-alloy grades per ap
 
 Describe the media, component, grade, quantity and tolerances and we will return a quotation.
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

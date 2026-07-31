@@ -81,6 +81,6 @@ We cast 304 and 316 stainless and duplex grades, selected for the process, and s
 
 Tell us the component, grade, quantity and finish and we will return a quotation.
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

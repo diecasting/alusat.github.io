@@ -1,15 +1,29 @@
 # ==========================================================================
-# hugo.toml — Industrial Manufacturer Template (Multilingual Configuration)
+# hugo.toml — Alusat (Multilingual Configuration)
 # ==========================================================================
-# >>> EDIT baseURL (and optionally title) for your site. <<<
 # Base content language: English (en) at site root.
 # Secondary languages served under language prefixes: /de/ /ja/ /fr/ /es/
 # All other branding lives in config/_default/params.toml.
 # ==========================================================================
+#
+# DEPLOYMENT / baseURL
+# --------------------------------------------------------------------------
+# Current target: GitHub Pages PROJECT site for repo diecasting/alusat.github.io
+#   -> served at https://diecasting.github.io/alusat.github.io/
+# The path prefix (/alusat.github.io/) is REQUIRED for a project page so that
+# all asset, canonical, hreflang, sitemap and JSON-LD URLs resolve correctly.
+#
+# CUSTOM DOMAIN (future alusat.com) — 2-step switch, kept ready:
+#   1. Change baseURL below to:  "https://alusat.com/"
+#   2. Rename  static/CNAME.example  ->  static/CNAME   (content: alusat.com)
+#      (Hugo copies static/CNAME into public/, which GitHub Pages reads to bind
+#       the custom domain.) No layout or schema changes needed — every URL is
+#       derived from baseURL via .Permalink.
+# ==========================================================================
 
-baseURL = "https://example.com/"
+baseURL = "https://diecasting.github.io/alusat.github.io/"
 locale = "en-US"
-title = "Industrial Manufacturer"
+title = "Alusat"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true

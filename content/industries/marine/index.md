@@ -81,6 +81,6 @@ We cast bronze, stainless, duplex stainless and aluminum, selected for the duty,
 
 Describe the component, material, quantity and service environment and we will return a quotation.
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

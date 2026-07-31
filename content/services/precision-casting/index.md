@@ -129,6 +129,6 @@ Industrial Manufacturer is ready to support your next program.
 - [Surface Treatment & Finishing](/services/surface-treatment/)
 - [Pump & Valve Industry](/industries/pump-valve/)
 
-You can also email **sales@example.com**.
+You can also email **hank@alusat.com**.
 
 {{< rfq_form >}}

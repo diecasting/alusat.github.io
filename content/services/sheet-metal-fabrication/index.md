@@ -118,6 +118,6 @@ We review every flat pattern for bend allowances, weld access and finish require
 - [Surface Treatment & Finishing](/services/surface-treatment/)
 - [Food Machinery Industry](/industries/food-machinery/)
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

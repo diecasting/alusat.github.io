@@ -81,6 +81,6 @@ We cast stainless, duplex stainless, bronze and carbon steel, selected to the se
 
 Tell us the fluid, pressure, material and quantities and we will return a quotation.
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}

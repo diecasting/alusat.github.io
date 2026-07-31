@@ -113,6 +113,6 @@ We review assemblies for join accessibility, test points and packaging early, an
 - [Sheet Metal Fabrication](/services/sheet-metal-fabrication/)
 - [Automotive Industry](/industries/automotive/)
 
-Email **sales@example.com** or use the form below.
+Email **hank@alusat.com** or use the form below.
 
 {{< rfq_form >}}
