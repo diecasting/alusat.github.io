@@ -10,10 +10,7 @@ service: "Sheet Metal Fabrication"
 materials: ["Stainless Steel", "Carbon Steel", "Aluminum", "Galvanized Steel"]
 applications: ["Enclosures", "Brackets", "Panels", "Structural frames"]
 industries: ["Automotive", "Food Machinery", "Marine", "Chemical Processing"]
-internal_linking:
-  - "/services/cnc-machining/"
-  - "/services/surface-treatment/"
-  - "/industries/food-machinery/"
+internal_linking: ["fabrication-services", "cnc-machining", "complex-profiles"]
 seo:
   meta_title: "Sheet Metal Fabrication — Laser Cutting, Bending & Welding | Industrial Manufacturer"
   meta_description: "Sheet metal fabrication services: laser cutting, bending and welding of enclosures, brackets and structural parts with consistent quality."

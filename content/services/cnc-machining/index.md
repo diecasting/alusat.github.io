@@ -10,10 +10,7 @@ service: "CNC Machining"
 materials: ["Stainless Steel", "Aluminum", "Carbon Steel", "Brass"]
 applications: ["Brackets", "Housings", "Sensor bodies", "Sealing faces"]
 industries: ["Automotive", "Pump & Valve", "Marine", "Food Machinery"]
-internal_linking:
-  - "/services/precision-casting/"
-  - "/services/surface-treatment/"
-  - "/industries/automotive/"
+internal_linking: ["cnc-machining", "fabrication-services", "quality-control"]
 seo:
   meta_title: "CNC Machining Services — Milling & Turning | Industrial Manufacturer"
   meta_description: "Multi-axis CNC milling and turning services bringing cast and forged components to tight, repeatable tolerances with full inspection."

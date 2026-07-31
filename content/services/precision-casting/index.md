@@ -10,10 +10,7 @@ service: "Precision Casting"
 materials: ["Stainless Steel", "Carbon Steel", "Alloy Steel", "Bronze"]
 applications: ["Pump bodies", "Valve housings", "Impellers", "Structural brackets"]
 industries: ["Pump & Valve", "Marine", "Automotive", "Food Machinery"]
-internal_linking:
-  - "/services/cnc-machining/"
-  - "/services/surface-treatment/"
-  - "/industries/pump-valve/"
+internal_linking: ["extrusion-services", "manufacturing-process", "oem-extrusion"]
 seo:
   meta_title: "Precision Casting Services — Investment & Sand Casting | Industrial Manufacturer"
   meta_description: "Precision casting services producing complex, near-net-shape components with tight tolerances, in-house machining and full quality inspection."

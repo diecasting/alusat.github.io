@@ -6,7 +6,15 @@ sections:
   - hero
   - capabilities
   - process
+  - resources
   - rfq
+internal_linking:
+  - extrusion-services
+  - fabrication-services
+  - cnc-machining
+  - surface-finishing
+  - oem-extrusion
+  - complex-profiles
 schema:
   faq:
     - question: "What aluminum alloys does Alusat extrude?"

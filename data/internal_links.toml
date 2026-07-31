@@ -1,0 +1,72 @@
+# ==========================================================================
+# internal_links.toml — Alusat WordPress internal-linking registry
+# ==========================================================================
+# Canonical source for SEO internal links that point to Alusat's main
+# WordPress site (https://alusat.com/). These are EXTERNAL links used to pass
+# topical relevance and link equity to the primary commercial pages.
+#
+# IMPORTANT: We do NOT copy or import any WordPress content — only link to it
+# with descriptive, natural anchor text.
+#
+# Consumed by:
+#   - layouts/partials/related-resources.html   (core renderer)
+#   - layouts/partials/sections/resources.html  (homepage section engine)
+#   - layouts/partials/footer.html              (footer "Resources" column)
+#
+# Pages select which links to show via front matter `internal_linking = [...]`
+# (an ordered array of the keys below). The curated ordered lists here
+# (homepage / footer / service_default) are used as sensible fallbacks.
+# ==========================================================================
+
+base = "https://alusat.com"
+
+# --- Curated ordered selections (arrays preserve order; avoid excessive links) ---
+homepage       = ["extrusion-services", "fabrication-services", "cnc-machining", "surface-finishing", "oem-extrusion", "complex-profiles"]
+footer         = ["extrusion-services", "cnc-machining", "surface-finishing", "factory-equipment", "quality-control"]
+service_default = ["extrusion-services", "fabrication-services", "cnc-machining", "surface-finishing"]
+
+# --- Link registry (key -> url / anchor text / short description) ---
+[links.extrusion-services]
+  url  = "https://alusat.com/aluminum-extrusion-services/"
+  text = "Aluminum Extrusion Services"
+  desc = "Full-service aluminum extrusion production for custom profiles and OEM programs."
+
+[links.fabrication-services]
+  url  = "https://alusat.com/custom-aluminum-extrusion-fabrication-services/"
+  text = "Custom Aluminum Extrusion Fabrication Services"
+  desc = "Precision cutting, machining, drilling, bending, welding and assembly of extruded profiles."
+
+[links.cnc-machining]
+  url  = "https://alusat.com/aluminum-cnc-machining-services/"
+  text = "Aluminum CNC Machining Services"
+  desc = "Multi-axis CNC machining of aluminum profiles and components to tight tolerances."
+
+[links.surface-finishing]
+  url  = "https://alusat.com/aluminum-surface-finishing-services/"
+  text = "Aluminum Surface Finishing Services"
+  desc = "Anodizing, powder coating, polishing and brushing for durable, attractive finishes."
+
+[links.manufacturing-process]
+  url  = "https://alusat.com/aluminum-extrusion-manufacturing-process/"
+  text = "Aluminum Extrusion Manufacturing Process"
+  desc = "How Alusat turns aluminum billet into finished profiles, step by step."
+
+[links.oem-extrusion]
+  url  = "https://alusat.com/oem-aluminum-extrusion/"
+  text = "OEM Aluminum Extrusion"
+  desc = "Dedicated OEM aluminum extrusion partner for global manufacturers and brands."
+
+[links.complex-profiles]
+  url  = "https://alusat.com/complex-aluminum-extrusion-profiles-manufacturer/"
+  text = "Complex Aluminum Extrusion Profiles Manufacturer"
+  desc = "Thin-wall, hollow and multi-void complex aluminum profile capability."
+
+[links.factory-equipment]
+  url  = "https://alusat.com/factory-equipment/"
+  text = "Factory & Equipment"
+  desc = "Extrusion presses, aging ovens, CNC centers and inspection equipment on site."
+
+[links.quality-control]
+  url  = "https://alusat.com/aluminum-extrusion-quality-control/"
+  text = "Aluminum Extrusion Quality Control"
+  desc = "CMM inspection, dimensional verification and full traceability on every order."

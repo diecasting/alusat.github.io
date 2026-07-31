@@ -10,10 +10,7 @@ service: "Surface Treatment & Finishing"
 materials: ["Stainless Steel", "Aluminum", "Carbon Steel", "Brass"]
 applications: ["Corrosion protection", "Wear resistance", "Appearance", "Electrical insulation"]
 industries: ["Chemical Processing", "Marine", "Food Machinery", "Automotive"]
-internal_linking:
-  - "/services/cnc-machining/"
-  - "/services/sheet-metal-fabrication/"
-  - "/industries/chemical-processing/"
+internal_linking: ["surface-finishing", "quality-control", "extrusion-services"]
 seo:
   meta_title: "Surface Treatment & Finishing — Coating, Anodizing, Plating | Industrial Manufacturer"
   meta_description: "Surface treatment and finishing services: passivation, anodizing, powder coating and plating to protect parts and meet appearance specs."

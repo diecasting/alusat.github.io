@@ -1,0 +1,59 @@
+{{- /* =========================================================================
+   related-resources.html — SEO internal-linking renderer (Alusat)
+   ==========================================================================
+   Renders a "Related Resources" block of descriptive links, primarily to
+   Alusat's main WordPress site (https://alusat.com/). We only LINK to that
+   content with natural anchor text — no WordPress content is copied.
+
+   Call with a dict:
+     {{ partial "related-resources.html" (dict
+          "keys"  <slice of entries>     (required; order preserved)
+          "title" "Related Resources"    (optional heading)
+          "lead"  "Optional intro line"  (optional)
+     ) }}
+
+   Each entry in `keys` may be ANY of (dual-mode, backward compatible with the
+   template's original internal_linking capability):
+     1. a registry key  -> resolved from data/internal_links.toml .links.<key>
+                           (rich anchor text + description)      [preferred]
+     2. a URL string    -> "https://…" or "/path/" (anchor text derived
+                           from the final slug)                  [fallback]
+     3. an inline map   -> { url = "…", text = "…", desc = "…" } [advanced]
+
+   Renders nothing if no valid entries resolve (no empty block).
+   ========================================================================= */ -}}
+{{- $reg := hugo.Data.internal_links -}}
+{{- $title := .title -}}
+{{- $lead := .lead -}}
+{{- $items := slice -}}
+{{- range $e := .keys -}}
+  {{- if reflect.IsMap $e -}}
+    {{- /* inline object */ -}}
+    {{- $items = $items | append $e -}}
+  {{- else -}}
+    {{- $hit := index $reg.links $e -}}
+    {{- if $hit -}}
+      {{- $items = $items | append $hit -}}
+    {{- else if or (hasPrefix $e "http") (hasPrefix $e "/") -}}
+      {{- $slug := path.Base (trim $e "/") -}}
+      {{- $text := $slug | replaceRE "[-_]" " " | title -}}
+      {{- $items = $items | append (dict "url" $e "text" $text "desc" "") -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with $items -}}
+<div class="related-resources">
+  {{- with $title }}<h2 class="section-title">{{ . }}</h2>{{ end -}}
+  {{- with $lead }}<p class="section-description">{{ . }}</p>{{ end -}}
+  <ul class="resources-grid">
+    {{- range . -}}
+    <li class="resource-card">
+      <a class="resource-link" href="{{ .url }}">
+        <span class="resource-title">{{ .text }}</span>
+        {{- with .desc }}<span class="resource-desc">{{ . }}</span>{{ end -}}
+      </a>
+    </li>
+    {{- end -}}
+  </ul>
+</div>
+{{- end -}}

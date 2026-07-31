@@ -13,6 +13,18 @@
         {{ end }}
       </ul>
     </div>
+    {{- with hugo.Data.internal_links -}}
+    {{- with .footer -}}
+    <div class="footer-col">
+      <h4>Resources</h4>
+      <ul>
+        {{- range . -}}
+        {{- with (index hugo.Data.internal_links.links .) }}<li><a href="{{ .url }}">{{ .text }}</a></li>{{ end -}}
+        {{- end -}}
+      </ul>
+    </div>
+    {{- end -}}
+    {{- end -}}
     <div class="footer-col">
       <h4>Contact</h4>
       <ul>

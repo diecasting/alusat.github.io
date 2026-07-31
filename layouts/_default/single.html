@@ -18,4 +18,14 @@
   </footer>
   {{ end }}
 </article>
+
+{{- /* Related Resources — SEO internal links (renders only when the page
+   declares `internal_linking` keys in front matter). */ -}}
+{{- with .Params.internal_linking -}}
+<section class="section section-related section-alt">
+  <div class="container">
+    {{ partial "related-resources.html" (dict "keys" . "title" "Related Resources") }}
+  </div>
+</section>
+{{- end -}}
 {{ end }}

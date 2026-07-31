@@ -10,10 +10,7 @@ service: "Assembly & Value-Added Services"
 materials: ["Stainless Steel", "Aluminum", "Carbon Steel", "Plastic"]
 applications: ["Modules", "Kits", "Tested units", "Packaged sets"]
 industries: ["Automotive", "Pump & Valve", "Food Machinery", "Marine"]
-internal_linking:
-  - "/services/precision-casting/"
-  - "/services/sheet-metal-fabrication/"
-  - "/industries/automotive/"
+internal_linking: ["fabrication-services", "oem-extrusion", "quality-control"]
 seo:
   meta_title: "Assembly & Value-Added Services — Sub-Assembly, Kitting, Testing | Industrial Manufacturer"
   meta_description: "Assembly and value-added services: sub-assembly, kitting, functional testing and packaging that deliver finished, inspection-ready modules."
