@@ -15,18 +15,18 @@ issue_authority = "International Organization for Standardization"
 url = "https://www.iso.org/standard/62085.html"
 
 [[certifications]]
-id = "iatf-16949"
-code = "IATF 16949"
+id = "quality-control"
+code = "Quality Control"
 sort_order = 2
-issue_authority = "International Automotive Task Force"
-url = "https://www.iatfglobaloversight.org/"
+issue_authority = "Alusat In-House Quality System"
+url = ""
 
 # --- Localized descriptions ---
 
 [en.iso-9001]
 name = "ISO 9001 Quality Management System"
-description = "International standard for quality management systems, ensuring consistent product quality and continuous improvement."
+description = "International standard for quality management systems, ensuring consistent product quality and continuous improvement across our aluminum extrusion and machining operations."
 
-[en.iatf-16949]
-name = "IATF 16949 Automotive Quality Management"
-description = "Automotive industry standard for quality management systems, specifying requirements for automotive production and service parts organizations."
+[en.quality-control]
+name = "Quality Control Capability"
+description = "In-house CMM inspection, alloy verification, dimensional checking and full production traceability on every extrusion and machining order."

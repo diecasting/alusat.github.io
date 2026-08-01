@@ -18,41 +18,51 @@ sort_order = 2
 url_path = "/industries/electronics-thermal/"
 
 [[industries]]
-id = "renewable-energy"
+id = "heat-sinks"
 sort_order = 3
+url_path = "/industries/heat-sinks/"
+
+[[industries]]
+id = "renewable-energy"
+sort_order = 4
 url_path = "/industries/renewable-energy/"
 
 [[industries]]
 id = "led-lighting"
-sort_order = 4
+sort_order = 5
 url_path = "/industries/led-lighting/"
 
 [[industries]]
 id = "building-construction"
-sort_order = 5
+sort_order = 6
 url_path = "/industries/building-construction/"
 
 [[industries]]
 id = "industrial-automation"
-sort_order = 6
+sort_order = 7
 url_path = "/industries/industrial-automation/"
 
 # --- Localized industry names and descriptions ---
 
 [en.automotive-ev]
 name = "Automotive & EV"
-description = "Lightweight extruded aluminum components for vehicle structures, battery enclosures and thermal systems."
+description = "Lightweight extruded aluminum components for vehicle structures, battery enclosures and thermal management systems."
 applications = ["Battery enclosures", "Structural frames", "Crash management systems"]
 
 [en.electronics-thermal]
-name = "Electronics & Thermal Management"
-description = "Heat sinks and enclosures that manage heat and protect sensitive electronics."
-applications = ["Heat sinks", "Enclosures", "Housings"]
+name = "Electronics"
+description = "Precision aluminum enclosures, housings and frames that protect and dissipate heat from sensitive electronic assemblies."
+applications = ["Device enclosures", "Housings", "Mounting frames"]
+
+[en.heat-sinks]
+name = "Heat Sinks"
+description = "High-fin-ratio extruded aluminum heat sinks engineered for efficient thermal management in power and electronics."
+applications = ["CPU/GPU coolers", "Power supplies", "LED thermal modules"]
 
 [en.renewable-energy]
-name = "Renewable Energy & Solar"
-description = "Corrosion-resistant aluminum profiles for solar mounting and energy storage systems."
-applications = ["Solar panel frames", "Mounting rails", "Inverter housings"]
+name = "Solar Energy"
+description = "Corrosion-resistant aluminum profiles for solar panel frames, mounting rails and energy storage enclosures."
+applications = ["Solar panel frames", "Mounting rails", "Inverter enclosures"]
 
 [en.led-lighting]
 name = "LED Lighting"
@@ -60,8 +70,8 @@ description = "Precision aluminum profiles that combine heat dissipation with cl
 applications = ["LED heat sinks", "Linear light housings", "Track lighting profiles"]
 
 [en.building-construction]
-name = "Building & Construction"
-description = "Architectural aluminum extrusions for facades, windows, doors and structural systems."
+name = "Architecture"
+description = "Architectural aluminum extrusions for facades, windows, doors and structural systems in buildings."
 applications = ["Window & door frames", "Curtain wall profiles", "Railings"]
 
 [en.industrial-automation]
