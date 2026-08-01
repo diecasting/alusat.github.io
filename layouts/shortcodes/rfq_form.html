@@ -38,6 +38,10 @@
       <label for="rfq-message-{{ .Ordinal }}">Project Details *</label>
       <textarea id="rfq-message-{{ .Ordinal }}" name="message" rows="5" required placeholder="Describe your project requirements, dimensions, tolerances, etc."></textarea>
     </div>
+    <div class="form-honeypot" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">
+      <label for="rfq-gotcha-{{ .Ordinal }}">Leave this field empty</label>
+      <input type="text" id="rfq-gotcha-{{ .Ordinal }}" name="_gotcha" tabindex="-1" autocomplete="off">
+    </div>
     <button type="submit" class="btn btn-primary btn-submit">Submit Quote Request</button>
   </form>
   {{- else -}}

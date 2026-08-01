@@ -3,6 +3,7 @@ title: "Aluminum Extrusion Manufacturer China"
 description: "Alusat is a China-based aluminum extrusion manufacturer supplying custom aluminum profiles, fabrication, CNC machining and surface finishing to global OEM customers. Integrated extrusion manufacturing in Dongguan, Guangdong for export markets in North America, Europe and Asia."
 layout: "landing"
 hero_eyebrow: "Custom Aluminum Profiles Manufacturer"
+hero_image: "https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp"
 sections:
   - hero
   - capabilities
@@ -58,6 +59,11 @@ Our plant runs a complete extrusion value chain so accountability for quality ne
 
 This vertical integration is what lets us quote realistically, hold lead times and keep tolerances consistent from first prototype to high-volume production.
 
+{{< image
+     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     alt="Alusat aluminum extrusion process and manufacturing line in Dongguan, China"
+     title="Alusat aluminum extrusion process and manufacturing line" >}}
+
 ## From Drawing to Delivered Part
 
 A typical custom aluminum extrusion program at Alusat follows a predictable path:
@@ -88,6 +94,11 @@ Alusat extrudes the full range of wrought aluminum alloys used in structural, th
 
 Our engineers recommend the right alloy and temper for your load, thermal and cosmetic requirements, verify chemistry and temper before shipment, and document the result for traceability. Common tempers include T5 and T6 for structural parts and T4 where further forming is required after extrusion.
 
+{{< image
+     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     alt="Custom aluminum extrusion round profile components manufactured by Alusat"
+     title="Custom aluminum extrusion round profile components" >}}
+
 ## Surface Finishing Options
 
 Alusat offers the finishing routes most specified for aluminum extrusions:
@@ -98,6 +109,11 @@ Alusat offers the finishing routes most specified for aluminum extrusions:
 - **Brushing** — a satin, directional grain for a consistent non-glare surface.
 
 Where a part needs both protection and color, we can combine processes — for example, anodize then dye, or chrome-free pretreat then powder coat — and will advise on the most cost-effective route for your environment and volume.
+
+{{< image
+     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     alt="Anodized and powder coated aluminum surface finishing at Alusat"
+     title="Aluminum surface finishing — anodizing and powder coating" >}}
 
 ## Tolerances and Manufacturing Capability
 
@@ -154,6 +170,11 @@ Alusat's extruded aluminum components serve a wide set of industries:
 
 Most custom profiles start as a conversation about function, load and environment — if your application is not listed, send us the drawing.
 
+{{< image
+     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     alt="Custom extruded aluminum heatsink profiles for thermal management"
+     title="Custom extruded aluminum heatsink profiles" >}}
+
 ## Aluminum: The Practical, Sustainable Choice
 
 Aluminum is light, corrosion-resistant and fully recyclable, which matters for both product performance and regulatory expectations in export markets. Specifying extruded aluminum lets you reduce component weight without sacrificing strength, and the material can be recycled repeatedly with minimal loss of properties — a point increasingly relevant for EU and North American buyers with sustainability requirements.
@@ -161,6 +182,11 @@ Aluminum is light, corrosion-resistant and fully recyclable, which matters for b
 ## Quality Control You Can Audit
 
 Quality is built into the process, not inspected in at the end. Alusat operates under an ISO 9001 quality management system with in-house CMM inspection, alloy verification, dimensional checking and full production traceability. For automotive and EV programs we apply disciplined controls appropriate to the application, and we can support first-article and PPAP-style documentation on request.
+
+{{< image
+     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     alt="CMM precision inspection of aluminum extrusions at Alusat quality control"
+     title="Alusat CMM precision inspection" >}}
 
 ## Why Global Buyers Choose Alusat
 
