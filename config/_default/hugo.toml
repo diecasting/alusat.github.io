@@ -8,20 +8,22 @@
 #
 # DEPLOYMENT / baseURL
 # --------------------------------------------------------------------------
-# Current target: GitHub Pages PROJECT site for repo diecasting/alusat.github.io
-#   -> served at https://diecasting.github.io/alusat.github.io/
-# The path prefix (/alusat.github.io/) is REQUIRED for a project page so that
-# all asset, canonical, hreflang, sitemap and JSON-LD URLs resolve correctly.
+# Custom domain: https://blog.alusat.com/
+#   -> served from the master branch via GitHub Actions (build_type: workflow).
+#   blog.alusat.com is a custom domain at the ROOT (no project-page path
+#   prefix), so all asset, canonical, hreflang, sitemap and JSON-LD URLs now
+#   resolve at the domain root.
 #
-# CUSTOM DOMAIN (future alusat.com) — 2-step switch, kept ready:
-#   1. Change baseURL below to:  "https://alusat.com/"
-#   2. Rename  static/CNAME.example  ->  static/CNAME   (content: alusat.com)
-#      (Hugo copies static/CNAME into public/, which GitHub Pages reads to bind
-#       the custom domain.) No layout or schema changes needed — every URL is
-#       derived from baseURL via .Permalink.
+# CUSTOM DOMAIN binding:
+#   static/CNAME  (content: blog.alusat.com) is copied into public/ by Hugo and
+#   read by GitHub Pages to bind the custom domain. DNS for blog.alusat.com must
+#   point at GitHub Pages (A records 185.199.108-111.153 or CNAME to
+#   your GitHub Pages default domain) for the domain to actually resolve.
+# Every URL is derived from baseURL via .Permalink — no layout/schema edits
+# beyond this file + the CNAME file.
 # ==========================================================================
 
-baseURL = "https://diecasting.github.io/alusat.github.io/"
+baseURL = "https://blog.alusat.com/"
 locale = "en-US"
 title = "Alusat"
 defaultContentLanguage = "en"
