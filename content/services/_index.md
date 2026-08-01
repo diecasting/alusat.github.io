@@ -1,5 +1,5 @@
 ---
 title: "Services"
-description: "Precision casting, CNC machining and engineering services for custom manufactured components."
+description: "Alusat aluminum extrusion services — custom profiles, extrusion fabrication, CNC machining, surface finishing and OEM partner programs for global manufacturers."
 layout: "list"
 ---

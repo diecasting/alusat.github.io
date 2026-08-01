@@ -38,6 +38,23 @@
       {{ end }}
     </ul>
 
+    {{- /* Language switcher — native Hugo multilingual links */ -}}
+    {{- $names := dict "en" "English" "de" "Deutsch" "ja" "日本語" "fr" "Français" "es" "Español" -}}
+    <div class="lang-switch" role="navigation" aria-label="Language">
+      {{ range .Site.Languages }}
+        {{- $lang := . -}}
+        {{- $url := "" -}}
+        {{- range $.Translations -}}
+          {{- if eq .Language.Lang $lang.Lang }}{{ $url = .RelPermalink }}{{ end -}}
+        {{- end -}}
+        {{- if eq $lang.Lang $.Language.Lang }}{{ $url = $.RelPermalink }}{{ end -}}
+        {{- if not $url -}}
+          {{- if eq $lang.Lang "en" }}{{ $url = "/" }}{{ else }}{{ $url = printf "/%s/" $lang.Lang }}{{ end -}}
+        {{- end -}}
+        <a href="{{ $url }}" class="lang-link{{ if eq $lang.Lang $.Language.Lang }} active{{ end }}" hreflang="{{ $lang.Lang }}"{{ if eq $lang.Lang $.Language.Lang }} aria-current="true"{{ end }}><span class="lang-code">{{ $lang.Lang }}</span><span class="lang-name">{{ index $names $lang.Lang | default $lang.Lang }}</span></a>
+      {{ end }}
+    </div>
+
     {{- $quoteHref := "#rfq" -}}
     {{- if not .IsHome -}}{{- $quoteHref = printf "%s#rfq" .Site.BaseURL -}}{{- end -}}
     <a href="{{ $quoteHref }}" class="btn btn-primary btn-sm nav-cta">Get a Quote</a>
