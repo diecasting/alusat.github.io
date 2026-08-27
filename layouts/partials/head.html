@@ -51,6 +51,11 @@
   gtag('config', 'G-41EG879WCL');
 </script>
 
+<!-- Web Fonts (matched to WordPress: Poppins headings + Source Sans 3 body) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+
 <!-- CSS -->
 {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">

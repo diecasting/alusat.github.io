@@ -4,6 +4,15 @@ description: "Alusat is a China-based aluminum extrusion manufacturer supplying 
 layout: "landing"
 hero_eyebrow: "Custom Aluminum Profiles Manufacturer"
 hero_image: "/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+hero_stats:
+  - value: "20+"
+    label: "Years Manufacturing Experience"
+  - value: "OEM"
+    label: "Global Manufacturing Partner"
+  - value: "End-to-End"
+    label: "Extrusion To Finishing Solution"
+  - value: "ISO"
+    label: "Quality Manufacturing System"
 sections:
   - hero
   - capabilities
