@@ -34,7 +34,7 @@ schema:
 Alusat ofrece **acabado de superficie** que protege los componentes de aluminio y cumple los requisitos de aspecto, desgaste y corrosión. El anodizado, el recubrimiento en polvo, el pulido y el cepillado se aplican en nuestras instalaciones, de modo que una pieza en bruto o mecanizada sale como un componente terminado y conforme a la especificación.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Acabado de superficie de aluminio anodizado y con recubrimiento en polvo en Alusat"
      title="Acabado de superficie de aluminio — anodizado y recubrimiento en polvo" >}}
 
@@ -50,7 +50,7 @@ El acabado es a menudo lo que determina la vida útil de una pieza y su primera 
 | Cepillado | Grano satinado y direccional para una superficie uniforme y antirreflejo. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Componentes de extrusión de aluminio a medida preparados para el acabado de superficie por Alusat"
      title="Componentes de aluminio a medida para acabado" >}}
 

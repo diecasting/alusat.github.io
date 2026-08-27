@@ -34,7 +34,7 @@ schema:
 Alusat bietet **CNC-Bearbeitung**, die stranggepresste Aluminiumprofile und Stangenmaterial in fertige, prüfbereite Komponenten verwandelt. Mehrachsige Bearbeitungszentren und CNC-Drehmaschinen ermöglichen enge, reproduzierbare Toleranzen an den entscheidenden Merkmalen — Dichtflächen, Bohrungen, Gewinde und Anlageflächen — in einer einzigen, prozesssicheren Aufspannung.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Präzisions-CNC-bearbeitete und geprüfte Aluminiumkomponenten bei Alusat"
      title="Präzise CNC-Bearbeitung und Prüfung von Aluminium" >}}
 
@@ -51,7 +51,7 @@ In der Zerspanung werden aus Strangpressprofilen funktionsfähige Bauteile. Durc
 | Nachbearbeitung | Entgraten und Vorbereitung für Eloxieren oder Pulverbeschichten. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="CNC-bearbeitetes Aluminium-Kühlkörperprofil mit Präzisionsmerkmalen von Alusat"
      title="CNC-bearbeitete Merkmale an Aluminium-Kühlkörpern" >}}
 

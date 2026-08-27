@@ -23,7 +23,7 @@
 # beyond this file + the CNAME file.
 # ==========================================================================
 
-baseURL = "https://blog.alusat.com/"
+baseURL = "https://alusat.com/"
 locale = "en-US"
 title = "Alusat"
 defaultContentLanguage = "en"
@@ -46,6 +46,10 @@ paginate = 12
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+# Blog permalinks — content/post/* publishes at /blog/<slug>/
+[permalinks]
+  post = "/blog/:slug/"
 
 # Minify configuration
 [minify]

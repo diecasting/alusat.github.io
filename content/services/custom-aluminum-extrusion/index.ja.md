@@ -34,7 +34,7 @@ schema:
 Alusat は China の Guangdong 省 Dongguan を拠点とするアルミ押出メーカーであり、北米、欧州、アジアのOEMのお客様へカスタムアルミ型材を供給しております。シングルソースの製造パートナーとして、お客様の図面を最初の押出金型設計から熱処理、二次加工、機械加工、表面処理、最終検査に至るまで、一つの拠点、一つの品質システムのもとで形にいたします。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="China・Dongguan にある Alusat のアルミ押出工程と製造ライン"
      title="アルミ押出製造ライン" >}}
 
@@ -64,7 +64,7 @@ Alusat は、構造用・熱設計用・意匠用の各用途で使用される�
 当社エンジニアは荷重、熱、意匠のご要求に応じて最適な合金と質別をご提案し、出荷前に成分と質別を確認、トレーサビリティのために結果を記録いたします。一般的な質別は、構造部品向けの T5・T6、押出後にさらに成形を行う場合の T4 です。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Alusat が製造したカスタムアルミ押出の丸型材部品"
      title="カスタムアルミ押出の丸型材部品" >}}
 

@@ -34,7 +34,7 @@ schema:
 Alusat は、アルミ部品を保護し、外観、耐摩耗性、耐食性のご要求を満たす**表面処理**をご提供します。アルマイト処理、粉体塗装、研磨、ヘアライン加工を自社内で実施するため、素材のままの部品や機械加工品が、仕様に適合した完成部品として出荷されます。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Alusat のアルマイト処理・粉体塗装によるアルミ表面処理"
      title="アルミ表面処理 — アルマイト処理と粉体塗装" >}}
 
@@ -50,7 +50,7 @@ Alusat は、アルミ部品を保護し、外観、耐摩耗性、耐食性の�
 | ヘアライン加工 | サテン調の方向性のある目地により、均一で防眩性のある表面。 |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Alusat で表面処理前の準備を行うカスタムアルミ押出部品"
      title="表面処理向けカスタムアルミ部品" >}}
 

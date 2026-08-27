@@ -3,7 +3,7 @@ title: "中国アルミ押出メーカー"
 description: "Alusat は中国を拠点とするアルミ押出メーカーであり、カスタムアルミ型材、二次加工、CNC加工、表面処理を世界のOEMのお客様へ供給しています。Guangdong 省 Dongguan の一貫生産体制により、北米・欧州・アジアの輸出市場へ対応します。"
 layout: "landing"
 hero_eyebrow: "カスタムアルミ型材メーカー"
-hero_image: "https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp"
+hero_image: "/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
 sections:
   - hero
   - capabilities
@@ -60,7 +60,7 @@ Alusat は China の Guangdong 省 Dongguan を拠点とするアルミ押出メ
 この垂直統合こそが、現実的な見積もり、確実な納期、試作から量産まで一貫した公差管理を可能にしています。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="China・Dongguan にある Alusat のアルミ押出工程と製造ライン"
      title="Alusat のアルミ押出工程と製造ライン" >}}
 
@@ -95,7 +95,7 @@ Alusat は、構造用・熱設計用・意匠用の各用途で使用される�
 当社エンジニアは荷重、熱、意匠のご要求に応じて最適な合金と質別をご提案し、出荷前に成分と質別を確認、トレーサビリティのために結果を記録いたします。一般的な質別は、構造部品向けの T5・T6、押出後にさらに成形を行う場合の T4 です。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Alusat が製造したカスタムアルミ押出の丸型材部品"
      title="カスタムアルミ押出の丸型材部品" >}}
 
@@ -111,7 +111,7 @@ Alusat は、アルミ押出材で最も多く指定される表面処理をご�
 保護と色調の両方が必要な部品では、アルマイト処理後の染色、クロムフリー前処理後の粉体塗装など、工程を組み合わせることも可能です。使用環境と数量に応じて、最も費用対効果の高い方法をご提案いたします。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Alusat のアルマイト処理・粉体塗装によるアルミ表面処理"
      title="アルミ表面処理 — アルマイト処理と粉体塗装" >}}
 
@@ -171,7 +171,7 @@ Alusat のアルミ押出部品は、幅広い業界でご採用いただいて�
 カスタム型材の多くは、機能・荷重・使用環境に関する対話から始まります。上記に用途が見当たらない場合も、まずは図面をお送りください。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="熱設計向けカスタムアルミ押出ヒートシンク型材"
      title="カスタムアルミ押出ヒートシンク型材" >}}
 
@@ -184,7 +184,7 @@ Alusat のアルミ押出部品は、幅広い業界でご採用いただいて�
 品質は最終検査で作り込むものではなく、工程に組み込むものです。Alusat は ISO 9001 品質マネジメントシステムのもとで運営し、自社での CMM 検査、合金材質確認、寸法検査、完全な製造トレーサビリティを実施しています。自動車・EV向けプロジェクトでは用途に応じた厳格な管理を適用し、ご要望に応じて初品検査および PPAP 形式のドキュメント対応も可能です。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Alusat 品質管理におけるアルミ押出材の CMM 精密検査"
      title="Alusat の CMM 精密検査" >}}
 

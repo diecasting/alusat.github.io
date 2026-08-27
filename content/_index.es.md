@@ -3,7 +3,7 @@ title: "Fabricante de extrusión de aluminio en China"
 description: "Alusat es un fabricante de extrusión de aluminio ubicado en China que suministra perfiles de aluminio a medida, fabricación, mecanizado CNC y acabado de superficie a clientes OEM de todo el mundo. Fabricación integrada de extrusión en Dongguan, Guangdong, para mercados de exportación en Norteamérica, Europa y Asia."
 layout: "landing"
 hero_eyebrow: "Fabricante de perfiles de aluminio a medida"
-hero_image: "https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp"
+hero_image: "/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
 sections:
   - hero
   - capabilities
@@ -60,7 +60,7 @@ Nuestra planta cubre toda la cadena de valor de la extrusión, de modo que la re
 Esta integración vertical es lo que nos permite cotizar de forma realista, cumplir los plazos de entrega y mantener tolerancias consistentes desde el primer prototipo hasta la producción en serie.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Proceso de extrusión de aluminio y línea de fabricación de Alusat en Dongguan, China"
      title="Proceso de extrusión de aluminio y línea de fabricación de Alusat" >}}
 
@@ -95,7 +95,7 @@ Alusat extruye toda la gama de aleaciones de aluminio para forja utilizadas en a
 Nuestros ingenieros recomiendan la aleación y el temple adecuados para sus requisitos de carga, térmicos y estéticos, verifican la composición química y el temple antes del envío y documentan el resultado para su trazabilidad. Los temples habituales son T5 y T6 para piezas estructurales, y T4 cuando se requiere conformado posterior a la extrusión.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Componentes de perfil redondo de extrusión de aluminio a medida fabricados por Alusat"
      title="Componentes de perfil redondo de extrusión de aluminio a medida" >}}
 
@@ -111,7 +111,7 @@ Alusat ofrece las rutas de acabado más habituales para extrusiones de aluminio:
 Cuando una pieza necesita protección y color a la vez, podemos combinar procesos —por ejemplo, anodizar y después teñir, o aplicar un pretratamiento sin cromo y después recubrimiento en polvo— y le asesoraremos sobre la ruta más rentable para su entorno y volumen.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Acabado de superficie de aluminio anodizado y con recubrimiento en polvo en Alusat"
      title="Acabado de superficie de aluminio — anodizado y recubrimiento en polvo" >}}
 
@@ -171,7 +171,7 @@ Los componentes de aluminio extruido de Alusat atienden a un amplio conjunto de 
 La mayoría de los perfiles a medida empiezan con una conversación sobre función, carga y entorno; si su aplicación no aparece en la lista, envíenos el plano.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Perfiles disipadores de aluminio extruido a medida para gestión térmica"
      title="Perfiles disipadores de aluminio extruido a medida" >}}
 
@@ -184,7 +184,7 @@ El aluminio es ligero, resistente a la corrosión y totalmente reciclable, algo 
 La calidad se construye en el proceso, no se inspecciona al final. Alusat opera bajo un sistema de gestión de la calidad ISO 9001 con inspección CMM propia, verificación de aleación, control dimensional y trazabilidad completa de producción. Para programas de automoción y vehículo eléctrico aplicamos controles disciplinados acordes con la aplicación, y podemos dar soporte a documentación de primera pieza y de tipo PPAP bajo petición.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Inspección de precisión CMM de extrusiones de aluminio en el control de calidad de Alusat"
      title="Inspección de precisión CMM de Alusat" >}}
 

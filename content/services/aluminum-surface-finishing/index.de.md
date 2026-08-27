@@ -34,7 +34,7 @@ schema:
 Alusat bietet **Oberflächenveredelung**, die Aluminiumkomponenten schützt und Anforderungen an Optik, Verschleiß und Korrosionsbeständigkeit erfüllt. Eloxieren, Pulverbeschichten, Polieren und Bürsten erfolgen im eigenen Haus — ein rohes oder spanend bearbeitetes Teil verlässt uns als fertiges, spezifikationskonformes Bauteil.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Eloxierte und pulverbeschichtete Aluminium-Oberflächenveredelung bei Alusat"
      title="Aluminium-Oberflächenveredelung — Eloxieren und Pulverbeschichten" >}}
 
@@ -50,7 +50,7 @@ Die Oberfläche entscheidet häufig über Lebensdauer und ersten Eindruck eines 
 | Bürsten | Satinierter, gerichteter Schliff für eine gleichmäßige, blendfreie Oberfläche. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Kundenspezifische Aluminium-Strangpresskomponenten in Vorbereitung auf die Oberflächenveredelung bei Alusat"
      title="Kundenspezifische Aluminiumkomponenten für die Veredelung" >}}
 

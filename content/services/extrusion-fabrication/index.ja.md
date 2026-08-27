@@ -34,7 +34,7 @@ schema:
 Alusat は押出アルミ型材を**検査済みの完成部品**へと仕上げます。押出そのものに加え、精密切断、穴あけ、タップ加工、曲げ加工、溶接、組立をご提供しますので、追加加工が必要な素材型材ではなく、そのまま取り付け可能な部品としてお受け取りいただけます。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Alusat が製造したカスタムアルミ押出加工部品"
      title="アルミ押出加工部品" >}}
 
@@ -64,7 +64,7 @@ Alusat における一般的な二次加工プロジェクトは、次の流れ�
 二次加工は押出および機械加工の隣接工程にあるため、設計変更時も迅速に反復対応が可能です。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Alusat におけるアルミ加工部品の CMM 精密検査"
      title="Alusat の加工部品検査" >}}
 

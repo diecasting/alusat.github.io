@@ -34,7 +34,7 @@ schema:
 Alusat est un **partenaire OEM dédié à l'extrusion d'aluminium** pour les industriels et les marques du monde entier. Plutôt qu'un fournisseur transactionnel, nous nous comportons comme le prolongement de vos équipes d'ingénierie et de supply chain — en partageant le risque en amont, en maîtrisant le procédé de bout en bout et en assumant les pièces que nous expédions.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Usine de fabrication d'extrusion d'aluminium Alusat à Dongguan, China"
      title="Usine d'extrusion d'aluminium Alusat" >}}
 
@@ -52,7 +52,7 @@ Alusat accompagne l'intégralité du cycle de vie du programme :
 Comme l'outillage, l'extrusion et la finition sont regroupés sur un même site, nous itérons rapidement lorsqu'une conception évolue — un véritable avantage pour les équipes qui lancent un nouveau produit dans un délai imposé.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Profilés de dissipateurs thermiques en aluminium extrudé OEM sur mesure pour la gestion thermique par Alusat"
      title="Profilés d'extrusion d'aluminium OEM sur mesure" >}}
 

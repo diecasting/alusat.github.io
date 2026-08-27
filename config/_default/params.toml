@@ -13,7 +13,7 @@
 # --- Feature flags ---
 [features]
   enableSearch = false
-  enableBlog = false
+  enableBlog = true
   enableRFQ = true
   enableMultilingual = true
 
@@ -106,7 +106,7 @@
   legalName = "Alusat"
   url = "https://alusat.com/"
   logo = ""   # Absolute or root-relative logo URL. Empty = no logo in schema.
-  images = ["https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp", "https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"]
+  images = ["/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp", "/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"]
 
   addressLocality = "Dongguan"
   addressRegion = "Guangdong"

@@ -34,7 +34,7 @@ schema:
 Alusat provides **surface finishing** that protects aluminum components and meets appearance, wear and corrosion requirements. Anodizing, powder coating, polishing and brushing are applied in house, so a raw or machined part leaves as a finished, specification-compliant component.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Anodized and powder coated aluminum surface finishing at Alusat"
      title="Aluminum surface finishing — anodizing and powder coating" >}}
 
@@ -50,7 +50,7 @@ Finish is often what determines a part's service life and first impression. By k
 | Brushing | Satin, directional grain for a consistent non-glare surface. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Custom aluminum extrusion components prepared for surface finishing by Alusat"
      title="Custom aluminum components for finishing" >}}
 

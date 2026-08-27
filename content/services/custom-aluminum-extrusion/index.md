@@ -34,7 +34,7 @@ schema:
 Alusat is an aluminum extrusion manufacturer based in Dongguan, Guangdong, China, supplying custom aluminum profiles to OEM customers across North America, Europe and Asia. As a single-source manufacturing partner, we take your drawing from the first extrusion die design through heat treatment, fabrication, machining, finishing and final inspection — all under one roof and one quality system.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Alusat aluminum extrusion process and manufacturing line in Dongguan, China"
      title="Aluminum extrusion manufacturing line" >}}
 
@@ -64,7 +64,7 @@ Alusat extrudes the full range of wrought aluminum alloys used in structural, th
 Our engineers recommend the right alloy and temper for your load, thermal and cosmetic requirements, verify chemistry and temper before shipment, and document the result for traceability. Common tempers include T5 and T6 for structural parts and T4 where further forming is required after extrusion.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Custom aluminum extrusion round profile components manufactured by Alusat"
      title="Custom aluminum extrusion round profile components" >}}
 

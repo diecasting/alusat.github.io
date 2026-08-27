@@ -34,7 +34,7 @@ schema:
 Alusat turns extruded aluminum profiles into **finished, inspection-ready components**. Beyond the extrusion itself, we provide precision cutting, drilling, tapping, bending, welding and assembly, so you receive a part that is ready to install rather than a raw length of profile that still needs work.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Custom fabricated aluminum extrusion components produced by Alusat"
      title="Fabricated aluminum extrusion components" >}}
 
@@ -64,7 +64,7 @@ A typical fabrication program at Alusat follows a predictable path:
 Because fabrication sits next to extrusion and machining, we iterate quickly when a design changes.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="CMM precision inspection of fabricated aluminum components at Alusat"
      title="Alusat fabricated component inspection" >}}
 
