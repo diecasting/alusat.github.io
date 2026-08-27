@@ -34,7 +34,7 @@ schema:
 Alusat は、押出アルミ型材や棒材を検査済みの完成部品へと仕上げる**CNC加工**をご提供します。多軸マシニングセンタとCNC旋盤により、シール面、穴、ねじ、位置決め面といった重要形状を、管理された単一段取りの中で厳しく再現性の高い公差に仕上げます。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Alusat における精密CNC加工および検査済みアルミ部品"
      title="アルミ精密CNC加工と検査" >}}
 
@@ -51,7 +51,7 @@ Alusat は、押出アルミ型材や棒材を検査済みの完成部品へと�
 | 仕上げ | バリ取りおよびアルマイト処理・粉体塗装に向けた前準備。 |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Alusat による精密形状を備えたCNC加工アルミヒートシンク型材"
      title="CNC加工によるアルミヒートシンク形状" >}}
 

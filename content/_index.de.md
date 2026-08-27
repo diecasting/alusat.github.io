@@ -3,7 +3,7 @@ title: "Aluminium Extrusionshersteller China"
 description: "Alusat ist ein Aluminium-Strangpresshersteller in China und liefert kundenspezifische Aluminiumprofile, Weiterverarbeitung, CNC-Bearbeitung und Oberflächenveredelung an globale OEM-Kunden. Integrierte Strangpressfertigung in Dongguan, Guangdong für die Exportmärkte in Nordamerika, Europa und Asien."
 layout: "landing"
 hero_eyebrow: "Hersteller kundenspezifischer Aluminiumprofile"
-hero_image: "https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp"
+hero_image: "/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
 sections:
   - hero
   - capabilities
@@ -60,7 +60,7 @@ Unser Werk deckt die komplette Wertschöpfungskette des Strangpressens ab, sodas
 Diese vertikale Integration ermöglicht es uns, realistisch zu kalkulieren, Lieferzeiten einzuhalten und Toleranzen vom ersten Prototyp bis zur Serienfertigung konstant zu halten.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Strangpressprozess und Fertigungslinie von Alusat in Dongguan, China"
      title="Alusat Strangpressprozess und Fertigungslinie" >}}
 
@@ -95,7 +95,7 @@ Alusat presst das gesamte Spektrum der Aluminium-Knetlegierungen für strukturel
 Unsere Ingenieure empfehlen die passende Legierung und den passenden Werkstoffzustand für Ihre Last-, Wärme- und Optikanforderungen, prüfen Chemie und Zustand vor dem Versand und dokumentieren das Ergebnis für die Rückverfolgbarkeit. Übliche Zustände sind T5 und T6 für tragende Teile sowie T4, wenn nach dem Pressen weiter umgeformt wird.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Kundenspezifische stranggepresste Aluminium-Rundprofilkomponenten von Alusat"
      title="Kundenspezifische stranggepresste Aluminium-Rundprofilkomponenten" >}}
 
@@ -111,7 +111,7 @@ Alusat bietet die für Aluminium-Strangpressprofile gängigsten Veredelungsverfa
 Wenn ein Bauteil sowohl Schutz als auch Farbe benötigt, kombinieren wir Verfahren — zum Beispiel Eloxieren mit anschließendem Einfärben oder chromfreie Vorbehandlung mit anschließender Pulverbeschichtung — und beraten Sie zur wirtschaftlichsten Route für Ihre Einsatzumgebung und Stückzahl.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Eloxierte und pulverbeschichtete Aluminium-Oberflächenveredelung bei Alusat"
      title="Aluminium-Oberflächenveredelung — Eloxieren und Pulverbeschichten" >}}
 
@@ -171,7 +171,7 @@ Die stranggepressten Aluminiumkomponenten von Alusat kommen in einem breiten Bra
 Die meisten Sonderprofile beginnen als Gespräch über Funktion, Belastung und Umgebung — ist Ihre Anwendung nicht aufgeführt, senden Sie uns die Zeichnung.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Kundenspezifische stranggepresste Aluminium-Kühlkörperprofile für das Wärmemanagement"
      title="Kundenspezifische stranggepresste Aluminium-Kühlkörperprofile" >}}
 
@@ -184,7 +184,7 @@ Aluminium ist leicht, korrosionsbeständig und vollständig recycelbar — relev
 Qualität wird im Prozess erzeugt, nicht am Ende hineingeprüft. Alusat arbeitet nach einem Qualitätsmanagementsystem gemäß ISO 9001 mit hauseigener CMM-Prüfung, Legierungsnachweis, Maßkontrolle und lückenloser Rückverfolgbarkeit der Fertigung. Für Automobil- und E-Mobilitätsprogramme wenden wir anwendungsgerechte, disziplinierte Kontrollen an und unterstützen auf Wunsch Erstmuster- und PPAP-ähnliche Dokumentation.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="CMM-Präzisionsprüfung von Aluminium-Strangpressprofilen in der Qualitätssicherung von Alusat"
      title="Alusat CMM-Präzisionsprüfung" >}}
 

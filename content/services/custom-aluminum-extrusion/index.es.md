@@ -34,7 +34,7 @@ schema:
 Alusat es un fabricante de extrusión de aluminio con sede en Dongguan, Guangdong, China, que suministra perfiles de aluminio a medida a clientes OEM de Norteamérica, Europa y Asia. Como socio de fabricación de fuente única, llevamos su plano desde el diseño inicial de la matriz de extrusión hasta el tratamiento térmico, la fabricación, el mecanizado, el acabado y la inspección final, todo bajo un mismo techo y un mismo sistema de calidad.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Proceso de extrusión de aluminio y línea de fabricación de Alusat en Dongguan, China"
      title="Línea de fabricación de extrusión de aluminio" >}}
 
@@ -64,7 +64,7 @@ Alusat extruye toda la gama de aleaciones de aluminio para forja utilizadas en a
 Nuestros ingenieros recomiendan la aleación y el temple adecuados para sus requisitos de carga, térmicos y estéticos, verifican la composición química y el temple antes del envío y documentan el resultado para su trazabilidad. Los temples habituales son T5 y T6 para piezas estructurales, y T4 cuando se requiere conformado posterior a la extrusión.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Componentes de perfil redondo de extrusión de aluminio a medida fabricados por Alusat"
      title="Componentes de perfil redondo de extrusión de aluminio a medida" >}}
 

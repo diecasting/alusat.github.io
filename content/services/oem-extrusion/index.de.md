@@ -34,7 +34,7 @@ schema:
 Alusat ist ein **dedizierter OEM-Partner für Aluminium-Strangpressprofile** für globale Hersteller und Markenanbieter. Statt eines transaktionalen Lieferanten sind wir eine Erweiterung Ihres Engineering- und Supply-Chain-Teams — wir übernehmen früh Verantwortung, halten den Prozess durchgängig in der Hand und stehen für die gelieferten Teile ein.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Werk von Alusat für Aluminium-Strangpressfertigung in Dongguan, China"
      title="Strangpresswerk von Alusat" >}}
 
@@ -52,7 +52,7 @@ Alusat begleitet den gesamten Programmlebenszyklus:
 Da Werkzeugbau, Strangpressen und Veredelung an einem Standort liegen, iterieren wir bei Konstruktionsänderungen schnell — ein echter Vorteil für Teams, die ein neues Produkt in einem festen Zeitfenster auf den Markt bringen.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Kundenspezifische stranggepresste OEM-Aluminium-Kühlkörperprofile für das Wärmemanagement von Alusat"
      title="Kundenspezifische stranggepresste OEM-Aluminiumprofile" >}}
 

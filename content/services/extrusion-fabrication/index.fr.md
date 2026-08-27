@@ -34,7 +34,7 @@ schema:
 Alusat transforme les profilés en aluminium extrudé en **composants finis, prêts au contrôle**. Au-delà de l'extrusion elle-même, nous assurons la coupe de précision, le perçage, le taraudage, le cintrage, le soudage et l'assemblage, afin que vous receviez une pièce prête à installer plutôt qu'une longueur de profilé brut qui nécessite encore du travail.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Composants d'extrusion d'aluminium parachevés sur mesure produits par Alusat"
      title="Composants d'extrusion d'aluminium parachevés" >}}
 
@@ -64,7 +64,7 @@ Un programme de parachèvement type chez Alusat suit un parcours prévisible :
 Comme le parachèvement se situe à côté de l'extrusion et de l'usinage, nous itérons rapidement lorsqu'une conception évolue.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Contrôle de précision par CMM des composants en aluminium parachevés chez Alusat"
      title="Contrôle des composants parachevés Alusat" >}}
 

@@ -34,7 +34,7 @@ schema:
 Alusat ist ein Hersteller von Aluminium-Strangpressprofilen mit Sitz in Dongguan, Guangdong, China, und beliefert OEM-Kunden in Nordamerika, Europa und Asien mit kundenspezifischen Aluminiumprofilen. Als Fertigungspartner aus einer Hand begleiten wir Ihre Zeichnung von der ersten Werkzeugkonstruktion über Wärmebehandlung, Weiterverarbeitung, Zerspanung und Veredelung bis zur Endprüfung — alles unter einem Dach und in einem Qualitätssystem.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-process-manufacturing-line.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Strangpressprozess und Fertigungslinie von Alusat in Dongguan, China"
      title="Fertigungslinie für Aluminium-Strangpressprofile" >}}
 
@@ -64,7 +64,7 @@ Alusat presst das gesamte Spektrum der Aluminium-Knetlegierungen für strukturel
 Unsere Ingenieure empfehlen die passende Legierung und den passenden Werkstoffzustand für Ihre Last-, Wärme- und Optikanforderungen, prüfen Chemie und Zustand vor dem Versand und dokumentieren das Ergebnis für die Rückverfolgbarkeit. Übliche Zustände sind T5 und T6 für tragende Teile sowie T4, wenn nach dem Pressen weiter umgeformt wird.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Kundenspezifische stranggepresste Aluminium-Rundprofilkomponenten von Alusat"
      title="Kundenspezifische stranggepresste Aluminium-Rundprofilkomponenten" >}}
 

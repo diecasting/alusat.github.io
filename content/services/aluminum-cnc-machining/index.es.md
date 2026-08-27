@@ -34,7 +34,7 @@ schema:
 Alusat ofrece **mecanizado CNC** que convierte perfiles de aluminio extruido y barra en componentes terminados y listos para inspección. Los centros de mecanizado multieje y los tornos CNC nos permiten mantener tolerancias estrechas y repetibles en las características que importan —caras de estanqueidad, alojamientos, roscas y superficies de posicionamiento— en una sola puesta a punto bien controlada.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Componentes de aluminio mecanizados con CNC de precisión e inspeccionados en Alusat"
      title="Mecanizado CNC de precisión e inspección de aluminio" >}}
 
@@ -51,7 +51,7 @@ El mecanizado es el punto en el que los perfiles extruidos se convierten en piez
 | Acabado | Desbarbado y preparación para anodizado o recubrimiento en polvo. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Perfil disipador de aluminio mecanizado con CNC y características de precisión por Alusat"
      title="Características de disipador de aluminio mecanizadas con CNC" >}}
 

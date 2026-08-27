@@ -6,39 +6,41 @@
 
 /* --- Design Tokens --- */
 :root {
-  /* Brand */
-  --brand: #0c4a8e;          /* industrial blue */
-  --brand-600: #0a3c73;
-  --brand-700: #082f5b;
-  --brand-050: #eaf2fb;
-  --accent: #f5a623;         /* steel amber */
-  --accent-600: #d98c0c;
+  /* Brand — matched to WordPress (Astra + Elementor) orange system */
+  --brand: #fe7239;          /* primary orange */
+  --brand-600: #f25617;      /* hover / secondary red-orange */
+  --brand-700: #d9440c;      /* active / pressed */
+  --brand-050: #fdeee3;      /* light orange tint */
+  --accent: #f25617;         /* CTA accent (WP secondary) */
+  --accent-600: #d9440c;
 
-  /* Ink & surfaces */
-  --ink: #16202b;
-  --ink-2: #2b3744;
-  --muted: #5b6b7b;
-  --line: #e3e8ee;
-  --line-2: #d4dce5;
+  /* Ink & surfaces — matched to WP slate/gray + warm dark */
+  --ink: #3c3c3c;            /* body text */
+  --ink-2: #4f4f4f;          /* secondary text */
+  --muted: #767676;          /* muted text */
+  --line: #e2e2e2;           /* border */
+  --line-2: #d4d4d4;         /* strong border */
   --bg: #ffffff;
-  --bg-alt: #f5f7fa;
-  --bg-dark: #0b1b2c;
+  --bg-alt: #f6f6f6;         /* alt section bg (WP #f6f6f6) */
+  --bg-dark: #1f1a16;        /* footer/CTA — warm near-black (WP #170a06 vibe) */
 
-  /* Shape & depth */
-  --radius-sm: 8px;
-  --radius: 12px;
-  --radius-lg: 18px;
-  --shadow-sm: 0 1px 2px rgba(16,32,43,.06), 0 1px 3px rgba(16,32,43,.08);
-  --shadow: 0 10px 30px rgba(16,32,43,.10);
-  --shadow-lg: 0 20px 48px rgba(16,32,43,.16);
+  /* Shape & depth — squared to match Astra (~2px buttons) */
+  --radius-sm: 4px;
+  --radius: 6px;
+  --radius-lg: 10px;
+  --shadow-sm: 0 1px 2px rgba(31,26,22,.06), 0 1px 3px rgba(31,26,22,.08);
+  --shadow: 0 10px 30px rgba(31,26,22,.10);
+  --shadow-lg: 0 20px 48px rgba(31,26,22,.16);
 
   /* Layout */
   --maxw: 1200px;
-  --content-w: 900px;
+  --content-w: 820px;
   --header-h: 72px;
 
-  /* Fonts */
-  --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  /* Fonts — matched to WordPress (Poppins headings + Source Sans 3 body) */
+  --font-head: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif;
+  --font: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
           "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 
@@ -49,8 +51,8 @@ html { font-size: 16px; scroll-behavior: smooth; -webkit-text-size-adjust: 100%;
 
 body {
   font-family: var(--font);
-  font-size: 18px;
-  line-height: 1.8;
+  font-size: 17px;
+  line-height: 1.7;
   color: var(--ink);
   background: var(--bg);
   -webkit-font-smoothing: antialiased;
@@ -62,7 +64,7 @@ a:hover { color: var(--brand-600); }
 
 img { max-width: 100%; height: auto; display: block; }
 
-:focus-visible { outline: 3px solid rgba(12,74,142,.45); outline-offset: 2px; border-radius: 4px; }
+:focus-visible { outline: 3px solid rgba(254,114,57,.45); outline-offset: 2px; border-radius: 4px; }
 
 /* Anchor offset for sticky header */
 section[id], [id] { scroll-margin-top: calc(var(--header-h) + 16px); }
@@ -71,7 +73,7 @@ section[id], [id] { scroll-margin-top: calc(var(--header-h) + 16px); }
 .container { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
 
 /* --- Typography System --- */
-h1, h2, h3, h4 { color: var(--ink); font-weight: 700; line-height: 1.2; letter-spacing: -0.01em; }
+h1, h2, h3, h4 { font-family: var(--font-head); color: var(--ink); font-weight: 700; line-height: 1.2; letter-spacing: -0.01em; }
 
 h1 { font-size: clamp(2.1rem, 1.2rem + 3.6vw, 3.4rem); }   /* 34px -> 54px */
 h2 { font-size: clamp(1.6rem, 1.1rem + 2.2vw, 2.15rem); }  /* 26px -> 34px */
@@ -83,7 +85,7 @@ p { margin: 0 0 1.1rem; }
 /* --- Buttons (premium) --- */
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: 8px;
-  padding: 14px 30px; border-radius: 999px; font-weight: 600; font-size: 1rem;
+  padding: 14px 30px; border-radius: var(--radius-sm); font-weight: 600; font-size: 1rem;
   cursor: pointer; border: 2px solid transparent; transition: all .22s ease;
   white-space: nowrap; line-height: 1;
 }
@@ -105,7 +107,7 @@ p { margin: 0 0 1.1rem; }
   background: rgba(255,255,255,.92);
   backdrop-filter: saturate(180%) blur(10px);
   border-bottom: 1px solid var(--line);
-  box-shadow: 0 1px 0 rgba(16,32,43,.02);
+  box-shadow: 0 1px 0 rgba(31,26,22,.02);
 }
 .nav-container {
   max-width: var(--maxw); margin: 0 auto; padding: 0 24px;
@@ -181,8 +183,8 @@ p { margin: 0 0 1.1rem; }
 .section-hero {
   position: relative; overflow: hidden;
   background:
-    radial-gradient(1200px 400px at 80% -10%, rgba(12,74,142,.10), transparent 60%),
-    linear-gradient(180deg, #f3f7fc 0%, #ffffff 100%);
+    radial-gradient(1200px 400px at 80% -10%, rgba(254,114,57,.10), transparent 60%),
+    linear-gradient(180deg, #fdf6f0 0%, #ffffff 100%);
   border-bottom: 1px solid var(--line);
   padding: clamp(48px, 6vw, 88px) 0 clamp(40px, 5vw, 72px);
 }
@@ -194,11 +196,18 @@ p { margin: 0 0 1.1rem; }
   padding: 6px 14px; border-radius: 999px; margin-bottom: 18px;
 }
 .hero-title { font-size: clamp(2.2rem, 1.2rem + 3.8vw, 3.5rem); max-width: 18ch; margin-bottom: 18px; }
-.hero-description { font-size: clamp(1.05rem, 1rem + .4vw, 1.3rem); color: var(--muted); max-width: 60ch; margin: 0 auto 28px; }
+.hero-description { font-size: clamp(1.05rem, 1rem + .4vw, 1.3rem); color: var(--muted); max-width: 60ch; margin: 0 0 28px; }
 .hero-cta { display: flex; gap: 14px; flex-wrap: wrap; }
 .section-hero .hero-cta { justify-content: flex-start; }
-.hero-media { margin-top: 36px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow-lg); }
-.hero-media img { width: 100%; object-fit: cover; }
+.hero-media { margin-top: 36px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow-lg); aspect-ratio: 16 / 9; }
+.hero-media img { width: 100%; height: 100%; object-fit: cover; }
+
+/* Hero stats strip (WordPress-style trust badges, home only) */
+.hero-stats { list-style: none; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 36px 0 0; padding: 0; }
+.hero-stat { display: flex; flex-direction: column; gap: 2px; padding: 18px 20px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
+.stat-num { font-family: var(--font-head); font-size: 1.6rem; font-weight: 700; color: var(--brand); line-height: 1.1; }
+.stat-label { font-size: .82rem; color: var(--muted); font-weight: 600; }
+@media (max-width: 768px) { .hero-stats { grid-template-columns: repeat(2, 1fr); } }
 
 /* Breadcrumb */
 .breadcrumb { margin-bottom: 18px; font-size: .85rem; color: var(--muted); }
@@ -338,8 +347,8 @@ p { margin: 0 0 1.1rem; }
 .cta-band::before {
   content: ""; position: absolute; inset: 0;
   background:
-    radial-gradient(700px 300px at 90% 0%, rgba(12,74,142,.55), transparent 60%),
-    radial-gradient(600px 300px at 0% 100%, rgba(245,166,35,.18), transparent 55%);
+    radial-gradient(700px 300px at 90% 0%, rgba(254,114,57,.55), transparent 60%),
+    radial-gradient(600px 300px at 0% 100%, rgba(242,86,23,.20), transparent 55%);
 }
 .cta-inner { position: relative; display: flex; align-items: center; justify-content: space-between; gap: 32px; flex-wrap: wrap; }
 .cta-title { color: #fff; font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.2rem); margin-bottom: 10px; }
@@ -393,8 +402,8 @@ p { margin: 0 0 1.1rem; }
 .industry-applications li:last-child { border-bottom: none; }
 .industry-applications li::before { content: "▸ "; color: var(--accent); }
 
-.certs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 22px; }
-.cert-card { border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; text-align: center; background: #fff; box-shadow: var(--shadow-sm); }
+.certs-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 22px; }
+.cert-card { flex: 1 1 260px; max-width: 320px; border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; text-align: center; background: #fff; box-shadow: var(--shadow-sm); }
 .cert-card h3 { font-size: 1.4rem; color: var(--brand); margin-bottom: 8px; }
 .cert-link { font-size: .88rem; font-weight: 600; }
 
@@ -443,15 +452,15 @@ p { margin: 0 0 1.1rem; }
 /* ==========================================================================
    FOOTER
    ========================================================================== */
-.site-footer { background: var(--bg-dark); color: #c4d0dc; padding: 56px 0 28px; }
+.site-footer { background: var(--bg-dark); color: #d7cdc4; padding: 56px 0 28px; }
 .footer-container { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; display: grid; grid-template-columns: 1.4fr repeat(auto-fit, minmax(160px, 1fr)); gap: 36px; }
 .footer-col h4 { color: #fff; margin-bottom: 16px; font-size: 1rem; letter-spacing: .02em; }
-.footer-col p { color: #9fb0c0; font-size: .95rem; }
+.footer-col p { color: #b0a69b; font-size: .95rem; }
 .footer-col ul { list-style: none; padding: 0; margin: 0; }
 .footer-col ul li { padding: 5px 0; }
-.footer-col a { color: #c4d0dc; }
+.footer-col a { color: #d7cdc4; }
 .footer-col a:hover { color: #fff; }
-.footer-bottom { max-width: var(--maxw); margin: 36px auto 0; padding: 20px 24px 0; border-top: 1px solid rgba(255,255,255,.12); text-align: center; font-size: .85rem; color: #8ea0b2; }
+.footer-bottom { max-width: var(--maxw); margin: 36px auto 0; padding: 20px 24px 0; border-top: 1px solid rgba(255,255,255,.12); text-align: center; font-size: .85rem; color: #a89f96; }
 
 /* ==========================================================================
    RESPONSIVE

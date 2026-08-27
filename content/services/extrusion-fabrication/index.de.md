@@ -34,7 +34,7 @@ schema:
 Alusat macht aus stranggepressten Aluminiumprofilen **fertige, prüfbereite Komponenten**. Über das Strangpressen hinaus bieten wir Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage — Sie erhalten also ein montagefertiges Bauteil statt eines Rohprofils, an dem noch gearbeitet werden muss.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Kundenspezifisch weiterverarbeitete Aluminium-Strangpresskomponenten von Alusat"
      title="Weiterverarbeitete Aluminium-Strangpresskomponenten" >}}
 
@@ -64,7 +64,7 @@ Ein typisches Weiterverarbeitungsprogramm läuft bei Alusat nach einem klaren Ab
 Da die Weiterverarbeitung unmittelbar neben Strangpressen und Zerspanung liegt, iterieren wir bei Konstruktionsänderungen schnell.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="CMM-Präzisionsprüfung weiterverarbeiteter Aluminiumkomponenten bei Alusat"
      title="Prüfung weiterverarbeiteter Komponenten bei Alusat" >}}
 

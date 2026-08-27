@@ -8,22 +8,21 @@
 #
 # DEPLOYMENT / baseURL
 # --------------------------------------------------------------------------
-# Custom domain: https://blog.alusat.com/
+# Custom domain: https://alusat.com/  (apex)
 #   -> served from the master branch via GitHub Actions (build_type: workflow).
-#   blog.alusat.com is a custom domain at the ROOT (no project-page path
-#   prefix), so all asset, canonical, hreflang, sitemap and JSON-LD URLs now
-#   resolve at the domain root.
+#   alusat.com is the apex custom domain (no project-page path prefix), so all
+#   asset, canonical, hreflang, sitemap and JSON-LD URLs resolve at the domain root.
 #
 # CUSTOM DOMAIN binding:
-#   static/CNAME  (content: blog.alusat.com) is copied into public/ by Hugo and
-#   read by GitHub Pages to bind the custom domain. DNS for blog.alusat.com must
-#   point at GitHub Pages (A records 185.199.108-111.153 or CNAME to
-#   your GitHub Pages default domain) for the domain to actually resolve.
+#   static/CNAME  (content: alusat.com) is copied into public/ by Hugo and read
+#   by GitHub Pages to bind the custom domain. DNS for the apex alusat.com must
+#   point at GitHub Pages A records (185.199.108.153 … 185.199.111.153) for
+#   the domain to actually resolve.
 # Every URL is derived from baseURL via .Permalink — no layout/schema edits
 # beyond this file + the CNAME file.
 # ==========================================================================
 
-baseURL = "https://blog.alusat.com/"
+baseURL = "https://alusat.com/"
 locale = "en-US"
 title = "Alusat"
 defaultContentLanguage = "en"
@@ -46,6 +45,10 @@ paginate = 12
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+# Blog permalinks — content/post/* publishes at /blog/<slug>/
+[permalinks]
+  post = "/blog/:slug/"
 
 # Minify configuration
 [minify]

@@ -34,7 +34,7 @@ schema:
 Alusat propose une **finition de surface** qui protège les composants en aluminium et répond aux exigences d'aspect, d'usure et de corrosion. L'anodisation, le thermolaquage, le polissage et le brossage sont réalisés en interne : une pièce brute ou usinée ressort donc en composant fini et conforme à la spécification.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="Finition de surface d'aluminium anodisé et thermolaqué chez Alusat"
      title="Finition de surface de l'aluminium — anodisation et thermolaquage" >}}
 
@@ -50,7 +50,7 @@ La finition détermine souvent la durée de vie en service d'une pièce et la pr
 | Brossage | Grain satiné et directionnel pour une surface homogène et non éblouissante. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Composants d'extrusion d'aluminium sur mesure préparés pour la finition de surface par Alusat"
      title="Composants en aluminium sur mesure destinés à la finition" >}}
 

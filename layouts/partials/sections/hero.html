@@ -17,6 +17,9 @@
       <a href="{{ $rfqHref }}" class="btn btn-primary">Request a Quote</a>
       <a href="mailto:{{ .Site.Params.contact.email | default "sales@example.com" }}" class="btn btn-secondary">Contact Engineering Team</a>
     </div>
+    {{ if .IsHome }}{{ with .Params.hero_stats }}<ul class="hero-stats">
+      {{ range . }}<li class="hero-stat"><span class="stat-num">{{ .value }}</span><span class="stat-label">{{ .label }}</span></li>{{ end }}
+    </ul>{{ end }}{{ end }}
     {{ with .Params.hero_image }}<div class="hero-media"><img src="{{ . }}" alt="{{ $.Title }} — precision manufactured components" loading="lazy" decoding="async"></div>{{ end }}
   </div>
 </section>

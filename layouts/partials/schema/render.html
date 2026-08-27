@@ -86,6 +86,11 @@
     {{- end -}}
   {{- end -}}
 
+  {{- /* Blog posts (content/post/) emit BlogPosting */ -}}
+  {{- if eq .Type "post" -}}
+    {{- $.Scratch.Set "schema_page_type" "blogposting" -}}
+  {{- end -}}
+
   {{- $pageType := .Scratch.Get "schema_page_type" -}}
 
   {{- if eq $pageType "service" -}}
@@ -94,6 +99,8 @@
     {{ partial "schema/product.html" . -}}
   {{- else if eq $pageType "industry" -}}
     {{ partial "schema/industry.html" . -}}
+  {{- else if eq $pageType "blogposting" -}}
+    {{ partial "schema/blogposting.html" . -}}
   {{- else -}}
     {{ partial "schema/article.html" . -}}
   {{- end -}}

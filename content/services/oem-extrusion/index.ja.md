@@ -34,7 +34,7 @@ schema:
 Alusat は、世界のメーカーおよびブランドオーナー向けの**専任OEMアルミ押出パートナー**です。単なる取引先ではなく、お客様の設計チーム・サプライチェーンチームの延長として行動し、早い段階からリスクを共有し、工程全体に責任を持ち、出荷した部品に対して最後まで責任を負います。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/aluminum-extrusion-production-line-factory.webp"
+     src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
      alt="China・Dongguan にある Alusat のアルミ押出製造拠点"
      title="Alusat のアルミ押出製造拠点" >}}
 
@@ -52,7 +52,7 @@ Alusat はプロジェクトのライフサイクル全体をサポートしま�
 工具、押出、表面処理が同一拠点にあるため、設計変更時も迅速に反復対応が可能です。これは決められたスケジュールで新製品を市場投入するチームにとって大きな強みとなります。
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Alusat による熱設計向けカスタムOEMアルミ押出ヒートシンク型材"
      title="カスタムOEMアルミ押出型材" >}}
 

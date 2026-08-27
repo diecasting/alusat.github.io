@@ -34,7 +34,7 @@ schema:
 Alusat propose un **usinage CNC** qui transforme les profilés en aluminium extrudé et les barres en composants finis, prêts au contrôle. Nos centres d'usinage multi-axes et nos tours CNC nous permettent de tenir des tolérances serrées et répétables sur les caractéristiques déterminantes — faces d'étanchéité, alésages, filetages et surfaces de référence — en une seule mise en position parfaitement maîtrisée.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Composants en aluminium usinés CNC de précision et contrôlés chez Alusat"
      title="Usinage CNC de précision de l'aluminium et contrôle" >}}
 
@@ -51,7 +51,7 @@ L'usinage est l'étape où les profilés extrudés deviennent des pièces foncti
 | Finition | Ébavurage et préparation pour anodisation ou thermolaquage. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="Profilé de dissipateur thermique en aluminium usiné CNC avec formes de précision par Alusat"
      title="Formes de dissipateur thermique en aluminium usinées CNC" >}}
 

@@ -34,7 +34,7 @@ schema:
 Alusat provides **CNC machining** that turns extruded aluminum profiles and bar stock into finished, inspection-ready components. Multi-axis machining centers and CNC lathes let us hold tight, repeatable tolerances on the features that matter — sealing faces, bores, threads and locating surfaces — in a single, well-controlled setup.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Precision CNC machined and inspected aluminum components at Alusat"
      title="Precision aluminum CNC machining and inspection" >}}
 
@@ -51,7 +51,7 @@ Machining is where extruded profiles become functional parts. By combining in-ho
 | Finishing | Deburring and preparation for anodizing or powder coating. |
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
      alt="CNC machined aluminum heatsink profile with precision features by Alusat"
      title="CNC machined aluminum heatsink features" >}}
 

@@ -34,7 +34,7 @@ schema:
 Alusat convierte los perfiles de aluminio extruido en **componentes terminados y listos para inspección**. Más allá de la propia extrusión, ofrecemos corte de precisión, taladrado, roscado, curvado, soldadura y montaje, de modo que usted recibe una pieza lista para instalar y no una barra de perfil en bruto que todavía requiere trabajo.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp.webp"
+     src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
      alt="Componentes de extrusión de aluminio fabricados a medida producidos por Alusat"
      title="Componentes de extrusión de aluminio fabricados" >}}
 
@@ -64,7 +64,7 @@ Un programa de fabricación típico en Alusat sigue un recorrido previsible:
 Como la fabricación está junto a la extrusión y el mecanizado, iteramos con rapidez cuando cambia un diseño.
 
 {{< image
-     src="https://alusat.com/wp-content/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
+     src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
      alt="Inspección de precisión CMM de componentes de aluminio fabricados en Alusat"
      title="Inspección de componentes fabricados por Alusat" >}}
 

@@ -23,6 +23,15 @@
 <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
 {{ with .Description }}<meta name="twitter:description" content="{{ . }}">{{ end }}
 
+<!-- Open Graph / Twitter image (page images or hero) -->
+{{- $ogImg := "" -}}
+{{- with .Params.images }}{{ $ogImg = (index . 0) }}{{ else }}{{ with .Params.hero_image }}{{ $ogImg = . }}{{ end }}{{ end -}}
+{{- with $ogImg -}}
+<meta property="og:image" content="{{ . | absURL }}">
+<meta property="og:image:alt" content="{{ $.Title | safeJS }}">
+<meta name="twitter:image" content="{{ . | absURL }}">
+{{- end -}}
+
 <!-- RSS -->
 {{ with .OutputFormats.Get "RSS" }}<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}">{{ end }}
 
@@ -41,6 +50,11 @@
 
   gtag('config', 'G-41EG879WCL');
 </script>
+
+<!-- Web Fonts (matched to WordPress: Poppins headings + Source Sans 3 body) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
 
 <!-- CSS -->
 {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
