@@ -3,6 +3,7 @@ title: "Aluminum Extrusion Design Guide for Engineers"
 description: "Aluminum Extrusion Design Guide for Engineers A complete engineering guide to designing custom aluminum extrusion profiles. Learn about extrusion design considerations, wall thickness optimization, pr"
 layout: "single"
 draft: false
+translationKey: "design-guides"
 ---
 
 ## Aluminum Extrusion Design Guide for Engineers

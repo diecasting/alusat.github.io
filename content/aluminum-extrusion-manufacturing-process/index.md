@@ -3,6 +3,7 @@ title: "Aluminum Extrusion Manufacturing Process From Billet To Finished Profile
 description: "ALUMINUM EXTRUSION MANUFACTURING PROCESS Aluminum Extrusion Manufacturing Process From Billet To Finished Profile Learn how aluminum profiles are manufactured through billet preparation, heating, extr"
 layout: "single"
 draft: false
+translationKey: "manufacturing"
 ---
 
 ALUMINUM EXTRUSION MANUFACTURING PROCESS
