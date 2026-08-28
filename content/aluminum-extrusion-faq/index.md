@@ -3,6 +3,7 @@ title: "Aluminum Extrusion FAQ: Expert Answers About Custom Aluminum Profiles"
 description: "Aluminum Extrusion FAQ: Expert Answers About Custom Aluminum Profiles Find answers to the most common aluminum extrusion questions, including design, cost, manufacturing process, tooling, machining, f"
 layout: "single"
 draft: false
+translationKey: "faq"
 ---
 
 ## Aluminum Extrusion FAQ: Expert Answers About Custom Aluminum Profiles
