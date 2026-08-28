@@ -1,7 +1,7 @@
 # ==========================================================================
-# internal_links.toml — Alusat WordPress internal-linking registry
+# internal_links.toml — YuanZhong Technology Co., Limited WordPress internal-linking registry
 # ==========================================================================
-# Canonical source for SEO internal links that point to Alusat's main
+# Canonical source for SEO internal links that point to YuanZhong Technology Co., Limited's main
 # WordPress site (https://alusat.com/). These are EXTERNAL links used to pass
 # topical relevance and link equity to the primary commercial pages.
 #
@@ -49,7 +49,7 @@ service_default = ["extrusion-services", "fabrication-services", "cnc-machining"
 [links.manufacturing-process]
   url  = "https://alusat.com/aluminum-extrusion-manufacturing-process/"
   text = "Aluminum Extrusion Manufacturing Process"
-  desc = "How Alusat turns aluminum billet into finished profiles, step by step."
+  desc = "How YuanZhong Technology Co., Limited turns aluminum billet into finished profiles, step by step."
 
 [links.oem-extrusion]
   url  = "https://alusat.com/oem-aluminum-extrusion/"

@@ -4,7 +4,7 @@ description: "Aluminum Extrusion Surface Treatment: The Ultimate 2026 Guide Sele
 date: "2023-08-12T03:56:46"
 lastmod: "2026-03-30T11:18:33"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "aluminum-extrusion-finishes"
 layout: "single"

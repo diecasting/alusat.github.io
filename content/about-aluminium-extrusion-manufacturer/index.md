@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "CHINA ALUMINUM EXTRUSION MANUFACTURER Custom Aluminum Extrusion Manufacturer Serving Global OEM Customers Alusat is a China-based aluminum extrusion manufacturer specializing in custom aluminum profil"
+description: "CHINA ALUMINUM EXTRUSION MANUFACTURER Custom Aluminum Extrusion Manufacturer Serving Global OEM Customers YuanZhong Technology Co., Limited is a China-based aluminum extrusion manufacturer specializing in custom aluminum profil"
 layout: "single"
 draft: false
 ---
@@ -9,7 +9,7 @@ CHINA ALUMINUM EXTRUSION MANUFACTURER
 
 ## Custom Aluminum Extrusion Manufacturer Serving Global OEM Customers
 
-Alusat is a China-based aluminum extrusion manufacturer
+YuanZhong Technology Co., Limited is a China-based aluminum extrusion manufacturer
 specializing in custom aluminum profiles, precision extrusion,
 CNC machining, fabrication and surface finishing solutions.
 
@@ -17,12 +17,18 @@ Located in Dongguan, Guangdong, China, we provide
 integrated aluminum extrusion manufacturing services
 for industrial OEM customers worldwide.
 
+Beyond extrusion, YuanZhong Technology Co., Limited is also an aluminum die casting
+manufacturer and OEM manufacturing supplier, delivering precision metal
+components through aluminum die casting, multi-axis CNC machining, surface
+finishing and assembly for buyers who need die-cast and machined parts alongside
+extruded profiles.
+
 [Request Custom Extrusion Quote →](#rfq)
 [Explore Our Services](/aluminum-extrusion-services/)
 
 ## Custom Aluminum Profiles Manufacturing Partner
 
-Alusat provides complete aluminum extrusion solutions
+YuanZhong Technology Co., Limited provides complete aluminum extrusion solutions
 from product concept development to mass production.
 
 Our manufacturing capabilities include aluminum extrusion
@@ -38,9 +44,9 @@ durable and cost-effective aluminum components.
 - Engineering Design Assistance
 - Low Volume Prototype to Mass Production
 
-## Alusat Manufacturing Location & Global Supply Capability
+## YuanZhong Technology Co., Limited Manufacturing Location & Global Supply Capability
 
-Alusat operates from Dongguan, Guangdong, China,
+YuanZhong Technology Co., Limited operates from Dongguan, Guangdong, China,
 one of the world's major manufacturing hubs for
 aluminum processing and industrial supply chains.
 
@@ -79,7 +85,7 @@ EXTRUSION ENGINEERING
 Successful aluminum extrusion starts with professional
 die design and engineering optimization.
 
-Alusat works closely with customers during the early
+YuanZhong Technology Co., Limited works closely with customers during the early
 design stage to analyze profile structures, optimize
 extrusion performance, reduce material waste and improve
 production efficiency.
@@ -110,7 +116,7 @@ MANUFACTURING CAPABILITY
 ## Complete Aluminum Extrusion Manufacturing Solutions
 
 From raw aluminum billets to finished industrial
-components, Alusat provides integrated manufacturing
+components, YuanZhong Technology Co., Limited provides integrated manufacturing
 solutions for OEM customers.
 
 ### Custom Aluminum Extrusion
@@ -149,7 +155,7 @@ durability and corrosion resistance.
 Extrusion alone is often not enough for demanding
 industrial applications.
 
-Alusat provides CNC machining services including
+YuanZhong Technology Co., Limited provides CNC machining services including
 milling, drilling, tapping, cutting and secondary
 fabrication to deliver ready-to-assemble aluminum
 components.
@@ -162,7 +168,7 @@ components.
 ## Professional Aluminum Surface Finishing Services
 
 To meet different application requirements,
-Alusat provides aluminum surface treatment solutions
+YuanZhong Technology Co., Limited provides aluminum surface treatment solutions
 for industrial and commercial products.
 
 **Anodizing**
@@ -178,7 +184,7 @@ Enhanced surface texture and visual quality.QUALITY ASSURANCE
 Quality consistency is critical for industrial
 aluminum components.
 
-Alusat applies professional inspection processes
+YuanZhong Technology Co., Limited applies professional inspection processes
 including dimensional measurement, material testing,
 surface inspection and production monitoring.
 
@@ -190,7 +196,7 @@ QUALITY MANAGEMENT
 
 ## Reliable Aluminum Extrusion Manufacturing With Quality Control
 
-Alusat follows systematic quality management practices
+YuanZhong Technology Co., Limited follows systematic quality management practices
 to ensure stable production performance and consistent
 product quality for global customers.
 
@@ -207,7 +213,7 @@ Aluminum alloy verification
 **Precision Inspection**
 
 Dimensional accuracy verification
-WHY CHOOSE ALUSAT
+WHY CHOOSE YUANZHONG
 
 ## A Complete Aluminum Manufacturing Partner For OEM Projects
 
@@ -239,22 +245,22 @@ Automotive ComponentsIndustrial EquipmentLED Lighting SystemsSolar Energy Struct
 
 ## Your China Aluminum Extrusion Manufacturing Partner
 
-Alusat works with international OEM companies that
+YuanZhong Technology Co., Limited works with international OEM companies that
 require reliable aluminum extrusion manufacturing,
 consistent quality and professional engineering support.
 
 Whether you need custom aluminum profiles,
 precision-machined extrusion components or complete
-surface finishing solutions, Alusat provides a
+surface finishing solutions, YuanZhong Technology Co., Limited provides a
 complete manufacturing pathway from concept to production.
 
 [Start Your Aluminum Extrusion Project →](#rfq)
 
-## Alusat Aluminum Extrusion Manufacturer Entity Information
+## YuanZhong Technology Co., Limited Aluminum Extrusion Manufacturer Entity Information
 
 ### Company
 
-Alusat
+YuanZhong Technology Co., Limited
 
 ### Manufacturing Location
 

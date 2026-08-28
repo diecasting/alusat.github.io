@@ -4,7 +4,7 @@ description: "aluminum extrusion for sliding showers"
 date: "2023-11-03T08:21:27"
 lastmod: "2026-03-30T12:08:21"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "aluminum-extrusion-sliding-shower-door-profiles"
 layout: "single"

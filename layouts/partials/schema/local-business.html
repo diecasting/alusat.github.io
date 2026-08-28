@@ -1,0 +1,75 @@
+{{- /* schema/local-business.html — LocalBusiness + ManufacturingCompany JSON-LD
+   Adds GEO / AI-search entity signals for the rebranded manufacturer:
+   aluminum die casting, CNC machining, OEM supplier, precision metal components.
+   Distinct @id from Organization so both entities are described. */ -}}
+{{- $lang := .Page.Language.Lang -}}
+{{- $org := hugo.Data.schema.organization -}}
+{{- $schema := .Site.Params.schema -}}
+{{- $localized := index $org $lang -}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["LocalBusiness", "ManufacturingCompany"],
+  "@id": "{{ printf "%s#local-business" .Site.BaseURL | safeJS }}",
+  "name": "{{ .Site.Params.company.name | default $localized.name | safeJS }}",
+  "legalName": "{{ $schema.legalName | default $org.identity.legal_name | safeJS }}",
+  "url": "{{ $schema.url | default $org.identity.url | safeJS }}",
+  "logo": "{{ $schema.logo | default $org.identity.logo | absURL | safeJS }}",
+  {{- $imgs := $schema.images | default $org.identity.images -}}
+  {{- with $imgs -}}
+  "image": [
+    {{ range $i, $img := . -}}
+    {{- if $i }}, {{ end -}}"{{ $img | absURL | safeJS }}"
+    {{- end -}}
+  ],
+  {{- end -}}
+  "description": "{{ $localized.description | safeJS }}",
+  "address": {
+    "@type": "PostalAddress",
+    {{ with $schema.streetAddress }}"streetAddress": "{{ . | safeJS }}",{{ end }}
+    {{ with $schema.addressLocality | default $org.identity.address_locality }}"addressLocality": "{{ . | safeJS }}",{{ end }}
+    {{ with $schema.addressRegion | default $org.identity.address_region }}"addressRegion": "{{ . | safeJS }}",{{ end }}
+    {{ with $schema.addressCountry | default $org.identity.address_country }}"addressCountry": "{{ . | safeJS }}"{{ end }}
+  },
+  {{ with $schema.latitude -}}
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ . }},
+    "longitude": {{ $schema.longitude }}
+  },
+  {{ end -}}
+  "knowsAbout": [
+    "Aluminum Die Casting",
+    "CNC Machining",
+    "Aluminum Extrusion",
+    "Surface Finishing",
+    "OEM Manufacturing",
+    "Precision Metal Components"
+  ],
+  "areaServed": [
+    "Worldwide",
+    "North America",
+    "Europe",
+    "Asia"
+  ],
+  "parentOrganization": { "@id": "{{ printf "%s#organization" .Site.BaseURL | safeJS }}" },
+  {{- $sa := slice -}}
+  {{- with $schema.sameAs.linkedin }}{{ $sa = $sa | append . }}{{ end -}}
+  {{- with $schema.sameAs.twitter }}{{ $sa = $sa | append . }}{{ end -}}
+  {{- with $schema.sameAs.youtube }}{{ $sa = $sa | append . }}{{ end -}}
+  {{- if $sa -}}
+  "sameAs": [
+    {{ range $i, $s := $sa -}}
+    {{- if $i }}, {{ end -}}"{{ $s | safeJS }}"
+    {{- end -}}
+  ],
+  {{- end -}}
+  "certifications": [
+    {{- $certs := $schema.certifications | default slice -}}
+    {{ range $i, $c := $certs -}}
+    {{- if $i }}, {{ end -}}"{{ $c | safeJS }}"
+    {{- end -}}
+  ]
+}
+</script>

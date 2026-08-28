@@ -1,7 +1,7 @@
 # ==========================================================================
 # locations.toml — Physical Facility Locations [SITE LAYER]
 # ==========================================================================
-# Alusat aluminum extrusion manufacturing facility.
+# YuanZhong Technology Co., Limited aluminum extrusion manufacturing facility.
 # Feeds Place schema with GeoCoordinates on homepage.
 # ==========================================================================
 
@@ -23,26 +23,26 @@ url = "https://alusat.com/"
 # --- Localized fields ---
 
 [en.main-facility]
-name = "Alusat Aluminum Extrusion Manufacturer"
-description = "Alusat's aluminum extrusion manufacturing facility in Dongguan, Guangdong, China — extrusion presses, fabrication, CNC machining and surface finishing lines serving global OEM customers."
+name = "YuanZhong Technology Co., Limited Aluminum Extrusion Manufacturer"
+description = "YuanZhong Technology Co., Limited's aluminum extrusion manufacturing facility in Dongguan, Guangdong, China — extrusion presses, fabrication, CNC machining and surface finishing lines serving global OEM customers."
 address_display = "Dongguan, Guangdong, China"
 
 [de.main-facility]
-name = "Alusat Aluminum Extrusion Manufacturer"
-description = "Alusats Aluminium-Strangpresswerk in Dongguan, Guangdong, China — Strangpressen, Weiterverarbeitung, CNC-Bearbeitung und Oberflächenveredelung für OEM-Kunden weltweit."
+name = "YuanZhong Technology Co., Limited Aluminum Extrusion Manufacturer"
+description = "YuanZhong Technology Co., Limiteds Aluminium-Strangpresswerk in Dongguan, Guangdong, China — Strangpressen, Weiterverarbeitung, CNC-Bearbeitung und Oberflächenveredelung für OEM-Kunden weltweit."
 address_display = "Dongguan, Guangdong, China"
 
 [ja.main-facility]
-name = "Alusat Aluminum Extrusion Manufacturer"
-description = "中国・広東省東莞市にあるAlusatのアルミ押出製造拠点 — 押出プレス、加工、CNC機械加工、表面処理ラインで世界のOEM顧客に対応します。"
+name = "YuanZhong Technology Co., Limited Aluminum Extrusion Manufacturer"
+description = "中国・広東省東莞市にあるYuanZhong Technology Co., Limitedのアルミ押出製造拠点 — 押出プレス、加工、CNC機械加工、表面処理ラインで世界のOEM顧客に対応します。"
 address_display = "中国 広東省 東莞市"
 
 [fr.main-facility]
-name = "Alusat Aluminum Extrusion Manufacturer"
-description = "L'usine d'extrusion d'aluminium d'Alusat à Dongguan, Guangdong, Chine — presses d'extrusion, fabrication, usinage CNC et lignes de finition de surface au service des clients OEM du monde entier."
+name = "YuanZhong Technology Co., Limited Aluminum Extrusion Manufacturer"
+description = "L'usine d'extrusion d'aluminium d'YuanZhong Technology Co., Limited à Dongguan, Guangdong, Chine — presses d'extrusion, fabrication, usinage CNC et lignes de finition de surface au service des clients OEM du monde entier."
 address_display = "Dongguan, Guangdong, Chine"
 
 [es.main-facility]
-name = "Alusat Aluminum Extrusion Manufacturer"
-description = "La planta de extrusión de aluminio de Alusat en Dongguan, Guangdong, China — prensas de extrusión, fabricación, mecanizado CNC y líneas de acabado de superficies al servicio de clientes OEM de todo el mundo."
+name = "YuanZhong Technology Co., Limited Aluminum Extrusion Manufacturer"
+description = "La planta de extrusión de aluminio de YuanZhong Technology Co., Limited en Dongguan, Guangdong, China — prensas de extrusión, fabricación, mecanizado CNC y líneas de acabado de superficies al servicio de clientes OEM de todo el mundo."
 address_display = "Dongguan, Guangdong, China"

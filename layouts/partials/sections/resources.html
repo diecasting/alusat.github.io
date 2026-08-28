@@ -4,7 +4,7 @@
    Enabled by adding `resources` to a page's front matter `sections` array.
    Reads the page's `internal_linking` keys (falls back to the curated
    homepage list in data/internal_links.toml) and renders SEO internal links
-   to Alusat's main WordPress commercial pages via related-resources.html.
+   to YuanZhong's main WordPress commercial pages via related-resources.html.
    ========================================================================= */ -}}
 {{- $keys := .Params.internal_linking | default hugo.Data.internal_links.homepage -}}
 <section class="section section-resources section-alt" id="resources">
@@ -12,6 +12,6 @@
     {{ partial "related-resources.html" (dict
         "keys"  $keys
         "title" "Explore Our Aluminum Extrusion Capabilities"
-        "lead"  "Go deeper into Alusat's aluminum extrusion, fabrication, CNC machining and surface finishing services on our main site.") }}
+        "lead"  "Go deeper into YuanZhong's aluminum extrusion, fabrication, CNC machining and surface finishing services on our main site.") }}
   </div>
 </section>

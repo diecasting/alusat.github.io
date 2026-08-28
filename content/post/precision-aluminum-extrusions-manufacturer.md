@@ -4,7 +4,7 @@ description: "Precision Aluminum Extrusions Manufacturer | ±0.001″ High-Toler
 date: "2023-05-25T07:10:59"
 lastmod: "2026-03-30T11:01:53"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "precision-aluminum-extrusions-manufacturer"
 layout: "single"

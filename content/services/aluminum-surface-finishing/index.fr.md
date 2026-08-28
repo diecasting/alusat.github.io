@@ -1,6 +1,6 @@
 ---
 title: "Services de finition de surface de l'aluminium"
-description: "Alusat propose l'anodisation, le thermolaquage, le polissage et le brossage des profilés et composants en aluminium — pour protéger les pièces et respecter les spécifications d'aspect et de résistance à la corrosion des clients OEM du monde entier."
+description: "YuanZhong Technology Co., Limited propose l'anodisation, le thermolaquage, le polissage et le brossage des profilés et composants en aluminium — pour protéger les pièces et respecter les spécifications d'aspect et de résistance à la corrosion des clients OEM du monde entier."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Protection contre la corrosion", "Aspect", "Résistance à l'usu
 industries: ["Architecture", "Automobile", "Électronique", "Éclairage LED", "Énergie solaire", "Marine"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-cnc-machining", "oem-extrusion"]
 seo:
-  meta_title: "Services de finition de surface de l'aluminium | Alusat"
-  meta_description: "Anodisation, thermolaquage, polissage et brossage des profilés et composants en aluminium — résistance à la corrosion et qualité d'aspect par Alusat."
+  meta_title: "Services de finition de surface de l'aluminium | YuanZhong Technology Co., Limited"
+  meta_description: "Anodisation, thermolaquage, polissage et brossage des profilés et composants en aluminium — résistance à la corrosion et qualité d'aspect par YuanZhong Technology Co., Limited."
   keywords: ["finition de surface de l'aluminium", "anodisation de l'aluminium", "thermolaquage de l'aluminium", "polissage de l'aluminium", "services de finition de l'aluminium"]
 schema:
   faq:
-    - question: "Quelles finitions de surface de l'aluminium Alusat propose-t-il ?"
+    - question: "Quelles finitions de surface de l'aluminium YuanZhong Technology Co., Limited propose-t-il ?"
       answer: "Nous proposons l'anodisation (incolore et colorée), le thermolaquage en teintes RAL standard et personnalisées, le polissage et le brossage, sélectionnés selon les exigences de corrosion, d'usure, d'aspect ou d'isolation."
     - question: "Finissez-vous les pièces issues de l'extrusion ou de l'usinage ?"
       answer: "Oui. Les pièces en aluminium extrudées, parachevées et usinées CNC peuvent toutes entrer dans notre ligne de finition, si bien que vous recevez un composant fini unique plutôt que des étapes de procédé séparées."
@@ -31,11 +31,11 @@ schema:
 
 ## Services de finition de surface de l'aluminium
 
-Alusat propose une **finition de surface** qui protège les composants en aluminium et répond aux exigences d'aspect, d'usure et de corrosion. L'anodisation, le thermolaquage, le polissage et le brossage sont réalisés en interne : une pièce brute ou usinée ressort donc en composant fini et conforme à la spécification.
+YuanZhong Technology Co., Limited propose une **finition de surface** qui protège les composants en aluminium et répond aux exigences d'aspect, d'usure et de corrosion. L'anodisation, le thermolaquage, le polissage et le brossage sont réalisés en interne : une pièce brute ou usinée ressort donc en composant fini et conforme à la spécification.
 
 {{< image
      src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
-     alt="Finition de surface d'aluminium anodisé et thermolaqué chez Alusat"
+     alt="Finition de surface d'aluminium anodisé et thermolaqué chez YuanZhong Technology Co., Limited"
      title="Finition de surface de l'aluminium — anodisation et thermolaquage" >}}
 
 La finition détermine souvent la durée de vie en service d'une pièce et la première impression qu'elle donne. En conservant la finition en interne, aux côtés de nos autres procédés, nous maîtrisons la préparation, l'épaisseur et l'adhérence au lieu de confier cette responsabilité à un tiers.
@@ -51,7 +51,7 @@ La finition détermine souvent la durée de vie en service d'une pièce et la pr
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Composants d'extrusion d'aluminium sur mesure préparés pour la finition de surface par Alusat"
+     alt="Composants d'extrusion d'aluminium sur mesure préparés pour la finition de surface par YuanZhong Technology Co., Limited"
      title="Composants en aluminium sur mesure destinés à la finition" >}}
 
 ## Maîtrise du procédé et de l'épaisseur

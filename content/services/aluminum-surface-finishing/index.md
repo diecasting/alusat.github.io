@@ -1,6 +1,6 @@
 ---
 title: "Aluminum Surface Finishing Services"
-description: "Alusat provides anodizing, powder coating, polishing and brushing for aluminum profiles and components — protecting parts and meeting appearance and corrosion-resistance specifications for global OEM customers."
+description: "YuanZhong Technology Co., Limited provides anodizing, powder coating, polishing and brushing for aluminum profiles and components — protecting parts and meeting appearance and corrosion-resistance specifications for global OEM customers."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Corrosion protection", "Appearance", "Wear resistance", "Electri
 industries: ["Architecture", "Automotive", "Electronics", "LED Lighting", "Solar Energy", "Marine"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-cnc-machining", "oem-extrusion"]
 seo:
-  meta_title: "Aluminum Surface Finishing Services | Alusat"
-  meta_description: "Anodizing, powder coating, polishing and brushing for aluminum profiles and components — corrosion resistance and appearance from Alusat."
+  meta_title: "Aluminum Surface Finishing Services | YuanZhong Technology Co., Limited"
+  meta_description: "Anodizing, powder coating, polishing and brushing for aluminum profiles and components — corrosion resistance and appearance from YuanZhong Technology Co., Limited."
   keywords: ["aluminum surface finishing", "aluminum anodizing", "aluminum powder coating", "aluminum polishing", "aluminum finishing services"]
 schema:
   faq:
-    - question: "Which aluminum surface finishes does Alusat offer?"
+    - question: "Which aluminum surface finishes does YuanZhong Technology Co., Limited offer?"
       answer: "We offer anodizing (clear and color), powder coating in standard and custom RAL colors, polishing and brushing, selected to meet corrosion, wear, appearance or insulation requirements."
     - question: "Do you finish parts made by extrusion or machining?"
       answer: "Yes. Extruded, fabricated and CNC-machined aluminum parts can all enter our finishing line, so you receive a single finished component rather than separate process steps."
@@ -31,11 +31,11 @@ schema:
 
 ## Aluminum Surface Finishing Services
 
-Alusat provides **surface finishing** that protects aluminum components and meets appearance, wear and corrosion requirements. Anodizing, powder coating, polishing and brushing are applied in house, so a raw or machined part leaves as a finished, specification-compliant component.
+YuanZhong Technology Co., Limited provides **surface finishing** that protects aluminum components and meets appearance, wear and corrosion requirements. Anodizing, powder coating, polishing and brushing are applied in house, so a raw or machined part leaves as a finished, specification-compliant component.
 
 {{< image
      src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
-     alt="Anodized and powder coated aluminum surface finishing at Alusat"
+     alt="Anodized and powder coated aluminum surface finishing at YuanZhong Technology Co., Limited"
      title="Aluminum surface finishing — anodizing and powder coating" >}}
 
 Finish is often what determines a part's service life and first impression. By keeping finishing in house alongside our other processes, we control preparation, thickness and adhesion rather than handing that responsibility to a third party.
@@ -51,7 +51,7 @@ Finish is often what determines a part's service life and first impression. By k
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Custom aluminum extrusion components prepared for surface finishing by Alusat"
+     alt="Custom aluminum extrusion components prepared for surface finishing by YuanZhong Technology Co., Limited"
      title="Custom aluminum components for finishing" >}}
 
 ## Process and Thickness Control

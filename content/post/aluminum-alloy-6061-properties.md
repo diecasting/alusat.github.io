@@ -4,7 +4,7 @@ description: "6061 Aluminum Alloy: The Versatile Structural Material 6061 alumin
 date: "2023-08-14T02:20:55"
 lastmod: "2026-03-30T11:41:39"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminum-alloy-6061-properties"]
 slug: "aluminum-alloy-6061-properties"

@@ -4,7 +4,7 @@ description: "Aluminum vs Copper: Which is the Better Conductor? The choice betw
 date: "2023-10-28T07:24:43"
 lastmod: "2026-03-30T11:44:27"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "aluminum-vs-copper-conductivity-comparison"
 layout: "single"

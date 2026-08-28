@@ -1,6 +1,6 @@
 ---
-title: "Aluminium Section Company | Custom Profiles Manufacturer | Alusat"
-description: "Premium Aluminium Section Manufacturing Company High-precision [aluminium profiles](/aluminum-extrusion/) for demanding industrial, automotive, and construction projects. Why Choose Alusat as Your Alu"
+title: "Aluminium Section Company | Custom Profiles Manufacturer | YuanZhong Technology Co., Limited"
+description: "Premium Aluminium Section Manufacturing Company High-precision [aluminium profiles](/aluminum-extrusion/) for demanding industrial, automotive, and construction projects. Why Choose YuanZhong Technology Co., Limited as Your Alu"
 layout: "single"
 draft: false
 ---
@@ -9,9 +9,9 @@ draft: false
 
 High-precision [aluminium profiles](/aluminum-extrusion/) for demanding industrial, automotive, and construction projects.
 
-## Why Choose Alusat as Your Aluminium Section Partner?
+## Why Choose YuanZhong Technology Co., Limited as Your Aluminium Section Partner?
 
-As a specialized **aluminium section company**, Alusat combines 20+ years of technical expertise with state-of-the-art production facilities. Our [ISO 9001 certified](/about/) processes ensure every millimetre of your profile meets international standards.
+As a specialized **aluminium section company**, YuanZhong Technology Co., Limited combines 20+ years of technical expertise with state-of-the-art production facilities. Our [ISO 9001 certified](/about/) processes ensure every millimetre of your profile meets international standards.
 
 From initial design consultation to final delivery, we offer a seamless [aluminum extrusion manufacturing](/aluminum-extrusion-process/) experience. We specialize in complex hollow sections and high-strength alloys that push the boundaries of modern engineering.
 

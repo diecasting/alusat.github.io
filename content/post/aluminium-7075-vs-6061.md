@@ -4,7 +4,7 @@ description: "7075 vs 6061 Aluminum: Which Alloy Should You Choose? The choice b
 date: "2020-03-08T02:35:16"
 lastmod: "2026-03-30T10:46:12"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminium-6061-vs-7075-chemical-properties", "aluminium-6061-vs-7075-density", "aluminium-6061-vs-7075-mechanical-properties"]
 slug: "aluminium-7075-vs-6061"

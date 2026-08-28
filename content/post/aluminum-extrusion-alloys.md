@@ -4,7 +4,7 @@ description: "Aluminum Extrusion Alloys: Selecting the Right Material Choosing t
 date: "2023-08-13T11:04:11"
 lastmod: "2026-03-30T11:28:02"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminum-extrusion-alloys"]
 slug: "aluminum-extrusion-alloys"

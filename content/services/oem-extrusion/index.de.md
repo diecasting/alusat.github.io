@@ -1,6 +1,6 @@
 ---
 title: "OEM-Aluminium-Strangpressen"
-description: "Alusat ist ein dedizierter OEM-Partner für Aluminium-Strangpressprofile für globale Hersteller und Marken — Serienprofile, Fertigung nach Kundenzeichnung und Neuproduktentwicklung mit PPAP-ähnlicher Dokumentation und Exportlogistik."
+description: "YuanZhong Technology Co., Limited ist ein dedizierter OEM-Partner für Aluminium-Strangpressprofile für globale Hersteller und Marken — Serienprofile, Fertigung nach Kundenzeichnung und Neuproduktentwicklung mit PPAP-ähnlicher Dokumentation und Exportlogistik."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Serienprofile", "Komponenten nach Kundenzeichnung", "Neuprodukte
 industries: ["Automobil", "Elektronik", "Industrieautomation", "Solarenergie", "LED-Beleuchtung", "Architektur"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-cnc-machining", "aluminum-surface-finishing", "complex-profiles"]
 seo:
-  meta_title: "OEM-Aluminium-Strangpressen | Alusat"
-  meta_description: "Dedizierter OEM-Partner für Aluminium-Strangpressprofile für globale Hersteller — Serienprofile, Komponenten nach Kundenzeichnung, PPAP-Dokumentation und Exportlogistik von Alusat."
+  meta_title: "OEM-Aluminium-Strangpressen | YuanZhong Technology Co., Limited"
+  meta_description: "Dedizierter OEM-Partner für Aluminium-Strangpressprofile für globale Hersteller — Serienprofile, Komponenten nach Kundenzeichnung, PPAP-Dokumentation und Exportlogistik von YuanZhong Technology Co., Limited."
   keywords: ["OEM-Aluminium-Strangpressen", "Partner für Aluminium-Strangpressprofile", "Aluminium nach Kundenzeichnung", "Aluminium-Auftragsfertigung", "OEM-Aluminiumlieferant China"]
 schema:
   faq:
-    - question: "Was umfasst eine OEM-Partnerschaft mit Alusat?"
+    - question: "Was umfasst eine OEM-Partnerschaft mit YuanZhong Technology Co., Limited?"
       answer: "Wir agieren als Fertigungspartner aus einer Hand: Werkzeugkonstruktion, Strangpressen, Weiterverarbeitung, CNC-Bearbeitung, Oberflächenveredelung und Prüfung unter einem Dach, mit Abrufplanung und Exportlogistik für globale Programme."
     - question: "Unterstützen Sie Serienfertigung und Abrufbelieferung?"
       answer: "Ja. Wir unterstützen wiederkehrende Produktion auf Basis jährlicher Rahmenverträge mit Abrufplanung; vorhandene Werkzeuge halten die Nachbestellzeiten deutlich kürzer als bei Erstmustern."
@@ -31,18 +31,18 @@ schema:
 
 ## OEM-Partner für Aluminium-Strangpressprofile
 
-Alusat ist ein **dedizierter OEM-Partner für Aluminium-Strangpressprofile** für globale Hersteller und Markenanbieter. Statt eines transaktionalen Lieferanten sind wir eine Erweiterung Ihres Engineering- und Supply-Chain-Teams — wir übernehmen früh Verantwortung, halten den Prozess durchgängig in der Hand und stehen für die gelieferten Teile ein.
+YuanZhong Technology Co., Limited ist ein **dedizierter OEM-Partner für Aluminium-Strangpressprofile** für globale Hersteller und Markenanbieter. Statt eines transaktionalen Lieferanten sind wir eine Erweiterung Ihres Engineering- und Supply-Chain-Teams — wir übernehmen früh Verantwortung, halten den Prozess durchgängig in der Hand und stehen für die gelieferten Teile ein.
 
 {{< image
      src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
-     alt="Werk von Alusat für Aluminium-Strangpressfertigung in Dongguan, China"
-     title="Strangpresswerk von Alusat" >}}
+     alt="Werk von YuanZhong Technology Co., Limited für Aluminium-Strangpressfertigung in Dongguan, China"
+     title="Strangpresswerk von YuanZhong Technology Co., Limited" >}}
 
 Von der ersten Werkzeugkonstruktion bis zum fertig eloxierten, geprüften und verpackten Bauteil liegt jeder Arbeitsgang unter einem Dach und in einem Qualitätssystem. Diese vertikale Integration ermöglicht es uns, realistisch zu kalkulieren, Lieferzeiten einzuhalten und Toleranzen vom ersten Prototyp bis zur Serienfertigung konstant zu halten.
 
 ## Begleitung über den gesamten Programmlebenszyklus
 
-Alusat begleitet den gesamten Programmlebenszyklus:
+YuanZhong Technology Co., Limited begleitet den gesamten Programmlebenszyklus:
 
 - **Prototypen und Muster** — Erstmusterprofile und bearbeitete Muster zur Prüfung von Passform, Form und Funktion vor der Volumenzusage.
 - **Vorserien** — Kleinserien zur Validierung von Veredelung, Verpackung und Linienintegration.
@@ -53,7 +53,7 @@ Da Werkzeugbau, Strangpressen und Veredelung an einem Standort liegen, iterieren
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
-     alt="Kundenspezifische stranggepresste OEM-Aluminium-Kühlkörperprofile für das Wärmemanagement von Alusat"
+     alt="Kundenspezifische stranggepresste OEM-Aluminium-Kühlkörperprofile für das Wärmemanagement von YuanZhong Technology Co., Limited"
      title="Kundenspezifische stranggepresste OEM-Aluminiumprofile" >}}
 
 ## Fertigung nach Kundenzeichnung und Dokumentation
@@ -67,9 +67,9 @@ Für Überseeprogramme sind internationale Dokumentation, Verpackung und Logisti
 
 ## Globale Märkte und Logistik
 
-Alusat beliefert OEM-Hersteller und Markenanbieter, die Produkte für die Exportmärkte in den Vereinigten Staaten, der Europäischen Union und in ganz Asien fertigen. Wir arbeiten mit metrischen wie zölligen Zeichnungen, und unser Team arbeitet auf Englisch, um Normen und Compliance so zu behandeln, wie es Einkaufsteams in den USA und der EU erwarten.
+YuanZhong Technology Co., Limited beliefert OEM-Hersteller und Markenanbieter, die Produkte für die Exportmärkte in den Vereinigten Staaten, der Europäischen Union und in ganz Asien fertigen. Wir arbeiten mit metrischen wie zölligen Zeichnungen, und unser Team arbeitet auf Englisch, um Normen und Compliance so zu behandeln, wie es Einkaufsteams in den USA und der EU erwarten.
 
-## Warum globale Einkäufer Alusat als OEM-Partner wählen
+## Warum globale Einkäufer YuanZhong Technology Co., Limited als OEM-Partner wählen
 
 - **Verantwortung aus einer Hand** — Strangpressen, Weiterverarbeitung, Zerspanung, Veredelung und Prüfung unter einem Dach.
 - **Technikgetriebene Angebotserstellung** — eine Bewertung der fertigungsgerechten Konstruktion, bevor das Werkzeug gefertigt wird, damit Sie teure Überraschungen vermeiden.
@@ -79,6 +79,6 @@ Alusat beliefert OEM-Hersteller und Markenanbieter, die Produkte für die Export
 
 ## Starten Sie Ihr OEM-Strangpressprogramm
 
-Ob Einzelprototyp oder OEM-Serienprogramm — Alusat nimmt Ihre 2D- oder 3D-Zeichnung oder Ihr Muster entgegen und liefert eine Machbarkeitsbewertung, ein Werkzeugkonzept und ein Angebot. Nutzen Sie das Anfrageformular unten, um Zeichnung, gewünschte Legierung, Volumina, Toleranzen und Anforderungen an die Oberfläche zu übermitteln, oder schreiben Sie unserem Engineering-Team direkt an hank@alusat.com.
+Ob Einzelprototyp oder OEM-Serienprogramm — YuanZhong Technology Co., Limited nimmt Ihre 2D- oder 3D-Zeichnung oder Ihr Muster entgegen und liefert eine Machbarkeitsbewertung, ein Werkzeugkonzept und ein Angebot. Nutzen Sie das Anfrageformular unten, um Zeichnung, gewünschte Legierung, Volumina, Toleranzen und Anforderungen an die Oberfläche zu übermitteln, oder schreiben Sie unserem Engineering-Team direkt an hank@alusat.com.
 
 {{< rfq_form >}}

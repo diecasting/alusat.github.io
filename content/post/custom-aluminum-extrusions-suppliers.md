@@ -4,7 +4,7 @@ description: "How to Choose the Best Custom Aluminum Extrusions Supplier in 2026
 date: "2022-11-13T02:25:39"
 lastmod: "2026-03-30T10:46:04"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminum-extrusion-profile-company", "custom-aluminum-extrusion-suppliers"]
 slug: "custom-aluminum-extrusions-suppliers"

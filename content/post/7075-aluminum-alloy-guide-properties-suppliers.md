@@ -4,7 +4,7 @@ description: "7075 Aluminum Alloy: The High-Strength Aerospace-Grade Material 70
 date: "2023-10-29T10:10:06"
 lastmod: "2026-03-30T11:55:45"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "7075-aluminum-alloy-guide-properties-suppliers"
 layout: "single"
@@ -12,7 +12,7 @@ layout: "single"
 
 ## 7075 Aluminum Alloy: The High-Strength Aerospace-Grade Material
 
-**7075 aluminum alloy** stands as a pinnacle of engineering, offering a strength-to-weight ratio that rivals many steels. Known primarily for its aerospace applications, this zinc-based alloy is the go-to choice for high-stress environments. At Alusat, a leading [aluminum manufacturer](/aluminum-extrusion-manufacturer-in-china-a-comprehensive-guide/), we provide specialized 7075 solutions tailored for your precision needs.
+**7075 aluminum alloy** stands as a pinnacle of engineering, offering a strength-to-weight ratio that rivals many steels. Known primarily for its aerospace applications, this zinc-based alloy is the go-to choice for high-stress environments. At YuanZhong Technology Co., Limited, a leading [aluminum manufacturer](/aluminum-extrusion-manufacturer-in-china-a-comprehensive-guide/), we provide specialized 7075 solutions tailored for your precision needs.
 
 ## Key Properties of 7075 Aluminum Alloy
 

@@ -4,7 +4,7 @@ description: "Aluminum Extrusion vs. Machining: Choosing the Right Process When 
 date: "2023-08-13T12:58:02"
 lastmod: "2026-03-30T11:32:48"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminum-extrusion-vs-machining"]
 slug: "aluminum-extrusion-vs-machining"

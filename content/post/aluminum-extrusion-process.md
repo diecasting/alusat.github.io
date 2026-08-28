@@ -4,7 +4,7 @@ description: "Inside Aluminum Extrusion: The Complete Manufacturing Process Unde
 date: "2023-08-12T03:17:12"
 lastmod: "2026-03-30T11:15:39"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminum-extrusion-process"]
 slug: "aluminum-extrusion-process"

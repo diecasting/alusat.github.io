@@ -1,6 +1,6 @@
 ---
 title: "Services d'usinage CNC de l'aluminium"
-description: "Alusat assure l'usinage CNC multi-axes des extrusions et profilés en aluminium — fraisage, tournage et formes complexes à des tolérances serrées et répétables pour les surfaces fonctionnelles et d'accouplement des composants OEM."
+description: "YuanZhong Technology Co., Limited assure l'usinage CNC multi-axes des extrusions et profilés en aluminium — fraisage, tournage et formes complexes à des tolérances serrées et répétables pour les surfaces fonctionnelles et d'accouplement des composants OEM."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,30 +12,30 @@ applications: ["Filetages et alésages", "Poches de précision", "Formes d'accou
 industries: ["Automobile", "Électronique", "Automatisation industrielle", "Éclairage LED", "Énergie solaire"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "Services d'usinage CNC de l'aluminium | Alusat"
-  meta_description: "Fraisage et tournage CNC multi-axes des extrusions et profilés en aluminium à des tolérances serrées et répétables — les formes impossibles à extruder, usinées par Alusat."
+  meta_title: "Services d'usinage CNC de l'aluminium | YuanZhong Technology Co., Limited"
+  meta_description: "Fraisage et tournage CNC multi-axes des extrusions et profilés en aluminium à des tolérances serrées et répétables — les formes impossibles à extruder, usinées par YuanZhong Technology Co., Limited."
   keywords: ["usinage CNC de l'aluminium", "fraisage CNC de l'aluminium", "tournage CNC de l'aluminium", "usinage de précision de l'aluminium", "services d'usinage de l'aluminium"]
 schema:
   faq:
-    - question: "Quels équipements CNC Alusat exploite-t-il pour l'aluminium ?"
+    - question: "Quels équipements CNC YuanZhong Technology Co., Limited exploite-t-il pour l'aluminium ?"
       answer: "Nous exploitons des centres d'usinage multi-axes et des tours CNC capables de réaliser fraisage, tournage, perçage et filetage complexes sur des profilés et composants en aluminium, en une seule mise en position parfaitement maîtrisée."
     - question: "Quelles formes sont les mieux réalisées par usinage CNC ?"
       answer: "Les filetages, alésages de précision, poches, surfaces de référence et autres formes impossibles à obtenir par extrusion seule sont réalisés sur centres d'usinage CNC à des tolérances serrées."
     - question: "Quelles tolérances pouvez-vous tenir sur l'aluminium ?"
       answer: "Nous tenons des tolérances serrées et répétables sur les faces d'étanchéité, les alésages, les filetages et les surfaces de référence, avec une vérification CMM par rapport au modèle CAO sur chaque caractéristique critique."
     - question: "Usinez-vous des pièces fournies par le client ou des pièces extrudées ?"
-      answer: "Oui. Nous usinons aussi bien les profilés extrudés par Alusat que les pièces en aluminium fournies par le client, en apportant de la valeur par les formes de précision, le contrôle et la traçabilité."
+      answer: "Oui. Nous usinons aussi bien les profilés extrudés par YuanZhong Technology Co., Limited que les pièces en aluminium fournies par le client, en apportant de la valeur par les formes de précision, le contrôle et la traçabilité."
     - question: "Comment demander un devis d'usinage de l'aluminium ?"
       answer: "Envoyez vos plans, la nuance de matériau, les quantités et les tolérances via le formulaire de demande de devis de ce site ou par e-mail à hank@alusat.com : notre équipe d'ingénierie vous renverra une analyse de faisabilité et une offre de prix."
 ---
 
 ## Services d'usinage CNC de l'aluminium
 
-Alusat propose un **usinage CNC** qui transforme les profilés en aluminium extrudé et les barres en composants finis, prêts au contrôle. Nos centres d'usinage multi-axes et nos tours CNC nous permettent de tenir des tolérances serrées et répétables sur les caractéristiques déterminantes — faces d'étanchéité, alésages, filetages et surfaces de référence — en une seule mise en position parfaitement maîtrisée.
+YuanZhong Technology Co., Limited propose un **usinage CNC** qui transforme les profilés en aluminium extrudé et les barres en composants finis, prêts au contrôle. Nos centres d'usinage multi-axes et nos tours CNC nous permettent de tenir des tolérances serrées et répétables sur les caractéristiques déterminantes — faces d'étanchéité, alésages, filetages et surfaces de référence — en une seule mise en position parfaitement maîtrisée.
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Composants en aluminium usinés CNC de précision et contrôlés chez Alusat"
+     alt="Composants en aluminium usinés CNC de précision et contrôlés chez YuanZhong Technology Co., Limited"
      title="Usinage CNC de précision de l'aluminium et contrôle" >}}
 
 L'usinage est l'étape où les profilés extrudés deviennent des pièces fonctionnelles. En combinant nos moyens CNC internes à nos procédés d'extrusion et de parachèvement, nous supprimons les transferts entre fournisseurs et maintenons des délais courts et des résultats constants.
@@ -52,7 +52,7 @@ L'usinage est l'étape où les profilés extrudés deviennent des pièces foncti
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
-     alt="Profilé de dissipateur thermique en aluminium usiné CNC avec formes de précision par Alusat"
+     alt="Profilé de dissipateur thermique en aluminium usiné CNC avec formes de précision par YuanZhong Technology Co., Limited"
      title="Formes de dissipateur thermique en aluminium usinées CNC" >}}
 
 ## Les formes les mieux réalisées par usinage

@@ -1,6 +1,6 @@
 ---
 title: "アルミCNC加工サービス"
-description: "Alusat はアルミ押出材・型材の多軸CNC加工をご提供します。フライス加工、旋盤加工、複雑形状加工により、OEM部品の機能面・合わせ面を厳しく再現性の高い公差で仕上げます。"
+description: "YuanZhong Technology Co., Limited はアルミ押出材・型材の多軸CNC加工をご提供します。フライス加工、旋盤加工、複雑形状加工により、OEM部品の機能面・合わせ面を厳しく再現性の高い公差で仕上げます。"
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,30 +12,30 @@ applications: ["ねじ・穴加工", "精密ポケット", "合わせ形状", "�
 industries: ["自動車", "電子機器", "産業オートメーション", "LED照明", "太陽光発電"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "アルミCNC加工サービス | Alusat"
-  meta_description: "アルミ押出材・型材の多軸CNCフライス加工・旋盤加工を厳しく再現性の高い公差で実施。押出では形成できない形状を Alusat が加工します。"
+  meta_title: "アルミCNC加工サービス | YuanZhong Technology Co., Limited"
+  meta_description: "アルミ押出材・型材の多軸CNCフライス加工・旋盤加工を厳しく再現性の高い公差で実施。押出では形成できない形状を YuanZhong Technology Co., Limited が加工します。"
   keywords: ["アルミCNC加工", "アルミ CNCフライス加工", "アルミ CNC旋盤加工", "アルミ 精密加工", "アルミ加工サービス"]
 schema:
   faq:
-    - question: "Alusat はアルミ加工にどのようなCNC設備を保有していますか？"
+    - question: "YuanZhong Technology Co., Limited はアルミ加工にどのようなCNC設備を保有していますか？"
       answer: "多軸マシニングセンタおよびCNC旋盤を保有し、アルミ型材・部品の複雑なフライス加工、旋盤加工、穴あけ、ねじ加工を、管理された単一段取りの中で実施できます。"
     - question: "CNC加工に適した形状はどのようなものですか？"
       answer: "ねじ、精密穴、ポケット、位置決め面など、押出だけでは実現できない形状をCNCマシニングセンタで厳しい公差にて加工いたします。"
     - question: "アルミ材でどの程度の公差を確保できますか？"
       answer: "シール面、穴、ねじ、位置決め面において厳しく再現性の高い公差を確保し、重要形状はすべてCADモデルと照合してCMM検証を行います。"
     - question: "支給部品や押出材の加工も対応できますか？"
-      answer: "はい。Alusat で押出した型材はもちろん、お客様支給のアルミ部品も加工いたします。精密形状の付加、検査、トレーサビリティにより付加価値をご提供します。"
+      answer: "はい。YuanZhong Technology Co., Limited で押出した型材はもちろん、お客様支給のアルミ部品も加工いたします。精密形状の付加、検査、トレーサビリティにより付加価値をご提供します。"
     - question: "アルミ加工の見積もりはどのように依頼できますか？"
       answer: "図面、材質、数量、公差を本サイトのRFQフォームまたは hank@alusat.com までお送りください。エンジニアリングチームより製造可否の検討結果とお見積もりをご返信いたします。"
 ---
 
 ## アルミCNC加工サービス
 
-Alusat は、押出アルミ型材や棒材を検査済みの完成部品へと仕上げる**CNC加工**をご提供します。多軸マシニングセンタとCNC旋盤により、シール面、穴、ねじ、位置決め面といった重要形状を、管理された単一段取りの中で厳しく再現性の高い公差に仕上げます。
+YuanZhong Technology Co., Limited は、押出アルミ型材や棒材を検査済みの完成部品へと仕上げる**CNC加工**をご提供します。多軸マシニングセンタとCNC旋盤により、シール面、穴、ねじ、位置決め面といった重要形状を、管理された単一段取りの中で厳しく再現性の高い公差に仕上げます。
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Alusat における精密CNC加工および検査済みアルミ部品"
+     alt="YuanZhong Technology Co., Limited における精密CNC加工および検査済みアルミ部品"
      title="アルミ精密CNC加工と検査" >}}
 
 機械加工は、押出型材が機能部品へと変わる工程です。自社CNC設備を押出および二次加工と組み合わせることで、サプライヤー間の引き継ぎを排除し、短いリードタイムと安定した品質を実現します。
@@ -52,7 +52,7 @@ Alusat は、押出アルミ型材や棒材を検査済みの完成部品へと�
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
-     alt="Alusat による精密形状を備えたCNC加工アルミヒートシンク型材"
+     alt="YuanZhong Technology Co., Limited による精密形状を備えたCNC加工アルミヒートシンク型材"
      title="CNC加工によるアルミヒートシンク形状" >}}
 
 ## 機械加工に適した形状

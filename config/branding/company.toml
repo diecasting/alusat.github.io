@@ -10,14 +10,16 @@
 
 [params]
 [params.company]
-  name = "Alusat"
-  tagline = "Aluminum Extrusion Manufacturer"
+  name = "YuanZhong Technology Co., Limited"
+  tagline = "Aluminum Die Casting & Precision Metal Manufacturing"
 
   [params.company.branding]
     # Absolute or root-relative logo URL (PNG/SVG). Empty = text wordmark.
     logo = ""
+    # Short visible wordmark (header). Empty = company.name.
+    wordmark = "YuanZhong"
     # 1-3 letter monogram shown in the header logo mark.
     # Empty = first 2 letters of company.name.
-    logo_mark = "AL"
+    logo_mark = "YZ"
     # Small text under the wordmark. Empty = company.tagline.
-    logo_subtitle = "Aluminum Extrusion Manufacturer"
+    logo_subtitle = "Die Casting · CNC · OEM"

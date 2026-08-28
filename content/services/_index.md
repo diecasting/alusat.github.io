@@ -1,5 +1,5 @@
 ---
 title: "Services"
-description: "Alusat aluminum extrusion services — custom profiles, extrusion fabrication, CNC machining, surface finishing and OEM partner programs for global manufacturers."
+description: "YuanZhong Technology Co., Limited aluminum extrusion services — custom profiles, extrusion fabrication, CNC machining, surface finishing and OEM partner programs for global manufacturers."
 layout: "list"
 ---

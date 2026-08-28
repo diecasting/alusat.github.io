@@ -2,7 +2,7 @@
 # manufacturing.toml — Manufacturing Capabilities [SITE LAYER]
 # ==========================================================================
 # Feeds ManufacturingBusiness "knowsAbout"/"owns" and capabilities sections.
-# Describes Alusat's aluminum extrusion process, equipment and materials.
+# Describes YuanZhong Technology Co., Limited's aluminum extrusion process, equipment and materials.
 # ==========================================================================
 
 # --- Language-neutral equipment & process identifiers ---
@@ -39,7 +39,7 @@ knows_about = [
   "Surface Finishing: anodizing, powder coating, polishing",
   "Quality Assurance: CMM inspection, alloy verification"
 ]
-capabilities_description = "Alusat is an aluminum extrusion manufacturer in China integrating custom profile extrusion, fabrication, CNC machining and surface finishing for global OEM customers. From our plant in Dongguan, Guangdong, we deliver extruded aluminum components to export markets across North America, Europe and Asia."
+capabilities_description = "YuanZhong Technology Co., Limited is an aluminum extrusion manufacturer in China integrating custom profile extrusion, fabrication, CNC machining and surface finishing for global OEM customers. From our plant in Dongguan, Guangdong, we deliver extruded aluminum components to export markets across North America, Europe and Asia."
 materials_primary = ["6061", "6063", "6005A", "6082", "7075"]
 process_types = [
   "Custom Aluminum Extrusion",

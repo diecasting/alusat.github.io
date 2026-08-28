@@ -1,6 +1,6 @@
 ---
 title: "Oberflächenveredelung von Aluminium — Dienstleistungen"
-description: "Alusat bietet Eloxieren, Pulverbeschichten, Polieren und Bürsten für Aluminiumprofile und -komponenten — Bauteilschutz sowie Erfüllung von Vorgaben an Optik und Korrosionsbeständigkeit für globale OEM-Kunden."
+description: "YuanZhong Technology Co., Limited bietet Eloxieren, Pulverbeschichten, Polieren und Bürsten für Aluminiumprofile und -komponenten — Bauteilschutz sowie Erfüllung von Vorgaben an Optik und Korrosionsbeständigkeit für globale OEM-Kunden."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Korrosionsschutz", "Optik", "Verschleißbeständigkeit", "Elektr
 industries: ["Architektur", "Automobil", "Elektronik", "LED-Beleuchtung", "Solarenergie", "Marine"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-cnc-machining", "oem-extrusion"]
 seo:
-  meta_title: "Oberflächenveredelung von Aluminium | Alusat"
-  meta_description: "Eloxieren, Pulverbeschichten, Polieren und Bürsten für Aluminiumprofile und -komponenten — Korrosionsschutz und Optik von Alusat."
+  meta_title: "Oberflächenveredelung von Aluminium | YuanZhong Technology Co., Limited"
+  meta_description: "Eloxieren, Pulverbeschichten, Polieren und Bürsten für Aluminiumprofile und -komponenten — Korrosionsschutz und Optik von YuanZhong Technology Co., Limited."
   keywords: ["Oberflächenveredelung Aluminium", "Aluminium eloxieren", "Aluminium pulverbeschichten", "Aluminium polieren", "Aluminium Veredelungsdienstleistungen"]
 schema:
   faq:
-    - question: "Welche Oberflächenveredelungen für Aluminium bietet Alusat an?"
+    - question: "Welche Oberflächenveredelungen für Aluminium bietet YuanZhong Technology Co., Limited an?"
       answer: "Wir bieten Eloxieren (farblos und farbig), Pulverbeschichten in Standard- und Sonder-RAL-Farben, Polieren und Bürsten, ausgewählt nach Ihren Anforderungen an Korrosionsschutz, Verschleiß, Optik oder Isolation."
     - question: "Veredeln Sie auch stranggepresste oder spanend bearbeitete Teile?"
       answer: "Ja. Stranggepresste, weiterverarbeitete und CNC-bearbeitete Aluminiumteile können unsere Veredelungslinie durchlaufen, sodass Sie ein einziges fertiges Bauteil erhalten statt getrennter Prozessschritte."
@@ -31,11 +31,11 @@ schema:
 
 ## Oberflächenveredelung von Aluminium
 
-Alusat bietet **Oberflächenveredelung**, die Aluminiumkomponenten schützt und Anforderungen an Optik, Verschleiß und Korrosionsbeständigkeit erfüllt. Eloxieren, Pulverbeschichten, Polieren und Bürsten erfolgen im eigenen Haus — ein rohes oder spanend bearbeitetes Teil verlässt uns als fertiges, spezifikationskonformes Bauteil.
+YuanZhong Technology Co., Limited bietet **Oberflächenveredelung**, die Aluminiumkomponenten schützt und Anforderungen an Optik, Verschleiß und Korrosionsbeständigkeit erfüllt. Eloxieren, Pulverbeschichten, Polieren und Bürsten erfolgen im eigenen Haus — ein rohes oder spanend bearbeitetes Teil verlässt uns als fertiges, spezifikationskonformes Bauteil.
 
 {{< image
      src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
-     alt="Eloxierte und pulverbeschichtete Aluminium-Oberflächenveredelung bei Alusat"
+     alt="Eloxierte und pulverbeschichtete Aluminium-Oberflächenveredelung bei YuanZhong Technology Co., Limited"
      title="Aluminium-Oberflächenveredelung — Eloxieren und Pulverbeschichten" >}}
 
 Die Oberfläche entscheidet häufig über Lebensdauer und ersten Eindruck eines Bauteils. Indem wir die Veredelung neben unseren übrigen Prozessen im Haus behalten, steuern wir Vorbehandlung, Schichtdicke und Haftung selbst, statt diese Verantwortung an Dritte abzugeben.
@@ -51,7 +51,7 @@ Die Oberfläche entscheidet häufig über Lebensdauer und ersten Eindruck eines 
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Kundenspezifische Aluminium-Strangpresskomponenten in Vorbereitung auf die Oberflächenveredelung bei Alusat"
+     alt="Kundenspezifische Aluminium-Strangpresskomponenten in Vorbereitung auf die Oberflächenveredelung bei YuanZhong Technology Co., Limited"
      title="Kundenspezifische Aluminiumkomponenten für die Veredelung" >}}
 
 ## Prozess- und Schichtdickenkontrolle

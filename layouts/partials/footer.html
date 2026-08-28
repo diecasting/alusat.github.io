@@ -1,47 +1,55 @@
-{{- /* footer.html — Site footer */ -}}
+{{- /* footer.html — Site footer (4-column responsive)
+   Columns: Company / Solutions / Resources / Contact + brand intro.
+   Desktop 4+ cols, tablet 2 cols, mobile stacked (see main.css). */ -}}
 <footer class="site-footer">
   <div class="footer-container">
-    <div class="footer-col">
-      <h4>{{ .Site.Title }}</h4>
+    <div class="footer-col footer-col--brand">
+      <h4>{{ .Site.Params.company.branding.wordmark | default .Site.Title }}</h4>
       <p>{{ .Site.Params.seo.description }}</p>
     </div>
+
     <div class="footer-col">
-      <h4>Navigation</h4>
+      <h4>Company</h4>
       <ul>
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-        {{ end }}
+        <li><a href="/about-aluminium-extrusion-manufacturer/">About Us</a></li>
+        <li><a href="/aluminum-extrusion-capabilities/">Manufacturing Capability</a></li>
+        <li><a href="/aluminum-extrusion-quality-certification/">Quality</a></li>
+        <li><a href="/contact/">Contact</a></li>
       </ul>
     </div>
-    {{- with hugo.Data.internal_links -}}
-    {{- with .footer -}}
+
+    <div class="footer-col">
+      <h4>Solutions</h4>
+      <ul>
+        <li><a href="/services/aluminum-cnc-machining/">Aluminum Die Casting</a></li>
+        <li><a href="/services/aluminum-cnc-machining/">CNC Machining</a></li>
+        <li><a href="/services/aluminum-surface-finishing/">Surface Finishing</a></li>
+        <li><a href="/services/extrusion-fabrication/">Assembly</a></li>
+      </ul>
+    </div>
+
     <div class="footer-col">
       <h4>Resources</h4>
       <ul>
-        {{- range . -}}
-        {{- with (index hugo.Data.internal_links.links .) }}<li><a href="{{ .url }}">{{ .text }}</a></li>{{ end -}}
-        {{- end -}}
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/blog/">Technical Insights</a></li>
+        <li><a href="/aluminum-extrusion-faq/">FAQ</a></li>
+        <li><a href="/resources/">Download</a></li>
       </ul>
     </div>
-    {{- end -}}
-    {{- end -}}
-    <div class="footer-col">
+
+    <div class="footer-col footer-col--contact">
       <h4>Contact</h4>
-      <ul>
-        {{ with .Site.Params.contact.email }}<li><a href="mailto:{{ . }}">{{ . }}</a></li>{{ end }}
-        {{ with .Site.Params.contact.phone }}<li>{{ . }}</li>{{ end }}
+      <address class="footer-address">
+        {{ .Site.Params.company.name }}<br>
+        {{ .Site.Params.contact.address }}
+      </address>
+      {{ with .Site.Params.contact.email }}<p class="footer-email"><a href="mailto:{{ . }}">{{ . }}</a></p>{{ end }}
+      <ul class="footer-legal">
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/terms/">Terms</a></li>
       </ul>
     </div>
-    {{ with .Site.Menus.footer }}
-    <div class="footer-col">
-      <h4>Legal</h4>
-      <ul>
-        {{ range . }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
-    {{ end }}
   </div>
   <div class="footer-bottom">
     <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.footer.copyright | default .Site.Title }}. All rights reserved.</p>

@@ -38,30 +38,32 @@
       {{ end }}
     </ul>
 
-    {{- /* Language switcher — native Hugo multilingual links.
-       Enumerates configured languages via .Site.Languages; links each to the
-       same page in that language via .Translations; falls back to that
-       language's homepage (Hugo default) when no translation exists.
-       No hardcoded language URLs — the homepage fallback is derived from
-       .Site.Home.Translations so it stays correct under any baseURL /
-       defaultContentLanguageInSubdir setting. */ -}}
+    {{- /* Language switcher — accessible dropdown (Language ▼).
+       Preserves hreflang, language URLs and SEO. Reuses Hugo's .Translations
+       resolution and falls back to each language's homepage when no
+       translation of the current page exists. Native <details>/<summary> is
+       keyboard accessible and mobile friendly. */ -}}
     {{- $names := dict "en" "English" "de" "Deutsch" "ja" "日本語" "fr" "Français" "es" "Español" -}}
-    {{- /* Per-language homepage links, derived from Hugo (no hardcoded URLs). */ -}}
     {{- $homeLinks := dict .Site.Home.Language.Lang .Site.Home.RelPermalink -}}
     {{- range .Site.Home.Translations -}}
       {{- $homeLinks = merge $homeLinks (dict .Language.Lang .RelPermalink) -}}
     {{- end -}}
     <div class="lang-switch" role="navigation" aria-label="Language">
-      {{ range .Site.Languages }}
-        {{- $lang := .Lang -}}
-        {{- $url := "" -}}
-        {{- range $.Translations -}}
-          {{- if eq .Language.Lang $lang }}{{ $url = .RelPermalink }}{{ end -}}
-        {{- end -}}
-        {{- if eq $lang $.Language.Lang }}{{ $url = $.RelPermalink }}{{ end -}}
-        {{- if not $url }}{{ $url = index $homeLinks $lang }}{{ end -}}
-        <a href="{{ $url }}" class="lang-link{{ if eq $lang $.Language.Lang }} active{{ end }}" hreflang="{{ $lang }}"{{ if eq $lang $.Language.Lang }} aria-current="true"{{ end }}><span class="lang-code">{{ $lang }}</span><span class="lang-name">{{ index $names $lang | default $lang }}</span></a>
-      {{ end }}
+      <details class="lang-dropdown">
+        <summary class="lang-dropdown-toggle" aria-label="Select language">Language <span class="lang-caret" aria-hidden="true">▾</span></summary>
+        <ul class="lang-dropdown-menu">
+          {{ range .Site.Languages }}
+            {{- $lang := .Lang -}}
+            {{- $url := "" -}}
+            {{- range $.Translations -}}
+              {{- if eq .Language.Lang $lang }}{{ $url = .RelPermalink }}{{ end -}}
+            {{- end -}}
+            {{- if eq $lang $.Language.Lang }}{{ $url = $.RelPermalink }}{{ end -}}
+            {{- if not $url }}{{ $url = index $homeLinks $lang }}{{ end -}}
+            <li><a href="{{ $url }}" class="lang-link{{ if eq $lang $.Language.Lang }} active{{ end }}" hreflang="{{ $lang }}"{{ if eq $lang $.Language.Lang }} aria-current="true"{{ end }}>{{ index $names $lang | default $lang }}</a></li>
+          {{ end }}
+        </ul>
+      </details>
     </div>
 
     {{- $quoteHref := "#rfq" -}}

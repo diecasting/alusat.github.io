@@ -4,7 +4,7 @@ description: "7 Key Benefits of Aluminum Extrusion for Modern Engineering Alumin
 date: "2023-08-12T02:29:49"
 lastmod: "2026-03-30T11:07:53"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminum-extrusion-advantages", "aluminum-extrusion-benefits"]
 slug: "aluminum-extrusion-benefits"

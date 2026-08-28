@@ -1,9 +1,9 @@
 # ==========================================================================
 # organization.toml — Organization Identity [SITE LAYER]
 # ==========================================================================
-# >>> Alusat company identity. <<<
-# Feeds Organization, ManufacturingBusiness, and WebSite schemas (JSON-LD is
-# generated automatically by layouts/partials/schema/*.html).
+# >>> YuanZhong Technology Co., Limited company identity. <<<
+# Feeds Organization, ManufacturingBusiness, LocalBusiness and WebSite schemas
+# (JSON-LD is generated automatically by layouts/partials/schema/*.html).
 # Brand name/email/logo also fall back to config/_default/params.toml.
 # ==========================================================================
 
@@ -14,66 +14,71 @@
 # --- Multilingual metadata (rendered at Organization level) ---
 
 [en]
-name = "Alusat"
-description = "Alusat is a professional aluminum extrusion manufacturer in Dongguan, China, providing custom aluminum profiles, extrusion fabrication, CNC machining and surface finishing solutions for global OEM customers."
+name = "YuanZhong Technology Co., Limited"
+description = "YuanZhong Technology Co., Limited is a precision metal manufacturing supplier in Dongguan, China, providing aluminum die casting, CNC machining, aluminum extrusion and surface finishing for global OEM customers."
 keywords = [
-  "Aluminum Extrusion Manufacturer",
-  "Custom Aluminum Profiles",
-  "Aluminum Extrusion Fabrication",
-  "Aluminum CNC Machining",
-  "Aluminum Surface Finishing"
+  "Aluminum Die Casting Manufacturer",
+  "CNC Machining Aluminum",
+  "Precision Metal Components",
+  "OEM Manufacturing Supplier",
+  "Aluminum Extrusion China",
+  "Custom Aluminum Profiles"
 ]
-site_title = "Alusat"
-slogan = "Aluminum Extrusion Manufacturer"
+site_title = "YuanZhong"
+slogan = "Die Casting · CNC · OEM"
 
 [de]
-name = "Alusat"
-description = "Alusat ist ein professioneller Aluminium-Strangpresshersteller in Dongguan, China, und bietet kundenspezifische Aluminiumprofile, Strangpress-Weiterverarbeitung, CNC-Bearbeitung und Oberflächenveredelung für OEM-Kunden weltweit."
+name = "YuanZhong Technology Co., Limited"
+description = "YuanZhong Technology Co., Limited ist ein Präzisionsfertiger aus Dongguan, China, und bietet Aluminium-Druckguss, CNC-Bearbeitung, Aluminium-Strangpressen und Oberflächenveredelung für OEM-Kunden weltweit."
 keywords = [
-  "Aluminium-Strangpresshersteller",
-  "Kundenspezifische Aluminiumprofile",
-  "Aluminium-Strangpress-Weiterverarbeitung",
-  "Aluminium-CNC-Bearbeitung",
-  "Aluminium-Oberflächenveredelung"
+  "Aluminium-Druckgusshersteller",
+  "CNC-Bearbeitung Aluminium",
+  "Präzisionsmetallbauteile",
+  "OEM-Fertigungspartner",
+  "Aluminium-Strangpressen China",
+  "Kundenspezifische Aluminiumprofile"
 ]
-site_title = "Alusat"
-slogan = "Aluminium-Strangpresshersteller"
+site_title = "YuanZhong"
+slogan = "Druckguss · CNC · OEM"
 
 [ja]
-name = "Alusat"
-description = "Alusatは中国・東莞に拠点を置くアルミ押出専門メーカーで、世界のOEM顧客向けにカスタムアルミ形材、押出加工、CNC機械加工、表面処理ソリューションを提供します。"
+name = "YuanZhong Technology Co., Limited"
+description = "YuanZhong Technology Co., Limitedは中国・東莞に拠点を置く精密金属製造サプライヤーで、アルミダイカスト、CNC機械加工、アルミ押出、表面処理を世界のOEM顧客に提供します。"
 keywords = [
-  "アルミ押出メーカー",
-  "カスタムアルミ形材",
-  "アルミ押出加工",
+  "アルミダイカストメーカー",
   "アルミCNC機械加工",
-  "アルミ表面処理"
+  "精密金属部品",
+  "OEM製造サプライヤー",
+  "アルミ押出中国",
+  "カスタムアルミ型材"
 ]
-site_title = "Alusat"
-slogan = "アルミ押出メーカー"
+site_title = "YuanZhong"
+slogan = "ダイカスト · CNC · OEM"
 
 [fr]
-name = "Alusat"
-description = "Alusat est un fabricant professionnel de profilés d'aluminium par extrusion à Dongguan, en Chine, proposant des profilés aluminium sur mesure, la fabrication d'extrusion, l'usinage CNC et la finition de surface pour les clients OEM du monde entier."
+name = "YuanZhong Technology Co., Limited"
+description = "YuanZhong Technology Co., Limited est un fournisseur de fabrication de métaux de précision à Dongguan, en Chine, proposant le moulage sous pression d'aluminium, l'usinage CNC, l'extrusion d'aluminium et la finition de surface pour les clients OEM du monde entier."
 keywords = [
-  "Fabricant d'extrusion d'aluminium",
-  "Profilés d'aluminium sur mesure",
-  "Fabrication d'extrusion d'aluminium",
-  "Usinage CNC d'aluminium",
-  "Finition de surface de l'aluminium"
+  "Fabricant de moulage sous pression d'aluminium",
+  "Usinage CNC de l'aluminium",
+  "Composants métalliques de précision",
+  "Fournisseur de fabrication OEM",
+  "Extrusion d'aluminium Chine",
+  "Profilsés d'aluminium sur mesure"
 ]
-site_title = "Alusat"
-slogan = "Fabricant d'extrusion d'aluminium"
+site_title = "YuanZhong"
+slogan = "Moulage · CNC · OEM"
 
 [es]
-name = "Alusat"
-description = "Alusat es un fabricante profesional de extrusión de aluminio en Dongguan, China, que ofrece perfiles de aluminio personalizados, fabricación de extrusión, mecanizado CNC y acabado de superficies para clientes OEM de todo el mundo."
+name = "YuanZhong Technology Co., Limited"
+description = "YuanZhong Technology Co., Limited es un proveedor de fabricación de metales de precisión en Dongguan, China, que ofrece fundición a presión de aluminio, mecanizado CNC, extrusión de aluminio y acabado de superficies para clientes OEM de todo el mundo."
 keywords = [
-  "Fabricante de extrusión de aluminio",
-  "Perfiles de aluminio personalizados",
-  "Fabricación de extrusión de aluminio",
+  "Fabricante de fundición a presión de aluminio",
   "Mecanizado CNC de aluminio",
-  "Acabado de superficies de aluminio"
+  "Componentes metálicos de precisión",
+  "Proveedor de fabricación OEM",
+  "Extrusión de aluminio China",
+  "Perfiles de aluminio personalizados"
 ]
-site_title = "Alusat"
-slogan = "Fabricante de extrusión de aluminio"
+site_title = "YuanZhong"
+slogan = "Fundición · CNC · OEM"

@@ -4,7 +4,7 @@ description: "6061-T6 Aluminum: The Versatile High-Strength Alloy 6061-T6 alumin
 date: "2023-10-29T02:52:52"
 lastmod: "2026-03-30T11:47:24"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "6061-t6-aluminum-properties-specifications"
 layout: "single"
@@ -12,7 +12,7 @@ layout: "single"
 
 ## 6061-T6 Aluminum: The Versatile High-Strength Alloy
 
-6061-T6 aluminum is the cornerstone of modern structural manufacturing. Renowned for its balanced [mechanical properties](/aluminum-alloy-6061-properties/), this alloy is the preferred choice for everything from aircraft components to precision-machined parts. At Alusat, we provide expert insights into why this material remains an industry standard.
+6061-T6 aluminum is the cornerstone of modern structural manufacturing. Renowned for its balanced [mechanical properties](/aluminum-alloy-6061-properties/), this alloy is the preferred choice for everything from aircraft components to precision-machined parts. At YuanZhong Technology Co., Limited, we provide expert insights into why this material remains an industry standard.
 
 ## Core Specifications of 6061-T6 Aluminum
 
@@ -52,7 +52,7 @@ Understanding these elements is key to optimizing the [aluminum extrusion proces
 
 ## Ready to Start Your 6061-T6 Project?
 
-Get precision-engineered extrusions and professional fabrication services from Alusat.
+Get precision-engineered extrusions and professional fabrication services from YuanZhong Technology Co., Limited.
 
 [Request a Custom Quote](#contact)
 
