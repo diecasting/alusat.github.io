@@ -1,7 +1,7 @@
 # ==========================================================================
 # services.toml — Service Catalog [SITE LAYER]
 # ==========================================================================
-# >>> Alusat aluminum extrusion services. <<<
+# >>> YuanZhong Technology Co., Limited aluminum extrusion services. <<<
 # url_path must match the content directory path so the schema engine
 # (layouts/partials/schema/render.html) emits Service JSON-LD automatically.
 # Add one [[services]] block + a [<lang>.<id>] map per language you support.

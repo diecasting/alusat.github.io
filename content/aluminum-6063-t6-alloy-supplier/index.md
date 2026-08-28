@@ -1,5 +1,5 @@
 ---
-title: "Aluminum Alloy 6063: Properties, Applications & Benefits | Alusat"
+title: "Aluminum Alloy 6063: Properties, Applications & Benefits | YuanZhong Technology Co., Limited"
 description: "6063 Aluminum Alloy: The Architect's Choice Mastering high-precision extruded aluminum profiles with superior surface finishing and extreme corrosion resistance. Overview of 6063 Aluminum [6063 alumin"
 layout: "single"
 draft: false

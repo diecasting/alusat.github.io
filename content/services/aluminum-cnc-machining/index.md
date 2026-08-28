@@ -1,6 +1,6 @@
 ---
 title: "Aluminum CNC Machining Services"
-description: "Alusat provides multi-axis CNC machining of aluminum extrusions and profiles — milling, turning and complex features to tight, repeatable tolerances for functional and mating surfaces on OEM components."
+description: "YuanZhong Technology Co., Limited provides multi-axis CNC machining of aluminum extrusions and profiles — milling, turning and complex features to tight, repeatable tolerances for functional and mating surfaces on OEM components."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,30 +12,30 @@ applications: ["Threads and bores", "Precision pockets", "Mating features", "Sen
 industries: ["Automotive", "Electronics", "Industrial Automation", "LED Lighting", "Solar Energy"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "Aluminum CNC Machining Services | Alusat"
-  meta_description: "Multi-axis CNC milling and turning of aluminum extrusions and profiles to tight, repeatable tolerances — features that cannot be extruded, machined by Alusat."
+  meta_title: "Aluminum CNC Machining Services | YuanZhong Technology Co., Limited"
+  meta_description: "Multi-axis CNC milling and turning of aluminum extrusions and profiles to tight, repeatable tolerances — features that cannot be extruded, machined by YuanZhong Technology Co., Limited."
   keywords: ["aluminum CNC machining", "CNC milling aluminum", "CNC turning aluminum", "precision aluminum machining", "aluminum machining services"]
 schema:
   faq:
-    - question: "What CNC equipment does Alusat run for aluminum?"
+    - question: "What CNC equipment does YuanZhong Technology Co., Limited run for aluminum?"
       answer: "We operate multi-axis machining centers and CNC lathes capable of complex milling, turning, drilling and threading on aluminum profiles and components in a single, well-controlled setup."
     - question: "Which features are best produced by CNC machining?"
       answer: "Threads, precision bores, pockets, locating surfaces and other features that cannot be achieved by extrusion alone are produced on CNC machining centers to tight tolerances."
     - question: "What tolerances can you hold on aluminum?"
       answer: "We hold tight, repeatable tolerances on sealing faces, bores, threads and locating surfaces, with CMM verification against the CAD model on every critical feature."
     - question: "Do you machine customer-supplied or extruded parts?"
-      answer: "Yes. We machine both Alusat-extruded profiles and customer-supplied aluminum parts, adding value through precision features, inspection and traceability."
+      answer: "Yes. We machine both YuanZhong Technology Co., Limited-extruded profiles and customer-supplied aluminum parts, adding value through precision features, inspection and traceability."
     - question: "How do I request an aluminum machining quote?"
       answer: "Send your drawings, material grade, quantities and tolerances through the RFQ form on this site or email hank@alusat.com, and our engineering team will return a feasibility review and quotation."
 ---
 
 ## Aluminum CNC Machining Services
 
-Alusat provides **CNC machining** that turns extruded aluminum profiles and bar stock into finished, inspection-ready components. Multi-axis machining centers and CNC lathes let us hold tight, repeatable tolerances on the features that matter — sealing faces, bores, threads and locating surfaces — in a single, well-controlled setup.
+YuanZhong Technology Co., Limited provides **CNC machining** that turns extruded aluminum profiles and bar stock into finished, inspection-ready components. Multi-axis machining centers and CNC lathes let us hold tight, repeatable tolerances on the features that matter — sealing faces, bores, threads and locating surfaces — in a single, well-controlled setup.
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Precision CNC machined and inspected aluminum components at Alusat"
+     alt="Precision CNC machined and inspected aluminum components at YuanZhong Technology Co., Limited"
      title="Precision aluminum CNC machining and inspection" >}}
 
 Machining is where extruded profiles become functional parts. By combining in-house CNC capability with our extrusion and fabrication processes, we eliminate hand-offs between suppliers and keep lead times short and results consistent.
@@ -52,7 +52,7 @@ Machining is where extruded profiles become functional parts. By combining in-ho
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
-     alt="CNC machined aluminum heatsink profile with precision features by Alusat"
+     alt="CNC machined aluminum heatsink profile with precision features by YuanZhong Technology Co., Limited"
      title="CNC machined aluminum heatsink features" >}}
 
 ## Features Best Produced by Machining

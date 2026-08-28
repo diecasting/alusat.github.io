@@ -4,7 +4,7 @@ description: "Aluminum Extrusions: The Complete Guide for 2026 Aluminum extrusio
 date: "2023-05-25T07:31:05"
 lastmod: "2026-03-30T11:04:59"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 tags: ["aluminum-extrusions-supplier"]
 slug: "aluminum-extrusions"

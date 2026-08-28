@@ -10,7 +10,7 @@
 [params.contact]
   email = "hank@alusat.com"
   phone = ""
-  address = "Dongguan, Guangdong, China"
+  address = "No.238 Guanbi Street, Daling Mountain Town, Dongguan City, China"
 
   # RFQ form endpoint (Formspree / HubSpot / etc. action URL).
   # If LEFT EMPTY, the RFQ form is replaced by an email CTA (graceful fallback).

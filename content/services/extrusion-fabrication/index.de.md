@@ -1,6 +1,6 @@
 ---
 title: "Kundenspezifische Weiterverarbeitung von Aluminium-Strangpressprofilen"
-description: "Alusat bietet die weiterverarbeitende Bearbeitung stranggepresster Aluminiumprofile — Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage zu fertigen, prüfbereiten Komponenten für globale OEM-Kunden."
+description: "YuanZhong Technology Co., Limited bietet die weiterverarbeitende Bearbeitung stranggepresster Aluminiumprofile — Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage zu fertigen, prüfbereiten Komponenten für globale OEM-Kunden."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Konfektionierte Rahmen", "Geschweißte Baugruppen", "Gebogene Ha
 industries: ["Automobil", "Industrieautomation", "Elektronik", "Architektur", "Solarenergie"]
 internal_linking: ["custom-aluminum-extrusion", "aluminum-cnc-machining", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "Kundenspezifische Weiterverarbeitung von Aluminium-Strangpressprofilen | Alusat"
-  meta_description: "Weiterverarbeitende Bearbeitung stranggepresster Aluminiumprofile — Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage zu fertigen Komponenten von Alusat."
+  meta_title: "Kundenspezifische Weiterverarbeitung von Aluminium-Strangpressprofilen | YuanZhong Technology Co., Limited"
+  meta_description: "Weiterverarbeitende Bearbeitung stranggepresster Aluminiumprofile — Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage zu fertigen Komponenten von YuanZhong Technology Co., Limited."
   keywords: ["Weiterverarbeitung Aluminium-Strangpressprofile", "Bearbeitung stranggepresster Aluminiumprofile", "Aluminium schneiden biegen schweißen", "Aluminiummontage", "fertige Aluminiumkomponenten"]
 schema:
   faq:
-    - question: "Welche weiterverarbeitenden Arbeitsgänge bietet Alusat an Strangpressprofilen an?"
+    - question: "Welche weiterverarbeitenden Arbeitsgänge bietet YuanZhong Technology Co., Limited an Strangpressprofilen an?"
       answer: "Wir bieten Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage stranggepresster Aluminiumprofile zu fertigen Baugruppen — alles im eigenen Haus, sodass die Verantwortung für die Qualität bei einem Partner bleibt."
     - question: "Können Sie nach meiner Zeichnung und meinen Toleranzen fertigen?"
       answer: "Ja. Wir fertigen nach Kundenzeichnung und halten Ablängungen, Lochbilder, Biegewinkel und Schweißnahtqualität nach Ihrer Spezifikation ein und weisen dies über fertigungsbegleitende und abschließende Prüfungen nach."
@@ -31,14 +31,14 @@ schema:
 
 ## Kundenspezifische Weiterverarbeitung von Aluminium-Strangpressprofilen
 
-Alusat macht aus stranggepressten Aluminiumprofilen **fertige, prüfbereite Komponenten**. Über das Strangpressen hinaus bieten wir Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage — Sie erhalten also ein montagefertiges Bauteil statt eines Rohprofils, an dem noch gearbeitet werden muss.
+YuanZhong Technology Co., Limited macht aus stranggepressten Aluminiumprofilen **fertige, prüfbereite Komponenten**. Über das Strangpressen hinaus bieten wir Präzisionszuschnitt, Bohren, Gewindeschneiden, Biegen, Schweißen und Montage — Sie erhalten also ein montagefertiges Bauteil statt eines Rohprofils, an dem noch gearbeitet werden muss.
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Kundenspezifisch weiterverarbeitete Aluminium-Strangpresskomponenten von Alusat"
+     alt="Kundenspezifisch weiterverarbeitete Aluminium-Strangpresskomponenten von YuanZhong Technology Co., Limited"
      title="Weiterverarbeitete Aluminium-Strangpresskomponenten" >}}
 
-Für Einkaufs- und Engineering-Teams ist die Weiterverarbeitung der Schritt, in dem aus einem Aluminiumprofil ein funktionsfähiges Bauteil wird. Indem Alusat alle Arbeitsgänge unter einem Dach hält, entfallen Übergaben zwischen Lieferanten — Lieferzeiten bleiben kurz und Ergebnisse konstant.
+Für Einkaufs- und Engineering-Teams ist die Weiterverarbeitung der Schritt, in dem aus einem Aluminiumprofil ein funktionsfähiges Bauteil wird. Indem YuanZhong Technology Co., Limited alle Arbeitsgänge unter einem Dach hält, entfallen Übergaben zwischen Lieferanten — Lieferzeiten bleiben kurz und Ergebnisse konstant.
 
 ## Fertigungsmöglichkeiten der Weiterverarbeitung
 
@@ -52,7 +52,7 @@ Unsere Fertigungszelle beherrscht die für stranggepresstes Aluminium gängigste
 
 ## Vom Profil zum fertigen Bauteil
 
-Ein typisches Weiterverarbeitungsprogramm läuft bei Alusat nach einem klaren Ablauf:
+Ein typisches Weiterverarbeitungsprogramm läuft bei YuanZhong Technology Co., Limited nach einem klaren Ablauf:
 
 1. **Prüfung und Vorrichtungsbau** — wir bewerten die Zeichnung hinsichtlich Biegezugabe, Schweißzugänglichkeit und Lochpositionen und bauen oder programmieren anschließend die Vorrichtungen.
 2. **Zuschnitt** — die Profile werden auf Länge geschnitten und nach Bedarf ausgeklinkt.
@@ -65,8 +65,8 @@ Da die Weiterverarbeitung unmittelbar neben Strangpressen und Zerspanung liegt, 
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="CMM-Präzisionsprüfung weiterverarbeiteter Aluminiumkomponenten bei Alusat"
-     title="Prüfung weiterverarbeiteter Komponenten bei Alusat" >}}
+     alt="CMM-Präzisionsprüfung weiterverarbeiteter Aluminiumkomponenten bei YuanZhong Technology Co., Limited"
+     title="Prüfung weiterverarbeiteter Komponenten bei YuanZhong Technology Co., Limited" >}}
 
 ## Toleranzen und Qualitätssicherung
 
@@ -97,6 +97,6 @@ Da Strangpressen, Weiterverarbeitung, CNC-Bearbeitung und Oberflächenveredelung
 
 ## Starten Sie Ihr Weiterverarbeitungsprojekt
 
-Senden Sie uns Ihre Zeichnungen, Stückzahlen, Werkstoffgüte, Toleranzen und Anforderungen an die Oberfläche, und Alusat antwortet mit einer Machbarkeitsbewertung und einem Angebot. Nutzen Sie das Anfrageformular unten oder schreiben Sie unserem Engineering-Team direkt an hank@alusat.com.
+Senden Sie uns Ihre Zeichnungen, Stückzahlen, Werkstoffgüte, Toleranzen und Anforderungen an die Oberfläche, und YuanZhong Technology Co., Limited antwortet mit einer Machbarkeitsbewertung und einem Angebot. Nutzen Sie das Anfrageformular unten oder schreiben Sie unserem Engineering-Team direkt an hank@alusat.com.
 
 {{< rfq_form >}}

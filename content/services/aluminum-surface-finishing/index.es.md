@@ -1,6 +1,6 @@
 ---
 title: "Servicios de acabado de superficie para aluminio"
-description: "Alusat ofrece anodizado, recubrimiento en polvo, pulido y cepillado para perfiles y componentes de aluminio: protege las piezas y cumple las especificaciones de aspecto y resistencia a la corrosión para clientes OEM de todo el mundo."
+description: "YuanZhong Technology Co., Limited ofrece anodizado, recubrimiento en polvo, pulido y cepillado para perfiles y componentes de aluminio: protege las piezas y cumple las especificaciones de aspecto y resistencia a la corrosión para clientes OEM de todo el mundo."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Protección contra la corrosión", "Aspecto", "Resistencia al de
 industries: ["Arquitectura", "Automoción", "Electrónica", "Iluminación LED", "Energía solar", "Naval"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-cnc-machining", "oem-extrusion"]
 seo:
-  meta_title: "Servicios de acabado de superficie para aluminio | Alusat"
-  meta_description: "Anodizado, recubrimiento en polvo, pulido y cepillado para perfiles y componentes de aluminio: resistencia a la corrosión y estética de la mano de Alusat."
+  meta_title: "Servicios de acabado de superficie para aluminio | YuanZhong Technology Co., Limited"
+  meta_description: "Anodizado, recubrimiento en polvo, pulido y cepillado para perfiles y componentes de aluminio: resistencia a la corrosión y estética de la mano de YuanZhong Technology Co., Limited."
   keywords: ["acabado de superficie de aluminio", "anodizado de aluminio", "recubrimiento en polvo de aluminio", "pulido de aluminio", "servicios de acabado de aluminio"]
 schema:
   faq:
-    - question: "¿Qué acabados de superficie para aluminio ofrece Alusat?"
+    - question: "¿Qué acabados de superficie para aluminio ofrece YuanZhong Technology Co., Limited?"
       answer: "Ofrecemos anodizado (natural y en color), recubrimiento en polvo en colores RAL estándar y personalizados, pulido y cepillado, seleccionados para cumplir requisitos de corrosión, desgaste, aspecto o aislamiento."
     - question: "¿Acaban piezas obtenidas por extrusión o mecanizado?"
       answer: "Sí. Las piezas de aluminio extruidas, fabricadas y mecanizadas con CNC pueden entrar todas en nuestra línea de acabado, de modo que usted recibe un único componente terminado en lugar de etapas de proceso separadas."
@@ -31,11 +31,11 @@ schema:
 
 ## Servicios de acabado de superficie para aluminio
 
-Alusat ofrece **acabado de superficie** que protege los componentes de aluminio y cumple los requisitos de aspecto, desgaste y corrosión. El anodizado, el recubrimiento en polvo, el pulido y el cepillado se aplican en nuestras instalaciones, de modo que una pieza en bruto o mecanizada sale como un componente terminado y conforme a la especificación.
+YuanZhong Technology Co., Limited ofrece **acabado de superficie** que protege los componentes de aluminio y cumple los requisitos de aspecto, desgaste y corrosión. El anodizado, el recubrimiento en polvo, el pulido y el cepillado se aplican en nuestras instalaciones, de modo que una pieza en bruto o mecanizada sale como un componente terminado y conforme a la especificación.
 
 {{< image
      src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
-     alt="Acabado de superficie de aluminio anodizado y con recubrimiento en polvo en Alusat"
+     alt="Acabado de superficie de aluminio anodizado y con recubrimiento en polvo en YuanZhong Technology Co., Limited"
      title="Acabado de superficie de aluminio — anodizado y recubrimiento en polvo" >}}
 
 El acabado es a menudo lo que determina la vida útil de una pieza y su primera impresión. Al mantener el acabado en casa junto al resto de nuestros procesos, controlamos la preparación, el espesor y la adherencia en lugar de delegar esa responsabilidad en un tercero.
@@ -51,7 +51,7 @@ El acabado es a menudo lo que determina la vida útil de una pieza y su primera 
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Componentes de extrusión de aluminio a medida preparados para el acabado de superficie por Alusat"
+     alt="Componentes de extrusión de aluminio a medida preparados para el acabado de superficie por YuanZhong Technology Co., Limited"
      title="Componentes de aluminio a medida para acabado" >}}
 
 ## Proceso y control de espesor

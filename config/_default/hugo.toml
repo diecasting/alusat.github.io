@@ -1,5 +1,5 @@
 # ==========================================================================
-# hugo.toml — Alusat (Multilingual Configuration)
+# hugo.toml — YuanZhong (Multilingual Configuration)
 # ==========================================================================
 # Base content language: English (en) at site root.
 # Secondary languages served under language prefixes: /de/ /ja/ /fr/ /es/
@@ -24,7 +24,7 @@
 
 baseURL = "https://alusat.com/"
 locale = "en-US"
-title = "Alusat"
+title = "YuanZhong"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true

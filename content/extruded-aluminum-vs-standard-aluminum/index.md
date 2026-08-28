@@ -51,7 +51,7 @@ Precision is where extrusion truly shines. While standard aluminum is limited to
 
 ### Conclusion
 
-Both extruded and standard aluminum have distinct roles. If your project demands custom shapes and structural integrity, [Alusat's](/about/) professional extrusion services are your best solution. For flat paneling or simple covers, standard aluminum remains a cost-effective alternative.
+Both extruded and standard aluminum have distinct roles. If your project demands custom shapes and structural integrity, [YuanZhong Technology Co., Limited's](/about/) professional extrusion services are your best solution. For flat paneling or simple covers, standard aluminum remains a cost-effective alternative.
 
 ## Get Expert Advice
 

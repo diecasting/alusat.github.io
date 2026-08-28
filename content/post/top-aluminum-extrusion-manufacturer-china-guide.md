@@ -4,7 +4,7 @@ description: "Why Choose China for Aluminum Extrusion Manufacturing in 2026? Chi
 date: "2023-03-10T08:03:16"
 lastmod: "2026-03-30T10:54:37"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "top-aluminum-extrusion-manufacturer-china-guide"
 layout: "single"

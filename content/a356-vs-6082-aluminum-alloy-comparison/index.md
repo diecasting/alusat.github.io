@@ -13,7 +13,7 @@ A Professional Technical Comparison for Casting and Extrusion Applications
 
 Selecting the correct material is the foundation of high-performance manufacturing. In the world of industrial aluminum, [A356 and 6082](/aluminium-alloy-a356-and-6082/) are frequently debated due to their overlapping strength profiles but contrasting production methods.
 
-As a leading [aluminum extrusion manufacturer](/aluminum-extrusion-manufacturer-in-china-a-comprehensive-guide/), Alusat provides both casting and extrusion expertise to help engineers navigate these critical material decisions.
+As a leading [aluminum extrusion manufacturer](/aluminum-extrusion-manufacturer-in-china-a-comprehensive-guide/), YuanZhong Technology Co., Limited provides both casting and extrusion expertise to help engineers navigate these critical material decisions.
 
 ## Key Property Comparison
 

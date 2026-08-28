@@ -1,6 +1,6 @@
 ---
 title: "アルミ表面処理サービス"
-description: "Alusat はアルミ型材・部品のアルマイト処理、粉体塗装、研磨、ヘアライン加工をご提供します。部品を保護し、世界のOEMのお客様の外観・耐食性のご要求仕様を満たします。"
+description: "YuanZhong Technology Co., Limited はアルミ型材・部品のアルマイト処理、粉体塗装、研磨、ヘアライン加工をご提供します。部品を保護し、世界のOEMのお客様の外観・耐食性のご要求仕様を満たします。"
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["防食", "外観品質", "耐摩耗性", "電気絶縁", "建築
 industries: ["建築", "自動車", "電子機器", "LED照明", "太陽光発電", "船舶"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-cnc-machining", "oem-extrusion"]
 seo:
-  meta_title: "アルミ表面処理サービス | Alusat"
-  meta_description: "アルミ型材・部品のアルマイト処理、粉体塗装、研磨、ヘアライン加工 — Alusat が耐食性と外観品質をご提供します。"
+  meta_title: "アルミ表面処理サービス | YuanZhong Technology Co., Limited"
+  meta_description: "アルミ型材・部品のアルマイト処理、粉体塗装、研磨、ヘアライン加工 — YuanZhong Technology Co., Limited が耐食性と外観品質をご提供します。"
   keywords: ["アルミ表面処理", "アルミ アルマイト処理", "アルミ 粉体塗装", "アルミ 研磨", "アルミ 表面処理サービス"]
 schema:
   faq:
-    - question: "Alusat はどのようなアルミ表面処理に対応していますか？"
+    - question: "YuanZhong Technology Co., Limited はどのようなアルミ表面処理に対応していますか？"
       answer: "アルマイト処理（クリア・カラー）、標準およびカスタム RAL カラーの粉体塗装、研磨、ヘアライン加工をご提供しており、耐食性、耐摩耗性、外観、絶縁性のご要求に応じて選定いたします。"
     - question: "押出品や機械加工品の表面処理にも対応できますか？"
       answer: "はい。押出材、二次加工品、CNC加工品のいずれも当社の表面処理ラインへ投入できますので、工程ごとに分割することなく完成部品を一括してお受け取りいただけます。"
@@ -31,11 +31,11 @@ schema:
 
 ## アルミ表面処理サービス
 
-Alusat は、アルミ部品を保護し、外観、耐摩耗性、耐食性のご要求を満たす**表面処理**をご提供します。アルマイト処理、粉体塗装、研磨、ヘアライン加工を自社内で実施するため、素材のままの部品や機械加工品が、仕様に適合した完成部品として出荷されます。
+YuanZhong Technology Co., Limited は、アルミ部品を保護し、外観、耐摩耗性、耐食性のご要求を満たす**表面処理**をご提供します。アルマイト処理、粉体塗装、研磨、ヘアライン加工を自社内で実施するため、素材のままの部品や機械加工品が、仕様に適合した完成部品として出荷されます。
 
 {{< image
      src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
-     alt="Alusat のアルマイト処理・粉体塗装によるアルミ表面処理"
+     alt="YuanZhong Technology Co., Limited のアルマイト処理・粉体塗装によるアルミ表面処理"
      title="アルミ表面処理 — アルマイト処理と粉体塗装" >}}
 
 表面処理は、部品の使用寿命と第一印象を左右することが少なくありません。当社は表面処理を他工程と同じ拠点に置くことで、その責任を第三者に委ねることなく、前処理、膜厚、密着性を自ら管理しています。
@@ -51,7 +51,7 @@ Alusat は、アルミ部品を保護し、外観、耐摩耗性、耐食性の�
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Alusat で表面処理前の準備を行うカスタムアルミ押出部品"
+     alt="YuanZhong Technology Co., Limited で表面処理前の準備を行うカスタムアルミ押出部品"
      title="表面処理向けカスタムアルミ部品" >}}
 
 ## 工程と膜厚管理

@@ -1,6 +1,6 @@
 ---
 title: "Fabricante de extrusión de aluminio en China"
-description: "Alusat es un fabricante de extrusión de aluminio ubicado en China que suministra perfiles de aluminio a medida, fabricación, mecanizado CNC y acabado de superficie a clientes OEM de todo el mundo. Fabricación integrada de extrusión en Dongguan, Guangdong, para mercados de exportación en Norteamérica, Europa y Asia."
+description: "YuanZhong Technology Co., Limited es un fabricante de extrusión de aluminio ubicado en China que suministra perfiles de aluminio a medida, fabricación, mecanizado CNC y acabado de superficie a clientes OEM de todo el mundo. Fabricación integrada de extrusión en Dongguan, Guangdong, para mercados de exportación en Norteamérica, Europa y Asia."
 layout: "landing"
 hero_eyebrow: "Fabricante de perfiles de aluminio a medida"
 hero_image: "/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
@@ -23,27 +23,27 @@ internal_linking:
   - complex-profiles
 schema:
   faq:
-    - question: "¿Qué aleaciones de aluminio extruye Alusat?"
-      answer: "Alusat extruye toda la gama de aleaciones de aluminio para forja, incluidas 6061, 6063, 6005A, 6082 y 7075, y puede recomendar la aleación y el temple adecuados para sus requisitos estructurales, térmicos o estéticos."
-    - question: "¿Puede Alusat diseñar matrices de extrusión de aluminio a medida a partir de mis planos?"
+    - question: "¿Qué aleaciones de aluminio extruye YuanZhong Technology Co., Limited?"
+      answer: "YuanZhong Technology Co., Limited extruye toda la gama de aleaciones de aluminio para forja, incluidas 6061, 6063, 6005A, 6082 y 7075, y puede recomendar la aleación y el temple adecuados para sus requisitos estructurales, térmicos o estéticos."
+    - question: "¿Puede YuanZhong Technology Co., Limited diseñar matrices de extrusión de aluminio a medida a partir de mis planos?"
       answer: "Sí. Nuestros ingenieros desarrollan matrices de extrusión a medida a partir de sus planos 2D/3D o muestras, incluyendo una revisión de diseño para fabricación (DFM), de modo que podemos producir perfiles de aluminio personalizados para aplicaciones OEM."
     - question: "¿Qué servicios de fabricación de valor añadido ofrecen?"
       answer: "Además de la extrusión ofrecemos corte de precisión, mecanizado CNC, taladrado, roscado, curvado, soldadura y montaje, entregando componentes de aluminio terminados y listos para instalar en lugar de perfiles en bruto."
     - question: "¿Qué opciones de acabado de superficie hay disponibles para los perfiles de aluminio?"
       answer: "Ofrecemos anodizado, recubrimiento en polvo, pulido y cepillado para cumplir las especificaciones de aspecto, resistencia a la corrosión y durabilidad tanto en uso interior como exterior."
-    - question: "¿Dónde está ubicada Alusat y exportan a todo el mundo?"
-      answer: "Alusat opera una planta de fabricación de extrusión de aluminio en Dongguan, Guangdong, China, y suministra perfiles y componentes de aluminio a medida a clientes OEM de Norteamérica, Europa, Asia y otros mercados."
+    - question: "¿Dónde está ubicada YuanZhong Technology Co., Limited y exportan a todo el mundo?"
+      answer: "YuanZhong Technology Co., Limited opera una planta de fabricación de extrusión de aluminio en Dongguan, Guangdong, China, y suministra perfiles y componentes de aluminio a medida a clientes OEM de Norteamérica, Europa, Asia y otros mercados."
     - question: "¿Cómo solicito una cotización de extrusión de aluminio a medida?"
       answer: "Envíe sus planos, aleación objetivo, cantidades, tolerancias y requisitos de acabado a través del formulario de solicitud de cotización de este sitio o escriba a hank@alusat.com, y nuestro equipo de ingeniería responderá con una evaluación de viabilidad y una oferta."
 ---
 
-## Sobre Alusat — fabricante de extrusión de aluminio en Dongguan, China
+## Sobre YuanZhong Technology Co., Limited — fabricante de extrusión de aluminio en Dongguan, China
 
-Alusat es un fabricante de extrusión de aluminio con sede en Dongguan, Guangdong, China, que suministra perfiles de aluminio a medida y componentes de aluminio terminados a clientes OEM de Norteamérica, Europa, Asia y otros mercados. Trabajamos como socio de fabricación de fuente única: desde el diseño inicial de la matriz de extrusión hasta el componente final anodizado, inspeccionado y embalado, cada operación se realiza bajo un mismo techo y un mismo sistema de calidad.
+YuanZhong Technology Co., Limited es un fabricante de extrusión de aluminio con sede en Dongguan, Guangdong, China, que suministra perfiles de aluminio a medida y componentes de aluminio terminados a clientes OEM de Norteamérica, Europa, Asia y otros mercados. Trabajamos como socio de fabricación de fuente única: desde el diseño inicial de la matriz de extrusión hasta el componente final anodizado, inspeccionado y embalado, cada operación se realiza bajo un mismo techo y un mismo sistema de calidad.
 
-Para los equipos de ingeniería y compras que necesitan algo más que un perfil en bruto, Alusat ofrece **soluciones de perfiles de aluminio a medida**: formas extruidas diseñadas en torno a su plano, tolerancia y acabado, y después fabricadas, mecanizadas y acabadas para convertirse en piezas que llegan listas para instalar.
+Para los equipos de ingeniería y compras que necesitan algo más que un perfil en bruto, YuanZhong Technology Co., Limited ofrece **soluciones de perfiles de aluminio a medida**: formas extruidas diseñadas en torno a su plano, tolerancia y acabado, y después fabricadas, mecanizadas y acabadas para convertirse en piezas que llegan listas para instalar.
 
-Como fabricante de extrusión de aluminio en China, Alusat combina la densidad de la cadena de suministro del Delta del Río de las Perlas con disciplina exportadora. Los compradores obtienen la estructura de costes y la capacidad de respuesta asociadas a la fabricación del sur de China sin renunciar a la revisión de ingeniería, la documentación y las evidencias de calidad que exigen los programas internacionales. Nuestro equipo trabaja en inglés y gestiona planos, normas y cumplimiento tal como esperan los departamentos de compras de EE. UU. y la UE, de modo que trabajar con una fábrica en Dongguan resulta tan cómodo como trabajar con un proveedor local.
+Como fabricante de extrusión de aluminio en China, YuanZhong Technology Co., Limited combina la densidad de la cadena de suministro del Delta del Río de las Perlas con disciplina exportadora. Los compradores obtienen la estructura de costes y la capacidad de respuesta asociadas a la fabricación del sur de China sin renunciar a la revisión de ingeniería, la documentación y las evidencias de calidad que exigen los programas internacionales. Nuestro equipo trabaja en inglés y gestiona planos, normas y cumplimiento tal como esperan los departamentos de compras de EE. UU. y la UE, de modo que trabajar con una fábrica en Dongguan resulta tan cómodo como trabajar con un proveedor local.
 
 ## Fabricación integrada de extrusión de aluminio
 
@@ -61,12 +61,12 @@ Esta integración vertical es lo que nos permite cotizar de forma realista, cump
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Proceso de extrusión de aluminio y línea de fabricación de Alusat en Dongguan, China"
-     title="Proceso de extrusión de aluminio y línea de fabricación de Alusat" >}}
+     alt="Proceso de extrusión de aluminio y línea de fabricación de YuanZhong Technology Co., Limited en Dongguan, China"
+     title="Proceso de extrusión de aluminio y línea de fabricación de YuanZhong Technology Co., Limited" >}}
 
 ## Del plano a la pieza entregada
 
-Un programa típico de extrusión de aluminio a medida en Alusat sigue un recorrido previsible:
+Un programa típico de extrusión de aluminio a medida en YuanZhong Technology Co., Limited sigue un recorrido previsible:
 
 1. **Viabilidad y cotización** — usted envía un plano, muestra o croquis; nuestros ingenieros revisan aleación, espesor de pared, tolerancias y acabado, y devuelven una evaluación de viabilidad y una oferta.
 2. **Desarrollo de matriz** — una vez aprobado el programa, diseñamos y fabricamos la matriz de extrusión, con una verificación de diseño para fabricación antes de cortar el acero.
@@ -80,11 +80,11 @@ Como todas las etapas están en el mismo emplazamiento, un cambio de diseño que
 
 ## Matrices de extrusión y utillaje
 
-La matriz determina la calidad del perfil, por eso invertimos en ella desde el principio. Alusat diseña y fabrica matrices de extrusión macizas, huecas y multihueco, eligiendo configuraciones de una o varias cavidades en función del tamaño de la sección, el espesor de pared y el volumen anual. Características de la matriz como la longitud de apoyo y el alivio se ajustan para controlar el flujo de metal, reducir las líneas de matriz y mantener las tolerancias; en secciones de pared delgada o huecas complejas, este ajuste marca la diferencia entre un perfil rentable y otro propenso al desecho. El utillaje en servicio se almacena, mantiene y recertifica entre series, de modo que los pedidos repetidos parten de una matriz validada y no de una puesta a punto desde cero.
+La matriz determina la calidad del perfil, por eso invertimos en ella desde el principio. YuanZhong Technology Co., Limited diseña y fabrica matrices de extrusión macizas, huecas y multihueco, eligiendo configuraciones de una o varias cavidades en función del tamaño de la sección, el espesor de pared y el volumen anual. Características de la matriz como la longitud de apoyo y el alivio se ajustan para controlar el flujo de metal, reducir las líneas de matriz y mantener las tolerancias; en secciones de pared delgada o huecas complejas, este ajuste marca la diferencia entre un perfil rentable y otro propenso al desecho. El utillaje en servicio se almacena, mantiene y recertifica entre series, de modo que los pedidos repetidos parten de una matriz validada y no de una puesta a punto desde cero.
 
 ## Perfiles de aluminio a medida en las aleaciones que usted especifique
 
-Alusat extruye toda la gama de aleaciones de aluminio para forja utilizadas en aplicaciones estructurales, térmicas y estéticas:
+YuanZhong Technology Co., Limited extruye toda la gama de aleaciones de aluminio para forja utilizadas en aplicaciones estructurales, térmicas y estéticas:
 
 - **6061** — la aleación estructural de uso general, fácil de mecanizar y soldar, ideal para bastidores y soportes.
 - **6063** — la aleación arquitectónica y decorativa, con excelente respuesta al anodizado en superficies visibles.
@@ -96,12 +96,12 @@ Nuestros ingenieros recomiendan la aleación y el temple adecuados para sus requ
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Componentes de perfil redondo de extrusión de aluminio a medida fabricados por Alusat"
+     alt="Componentes de perfil redondo de extrusión de aluminio a medida fabricados por YuanZhong Technology Co., Limited"
      title="Componentes de perfil redondo de extrusión de aluminio a medida" >}}
 
 ## Opciones de acabado de superficie
 
-Alusat ofrece las rutas de acabado más habituales para extrusiones de aluminio:
+YuanZhong Technology Co., Limited ofrece las rutas de acabado más habituales para extrusiones de aluminio:
 
 - **Anodizado** — una capa de óxido electrolítica, normalmente de 5–25 µm, en natural, negro o bronce. El anodizado mejora la resistencia a la corrosión y al desgaste y aporta un aspecto duradero y estable al teñido; es la opción por defecto para superficies arquitectónicas y de consumo a la vista.
 - **Recubrimiento en polvo** — una capa polimérica curada, normalmente de 40–80 µm, en colores RAL estándar y personalizados, con alta resistencia a los rayos UV y a agentes químicos para uso exterior e industrial.
@@ -112,12 +112,12 @@ Cuando una pieza necesita protección y color a la vez, podemos combinar proceso
 
 {{< image
      src="/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp"
-     alt="Acabado de superficie de aluminio anodizado y con recubrimiento en polvo en Alusat"
+     alt="Acabado de superficie de aluminio anodizado y con recubrimiento en polvo en YuanZhong Technology Co., Limited"
      title="Acabado de superficie de aluminio — anodizado y recubrimiento en polvo" >}}
 
 ## Tolerancias y capacidad de fabricación
 
-Las capacidades habituales de extrusión de aluminio en Alusat incluyen:
+Las capacidades habituales de extrusión de aluminio en YuanZhong Technology Co., Limited incluyen:
 
 - **Tonelaje de prensa** — una gama de prensas de extrusión que cubre secciones de perfil pequeñas y grandes dentro de una misma planta.
 - **Geometría de perfil** — formas macizas, huecas, semihuecas y multihueco, incluidas secciones de pared delgada para diseños sensibles al peso.
@@ -130,13 +130,13 @@ Si su plano exige una tolerancia más estrecha que la estándar, envíenoslo: le
 
 ## Soporte de ingeniería y diseño para fabricación
 
-Antes de cortar cualquier utillaje, los ingenieros de Alusat revisan su plano en cuanto a extruibilidad. Analizamos la uniformidad del espesor de pared, la simetría, el riesgo de líneas de matriz, la viabilidad de las tolerancias y cómo se manipulará y acabará el perfil tras la extrusión. Cuando un pequeño cambio de geometría elimina una operación secundaria o mejora el rendimiento, se lo indicaremos, porque un perfil barato de fabricar es un perfil barato de comprar.
+Antes de cortar cualquier utillaje, los ingenieros de YuanZhong Technology Co., Limited revisan su plano en cuanto a extruibilidad. Analizamos la uniformidad del espesor de pared, la simetría, el riesgo de líneas de matriz, la viabilidad de las tolerancias y cómo se manipulará y acabará el perfil tras la extrusión. Cuando un pequeño cambio de geometría elimina una operación secundaria o mejora el rendimiento, se lo indicaremos, porque un perfil barato de fabricar es un perfil barato de comprar.
 
-Este enfoque orientado a la ingeniería explica por qué muchos compradores OEM mantienen a Alusat como socio de extrusión a largo plazo y no como proveedor puntual. Tratamos el plano como el inicio de una conversación de fabricación, no como una especificación cerrada, y compartimos lo que sabemos sobre el comportamiento de las aleaciones, el desgaste de matrices y los acabados para que su pieza rinda en servicio.
+Este enfoque orientado a la ingeniería explica por qué muchos compradores OEM mantienen a YuanZhong Technology Co., Limited como socio de extrusión a largo plazo y no como proveedor puntual. Tratamos el plano como el inicio de una conversación de fabricación, no como una especificación cerrada, y compartimos lo que sabemos sobre el comportamiento de las aleaciones, el desgaste de matrices y los acabados para que su pieza rinda en servicio.
 
 ## Preparados para clientes OEM globales y mercados de exportación
 
-Alusat suministra a fabricantes OEM y propietarios de marca que desarrollan productos para mercados de exportación en Estados Unidos, la Unión Europea y toda Asia. Estamos habituados a la documentación, el embalaje y la logística internacionales —desde paquetes de presentación de primera pieza y tipo PPAP hasta el encajonado de exportación y la consolidación de contenedores— y trabajamos indistintamente con planos en sistema métrico e imperial.
+YuanZhong Technology Co., Limited suministra a fabricantes OEM y propietarios de marca que desarrollan productos para mercados de exportación en Estados Unidos, la Unión Europea y toda Asia. Estamos habituados a la documentación, el embalaje y la logística internacionales —desde paquetes de presentación de primera pieza y tipo PPAP hasta el encajonado de exportación y la consolidación de contenedores— y trabajamos indistintamente con planos en sistema métrico e imperial.
 
 Los programas OEM típicos incluyen:
 
@@ -148,7 +148,7 @@ Como el utillaje, la extrusión y el acabado están en el mismo emplazamiento, i
 
 ## Muestras, plazos de entrega y volumen de producción
 
-Alusat cubre todo el ciclo de vida del programa:
+YuanZhong Technology Co., Limited cubre todo el ciclo de vida del programa:
 
 - **Prototipos y muestras** — extrusiones de primera pieza y muestras mecanizadas para verificar ajuste, forma y función antes de comprometer volumen.
 - **Series piloto** — lotes pequeños para validar el acabado, el embalaje y la integración en línea.
@@ -158,7 +158,7 @@ Los plazos de entrega dependen del estado de la matriz, la aleación y el acabad
 
 ## Aplicaciones en distintos sectores
 
-Los componentes de aluminio extruido de Alusat atienden a un amplio conjunto de sectores:
+Los componentes de aluminio extruido de YuanZhong Technology Co., Limited atienden a un amplio conjunto de sectores:
 
 - **Automoción y vehículo eléctrico** — largueros de bandejas de baterías, secciones de carcasa, barras de techo y elementos estructurales donde la reducción de masa mejora autonomía y eficiencia.
 - **Electrónica** — chasis de amplificadores, alojamientos de sensores, soportes de rack y carcasas con disipadores integrados.
@@ -181,16 +181,16 @@ El aluminio es ligero, resistente a la corrosión y totalmente reciclable, algo 
 
 ## Un control de calidad auditable
 
-La calidad se construye en el proceso, no se inspecciona al final. Alusat opera bajo un sistema de gestión de la calidad ISO 9001 con inspección CMM propia, verificación de aleación, control dimensional y trazabilidad completa de producción. Para programas de automoción y vehículo eléctrico aplicamos controles disciplinados acordes con la aplicación, y podemos dar soporte a documentación de primera pieza y de tipo PPAP bajo petición.
+La calidad se construye en el proceso, no se inspecciona al final. YuanZhong Technology Co., Limited opera bajo un sistema de gestión de la calidad ISO 9001 con inspección CMM propia, verificación de aleación, control dimensional y trazabilidad completa de producción. Para programas de automoción y vehículo eléctrico aplicamos controles disciplinados acordes con la aplicación, y podemos dar soporte a documentación de primera pieza y de tipo PPAP bajo petición.
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Inspección de precisión CMM de extrusiones de aluminio en el control de calidad de Alusat"
-     title="Inspección de precisión CMM de Alusat" >}}
+     alt="Inspección de precisión CMM de extrusiones de aluminio en el control de calidad de YuanZhong Technology Co., Limited"
+     title="Inspección de precisión CMM de YuanZhong Technology Co., Limited" >}}
 
-## Por qué los compradores internacionales eligen Alusat
+## Por qué los compradores internacionales eligen YuanZhong Technology Co., Limited
 
-Los compradores OEM eligen Alusat de forma sistemática porque actuamos como socio de fabricación y no como proveedor transaccional: compartimos el riesgo desde el principio, controlamos el proceso de extremo a extremo y respondemos por las piezas que enviamos.
+Los compradores OEM eligen YuanZhong Technology Co., Limited de forma sistemática porque actuamos como socio de fabricación y no como proveedor transaccional: compartimos el riesgo desde el principio, controlamos el proceso de extremo a extremo y respondemos por las piezas que enviamos.
 
 - **Responsabilidad de fuente única** — extrusión, fabricación, mecanizado, acabado e inspección bajo un mismo techo.
 - **Cotización guiada por ingeniería** — una revisión de diseño para fabricación antes de cortar el utillaje, para que evite sorpresas costosas.
@@ -200,4 +200,4 @@ Los compradores OEM eligen Alusat de forma sistemática porque actuamos como soc
 
 ## Ponga en marcha su proyecto de extrusión de aluminio
 
-Tanto si necesita un prototipo puntual como un programa OEM de alto volumen, Alusat puede tomar su plano 2D o 3D o su muestra y devolverle una revisión de viabilidad, un plan de matriz y una cotización. Utilice el formulario de cotización de arriba para enviar su plano, aleación objetivo, cantidades, tolerancias y requisitos de acabado, o escriba directamente a nuestro equipo de ingeniería a hank@alusat.com. Como fabricante de extrusión de aluminio en China que atiende a mercados de exportación de todo el mundo, estamos listos para apoyar su próximo programa.
+Tanto si necesita un prototipo puntual como un programa OEM de alto volumen, YuanZhong Technology Co., Limited puede tomar su plano 2D o 3D o su muestra y devolverle una revisión de viabilidad, un plan de matriz y una cotización. Utilice el formulario de cotización de arriba para enviar su plano, aleación objetivo, cantidades, tolerancias y requisitos de acabado, o escriba directamente a nuestro equipo de ingeniería a hank@alusat.com. Como fabricante de extrusión de aluminio en China que atiende a mercados de exportación de todo el mundo, estamos listos para apoyar su próximo programa.

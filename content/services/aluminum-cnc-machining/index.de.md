@@ -1,6 +1,6 @@
 ---
 title: "CNC-Bearbeitung von Aluminium — Dienstleistungen"
-description: "Alusat bietet mehrachsige CNC-Bearbeitung von Aluminium-Strangpressprofilen — Fräsen, Drehen und komplexe Merkmale in engen, reproduzierbaren Toleranzen für Funktions- und Passflächen an OEM-Komponenten."
+description: "YuanZhong Technology Co., Limited bietet mehrachsige CNC-Bearbeitung von Aluminium-Strangpressprofilen — Fräsen, Drehen und komplexe Merkmale in engen, reproduzierbaren Toleranzen für Funktions- und Passflächen an OEM-Komponenten."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,30 +12,30 @@ applications: ["Gewinde und Bohrungen", "Präzisionstaschen", "Passflächen", "S
 industries: ["Automobil", "Elektronik", "Industrieautomation", "LED-Beleuchtung", "Solarenergie"]
 internal_linking: ["custom-aluminum-extrusion", "extrusion-fabrication", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "CNC-Bearbeitung von Aluminium | Alusat"
-  meta_description: "Mehrachsiges CNC-Fräsen und -Drehen von Aluminium-Strangpressprofilen in engen, reproduzierbaren Toleranzen — Merkmale, die sich nicht pressen lassen, gefertigt von Alusat."
+  meta_title: "CNC-Bearbeitung von Aluminium | YuanZhong Technology Co., Limited"
+  meta_description: "Mehrachsiges CNC-Fräsen und -Drehen von Aluminium-Strangpressprofilen in engen, reproduzierbaren Toleranzen — Merkmale, die sich nicht pressen lassen, gefertigt von YuanZhong Technology Co., Limited."
   keywords: ["CNC-Bearbeitung Aluminium", "CNC-Fräsen Aluminium", "CNC-Drehen Aluminium", "Präzisionsbearbeitung Aluminium", "Aluminium Zerspanungsdienstleistungen"]
 schema:
   faq:
-    - question: "Welche CNC-Ausstattung setzt Alusat für Aluminium ein?"
+    - question: "Welche CNC-Ausstattung setzt YuanZhong Technology Co., Limited für Aluminium ein?"
       answer: "Wir betreiben mehrachsige Bearbeitungszentren und CNC-Drehmaschinen für komplexes Fräsen, Drehen, Bohren und Gewindeschneiden an Aluminiumprofilen und -komponenten in einer einzigen, prozesssicheren Aufspannung."
     - question: "Welche Merkmale werden am besten durch CNC-Bearbeitung erzeugt?"
       answer: "Gewinde, Präzisionsbohrungen, Taschen, Anlageflächen und weitere Merkmale, die sich allein durch Strangpressen nicht erreichen lassen, werden auf CNC-Bearbeitungszentren in engen Toleranzen gefertigt."
     - question: "Welche Toleranzen können Sie an Aluminium halten?"
       answer: "Wir halten enge, reproduzierbare Toleranzen an Dichtflächen, Bohrungen, Gewinden und Anlageflächen, mit CMM-Nachweis gegen das CAD-Modell an jedem kritischen Merkmal."
     - question: "Bearbeiten Sie auch beigestellte oder stranggepresste Teile?"
-      answer: "Ja. Wir bearbeiten sowohl von Alusat gepresste Profile als auch vom Kunden beigestellte Aluminiumteile und schaffen Mehrwert durch Präzisionsmerkmale, Prüfung und Rückverfolgbarkeit."
+      answer: "Ja. Wir bearbeiten sowohl von YuanZhong Technology Co., Limited gepresste Profile als auch vom Kunden beigestellte Aluminiumteile und schaffen Mehrwert durch Präzisionsmerkmale, Prüfung und Rückverfolgbarkeit."
     - question: "Wie fordere ich ein Angebot für die Aluminiumbearbeitung an?"
       answer: "Senden Sie uns Ihre Zeichnungen, Werkstoffgüte, Stückzahlen und Toleranzen über das Anfrageformular auf dieser Website oder per E-Mail an hank@alusat.com. Unser Engineering-Team antwortet mit einer Machbarkeitsbewertung und einem Angebot."
 ---
 
 ## CNC-Bearbeitung von Aluminium
 
-Alusat bietet **CNC-Bearbeitung**, die stranggepresste Aluminiumprofile und Stangenmaterial in fertige, prüfbereite Komponenten verwandelt. Mehrachsige Bearbeitungszentren und CNC-Drehmaschinen ermöglichen enge, reproduzierbare Toleranzen an den entscheidenden Merkmalen — Dichtflächen, Bohrungen, Gewinde und Anlageflächen — in einer einzigen, prozesssicheren Aufspannung.
+YuanZhong Technology Co., Limited bietet **CNC-Bearbeitung**, die stranggepresste Aluminiumprofile und Stangenmaterial in fertige, prüfbereite Komponenten verwandelt. Mehrachsige Bearbeitungszentren und CNC-Drehmaschinen ermöglichen enge, reproduzierbare Toleranzen an den entscheidenden Merkmalen — Dichtflächen, Bohrungen, Gewinde und Anlageflächen — in einer einzigen, prozesssicheren Aufspannung.
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Präzisions-CNC-bearbeitete und geprüfte Aluminiumkomponenten bei Alusat"
+     alt="Präzisions-CNC-bearbeitete und geprüfte Aluminiumkomponenten bei YuanZhong Technology Co., Limited"
      title="Präzise CNC-Bearbeitung und Prüfung von Aluminium" >}}
 
 In der Zerspanung werden aus Strangpressprofilen funktionsfähige Bauteile. Durch die Verbindung hauseigener CNC-Kapazität mit unseren Strangpress- und Weiterverarbeitungsprozessen entfallen Übergaben zwischen Lieferanten — Lieferzeiten bleiben kurz und Ergebnisse konstant.
@@ -52,7 +52,7 @@ In der Zerspanung werden aus Strangpressprofilen funktionsfähige Bauteile. Durc
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-heatsink-profile.webp"
-     alt="CNC-bearbeitetes Aluminium-Kühlkörperprofil mit Präzisionsmerkmalen von Alusat"
+     alt="CNC-bearbeitetes Aluminium-Kühlkörperprofil mit Präzisionsmerkmalen von YuanZhong Technology Co., Limited"
      title="CNC-bearbeitete Merkmale an Aluminium-Kühlkörpern" >}}
 
 ## Merkmale, die sich am besten spanend erzeugen lassen

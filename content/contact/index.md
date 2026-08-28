@@ -1,15 +1,15 @@
 ---
-title: "Contact Us | Industrial Manufacturer"
-description: "Contact Industrial Manufacturer for quotes, engineering support and manufacturing questions. Email, phone and address."
+title: "Contact YuanZhong Technology Co., Limited"
+description: "Contact YuanZhong Technology Co., Limited for aluminum die casting, CNC machining and extrusion quotes, engineering support and manufacturing questions. Email, phone and address."
 layout: "single"
 date: 2026-01-01
 draft: false
 tags: ["contact", "request a quote", "engineering support"]
 categories: ["Contact"]
 seo:
-  meta_title: "Contact Us — Quotes & Engineering Support | Industrial Manufacturer"
-  meta_description: "Contact Industrial Manufacturer for quotes and engineering support. Reach us by email, phone or the quote form."
-  keywords: ["contact manufacturer", "request a quote", "engineering support"]
+  meta_title: "Contact Us — Quotes & Engineering Support | YuanZhong Technology Co., Limited"
+  meta_description: "Contact YuanZhong Technology Co., Limited for aluminum die casting, CNC machining and extrusion quotes and engineering support. Reach us by email, phone or the quote form."
+  keywords: ["contact manufacturer", "request a quote", "engineering support", "aluminum die casting supplier", "CNC machining China"]
 schema:
   faq:
     - question: "How do I request a quote?"
@@ -22,14 +22,16 @@ schema:
 
 ## Contact Us
 
-Reach the Industrial Manufacturer team for quotes, engineering support and manufacturing questions. The fastest route is the quote form below — send your drawings and specifications and our engineering team will respond with a feasibility review and quotation.
+Reach the YuanZhong Technology Co., Limited team for quotes, engineering support and manufacturing questions. The fastest route is the quote form below — send your drawings and specifications and our engineering team will respond with a feasibility review and quotation.
 
 {{< rfq_form >}}
 
 ## Direct Contact
 
+YuanZhong Technology Co., Limited is an aluminum die casting, CNC machining and OEM precision manufacturing supplier in Dongguan, China.
+
 - **Email:** [hank@alusat.com](mailto:hank@alusat.com)
-- **Phone:** — *(set `params.contact.phone`)*
-- **Address:** — *(set `params.contact.address`)*
+- **Phone:** — *(available on request)*
+- **Address:** YuanZhong Technology Co., Limited — No.238 Guanbi Street, Daling Mountain Town, Dongguan City, China
 
 You can also explore our [Precision Casting Service](/services/precision-casting/), [Engineering Material Castings](/materials/example-material/) and [Manufacturing Process](/processes/example-process/).

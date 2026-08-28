@@ -1,6 +1,6 @@
 ---
 title: "Services d'extrusion d'aluminium"
-description: "Alusat propose des services d'extrusion d'aluminium sur mesure à Dongguan, China — profilés extrudés en 6061, 6063, 6005A, 6082 et 7075, avec développement de matrices en interne, traitement thermique et contrôle complet pour les clients OEM du monde entier."
+description: "YuanZhong Technology Co., Limited propose des services d'extrusion d'aluminium sur mesure à Dongguan, China — profilés extrudés en 6061, 6063, 6005A, 6082 et 7075, avec développement de matrices en interne, traitement thermique et contrôle complet pour les clients OEM du monde entier."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,14 +12,14 @@ applications: ["Châssis structurels", "Dissipateurs thermiques", "Coffrets", "L
 industries: ["Automobile", "Électronique", "Énergie solaire", "Éclairage LED", "Architecture", "Automatisation industrielle"]
 internal_linking: ["extrusion-fabrication", "aluminum-cnc-machining", "aluminum-surface-finishing", "oem-extrusion", "complex-profiles", "manufacturing-process"]
 seo:
-  meta_title: "Services d'extrusion d'aluminium | Alusat"
-  meta_description: "Services d'extrusion d'aluminium sur mesure par Alusat — conception de matrices en interne, profilés 6061/6063/6082/7075, traitement thermique et contrôle pour les clients OEM du monde entier."
+  meta_title: "Services d'extrusion d'aluminium | YuanZhong Technology Co., Limited"
+  meta_description: "Services d'extrusion d'aluminium sur mesure par YuanZhong Technology Co., Limited — conception de matrices en interne, profilés 6061/6063/6082/7075, traitement thermique et contrôle pour les clients OEM du monde entier."
   keywords: ["services d'extrusion d'aluminium", "profilés en aluminium sur mesure", "fabricant d'extrusion d'aluminium Chine", "fournisseur d'aluminium extrudé", "extrusion de profilés en aluminium"]
 schema:
   faq:
-    - question: "Quels alliages d'aluminium Alusat extrude-t-il ?"
-      answer: "Alusat extrude toute la gamme des alliages d'aluminium corroyés utilisés dans les applications structurelles, thermiques et esthétiques, notamment les 6061, 6063, 6005A, 6082 et 7075. Nos ingénieurs recommandent l'alliage et l'état métallurgique adaptés à vos exigences de charge, thermiques et d'aspect."
-    - question: "Alusat peut-il concevoir des matrices d'extrusion sur mesure à partir de mes plans ?"
+    - question: "Quels alliages d'aluminium YuanZhong Technology Co., Limited extrude-t-il ?"
+      answer: "YuanZhong Technology Co., Limited extrude toute la gamme des alliages d'aluminium corroyés utilisés dans les applications structurelles, thermiques et esthétiques, notamment les 6061, 6063, 6005A, 6082 et 7075. Nos ingénieurs recommandent l'alliage et l'état métallurgique adaptés à vos exigences de charge, thermiques et d'aspect."
+    - question: "YuanZhong Technology Co., Limited peut-il concevoir des matrices d'extrusion sur mesure à partir de mes plans ?"
       answer: "Oui. Nos ingénieurs développent des matrices d'extrusion sur mesure à partir de vos plans 2D ou 3D ou de vos échantillons, avec une revue de conception pour la fabricabilité, afin de produire des profilés en aluminium spécifiques aux applications OEM."
     - question: "Quelles géométries de profilés pouvez-vous extruder ?"
       answer: "Nous extrudons des profilés pleins, creux, semi-creux et multi-caissons, y compris des sections à parois minces pour les conceptions sensibles au poids. Le tonnage de nos presses couvre une large plage, ce qui nous permet de traiter petites et grandes sections dans une même usine."
@@ -31,14 +31,14 @@ schema:
 
 ## Services d'extrusion d'aluminium sur mesure
 
-Alusat est un fabricant d'extrusion d'aluminium implanté à Dongguan, Guangdong, China, qui fournit des profilés en aluminium sur mesure à des clients OEM en Amérique du Nord, en Europe et en Asie. En tant que partenaire industriel à source unique, nous prenons en charge votre plan depuis la première conception de matrice d'extrusion jusqu'au traitement thermique, au parachèvement, à l'usinage, à la finition et au contrôle final — le tout sous un même toit et un même système qualité.
+YuanZhong Technology Co., Limited est un fabricant d'extrusion d'aluminium implanté à Dongguan, Guangdong, China, qui fournit des profilés en aluminium sur mesure à des clients OEM en Amérique du Nord, en Europe et en Asie. En tant que partenaire industriel à source unique, nous prenons en charge votre plan depuis la première conception de matrice d'extrusion jusqu'au traitement thermique, au parachèvement, à l'usinage, à la finition et au contrôle final — le tout sous un même toit et un même système qualité.
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Procédé d'extrusion d'aluminium et ligne de production Alusat à Dongguan, China"
+     alt="Procédé d'extrusion d'aluminium et ligne de production YuanZhong Technology Co., Limited à Dongguan, China"
      title="Ligne de production d'extrusion d'aluminium" >}}
 
-Lorsque vous avez besoin de plus qu'un profilé catalogue, Alusat fournit des **solutions de profilés en aluminium sur mesure** — des sections extrudées conçues autour de votre plan, de vos tolérances et de votre finition, puis parachevées, usinées et finies pour devenir des pièces prêtes à installer.
+Lorsque vous avez besoin de plus qu'un profilé catalogue, YuanZhong Technology Co., Limited fournit des **solutions de profilés en aluminium sur mesure** — des sections extrudées conçues autour de votre plan, de vos tolérances et de votre finition, puis parachevées, usinées et finies pour devenir des pièces prêtes à installer.
 
 ## Capacités de presse d'extrusion
 
@@ -53,7 +53,7 @@ Comme toutes les opérations sont regroupées sur un même site, une modificatio
 
 ## Une gamme d'alliages adaptée à votre application
 
-Alusat extrude toute la gamme des alliages d'aluminium corroyés utilisés dans les applications structurelles, thermiques et esthétiques :
+YuanZhong Technology Co., Limited extrude toute la gamme des alliages d'aluminium corroyés utilisés dans les applications structurelles, thermiques et esthétiques :
 
 - **6061** — l'alliage structurel polyvalent, facile à usiner et à souder, idéal pour les châssis et les supports.
 - **6063** — l'alliage architectural et décoratif, avec une excellente aptitude à l'anodisation pour les surfaces visibles.
@@ -65,16 +65,16 @@ Nos ingénieurs recommandent l'alliage et l'état métallurgique adaptés à vos
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Composants en profilés ronds d'extrusion d'aluminium sur mesure fabriqués par Alusat"
+     alt="Composants en profilés ronds d'extrusion d'aluminium sur mesure fabriqués par YuanZhong Technology Co., Limited"
      title="Composants en profilés ronds d'extrusion d'aluminium sur mesure" >}}
 
 ## Matrices d'extrusion et outillage
 
-La matrice détermine la qualité du profilé : nous y investissons donc en amont. Alusat conçoit et fabrique des matrices d'extrusion pleines, creuses et multi-caissons, en choisissant des configurations mono- ou multi-empreintes selon la taille de section, l'épaisseur de paroi et le volume annuel. Les caractéristiques de matrice telles que la longueur de portée et les dégagements sont ajustées pour maîtriser l'écoulement du métal, réduire les lignes de matrice et tenir les tolérances ; pour les sections à parois minces ou les creux complexes, ce réglage fait la différence entre un profilé rentable et un profilé générateur de rebuts. L'outillage permanent est stocké, entretenu et recertifié entre les campagnes, si bien que les commandes répétées démarrent avec une matrice éprouvée plutôt qu'avec une mise au point nouvelle.
+La matrice détermine la qualité du profilé : nous y investissons donc en amont. YuanZhong Technology Co., Limited conçoit et fabrique des matrices d'extrusion pleines, creuses et multi-caissons, en choisissant des configurations mono- ou multi-empreintes selon la taille de section, l'épaisseur de paroi et le volume annuel. Les caractéristiques de matrice telles que la longueur de portée et les dégagements sont ajustées pour maîtriser l'écoulement du métal, réduire les lignes de matrice et tenir les tolérances ; pour les sections à parois minces ou les creux complexes, ce réglage fait la différence entre un profilé rentable et un profilé générateur de rebuts. L'outillage permanent est stocké, entretenu et recertifié entre les campagnes, si bien que les commandes répétées démarrent avec une matrice éprouvée plutôt qu'avec une mise au point nouvelle.
 
 ## Traitement thermique et tolérances
 
-Les capacités types d'extrusion d'aluminium chez Alusat comprennent :
+Les capacités types d'extrusion d'aluminium chez YuanZhong Technology Co., Limited comprennent :
 
 - **Fours de vieillissement** pour les états T4, T5 et T6 afin d'atteindre les caractéristiques mécaniques exigées par votre application.
 - **Tolérances dimensionnelles** conformes aux normes internationales, avec des limites plus serrées possibles lorsque l'application l'exige.
@@ -84,7 +84,7 @@ Si votre plan impose une tolérance plus serrée que la norme, envoyez-le-nous :
 
 ## Les secteurs que nous servons
 
-Les composants en aluminium extrudé d'Alusat servent un large éventail d'industries :
+Les composants en aluminium extrudé d'YuanZhong Technology Co., Limited servent un large éventail d'industries :
 
 - **Automobile et véhicules électriques** — longerons de bacs à batteries, sections de coffrets, barres de toit et éléments structurels où l'allègement améliore l'autonomie et le rendement.
 - **Électronique** — châssis d'amplificateurs, boîtiers de capteurs, montages en rack et coffrets à fonctions dissipatrices intégrées.
@@ -95,14 +95,14 @@ Les composants en aluminium extrudé d'Alusat servent un large éventail d'indus
 
 ## Support d'ingénierie et conception pour la fabricabilité
 
-Avant toute réalisation d'outillage, les ingénieurs d'Alusat analysent votre plan sous l'angle de l'extrudabilité. Nous examinons l'homogénéité des épaisseurs de paroi, la symétrie, le risque de lignes de matrice, l'atteignabilité des tolérances ainsi que la manière dont le profilé sera manipulé et fini après extrusion. Lorsqu'une légère modification de géométrie supprime une opération secondaire ou améliore le rendement, nous vous le signalons — car un profilé peu coûteux à produire est un profilé peu coûteux à acheter.
+Avant toute réalisation d'outillage, les ingénieurs d'YuanZhong Technology Co., Limited analysent votre plan sous l'angle de l'extrudabilité. Nous examinons l'homogénéité des épaisseurs de paroi, la symétrie, le risque de lignes de matrice, l'atteignabilité des tolérances ainsi que la manière dont le profilé sera manipulé et fini après extrusion. Lorsqu'une légère modification de géométrie supprime une opération secondaire ou améliore le rendement, nous vous le signalons — car un profilé peu coûteux à produire est un profilé peu coûteux à acheter.
 
 ## Conçu pour les clients OEM internationaux et les marchés d'exportation
 
-Alusat fournit des fabricants OEM et des marques qui conçoivent des produits destinés aux marchés d'exportation aux États-Unis, dans l'Union européenne et dans toute l'Asie. Nous maîtrisons la documentation, l'emballage et la logistique internationaux — des dossiers de première pièce et des soumissions de type PPAP jusqu'aux caisses d'exportation et à la consolidation en conteneurs — et nous travaillons indifféremment sur des plans métriques ou impériaux.
+YuanZhong Technology Co., Limited fournit des fabricants OEM et des marques qui conçoivent des produits destinés aux marchés d'exportation aux États-Unis, dans l'Union européenne et dans toute l'Asie. Nous maîtrisons la documentation, l'emballage et la logistique internationaux — des dossiers de première pièce et des soumissions de type PPAP jusqu'aux caisses d'exportation et à la consolidation en conteneurs — et nous travaillons indifféremment sur des plans métriques ou impériaux.
 
 ## Lancez votre projet d'extrusion d'aluminium
 
-Que vous ayez besoin d'un prototype unitaire ou d'un programme OEM à fort volume, Alusat peut partir de votre plan 2D ou 3D ou de votre échantillon pour vous renvoyer une analyse de faisabilité, un plan de matrice et une offre de prix. Utilisez le formulaire de devis ci-dessous pour transmettre votre plan, l'alliage visé, les quantités, les tolérances et les exigences de finition, ou écrivez directement à notre équipe d'ingénierie à hank@alusat.com.
+Que vous ayez besoin d'un prototype unitaire ou d'un programme OEM à fort volume, YuanZhong Technology Co., Limited peut partir de votre plan 2D ou 3D ou de votre échantillon pour vous renvoyer une analyse de faisabilité, un plan de matrice et une offre de prix. Utilisez le formulaire de devis ci-dessous pour transmettre votre plan, l'alliage visé, les quantités, les tolérances et les exigences de finition, ou écrivez directement à notre équipe d'ingénierie à hank@alusat.com.
 
 {{< rfq_form >}}

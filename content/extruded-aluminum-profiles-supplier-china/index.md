@@ -17,7 +17,7 @@ Our engineers are ready to review your DWG/STEP files for a professional DFM ana
 
 [Get Your Free Quote Today](#contact-form)
 
-## Why Choose Alusat as Your Extrusion Partner?
+## Why Choose YuanZhong Technology Co., Limited as Your Extrusion Partner?
 
 ### Precision Engineering
 

@@ -11,7 +11,7 @@ High-quality protective and decorative solutions for your [aluminum extrusions](
 
 ## High-Performance Surface Finishing Solutions
 
-As a leading [aluminum manufacturer in China](/aluminum-extrusion-manufacturer-in-china-a-comprehensive-guide/), Alusat provides a diverse range of finishing options designed to improve corrosion resistance, hardness, and aesthetic appeal. Whether you are working on [6063 architectural profiles](/6063-aluminum-alloy/) or industrial components, we have the right solution.
+As a leading [aluminum manufacturer in China](/aluminum-extrusion-manufacturer-in-china-a-comprehensive-guide/), YuanZhong Technology Co., Limited provides a diverse range of finishing options designed to improve corrosion resistance, hardness, and aesthetic appeal. Whether you are working on [6063 architectural profiles](/6063-aluminum-alloy/) or industrial components, we have the right solution.
 
 ### Why Surface Treatment is Essential
 

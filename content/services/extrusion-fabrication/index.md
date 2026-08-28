@@ -1,6 +1,6 @@
 ---
 title: "Custom Aluminum Extrusion Fabrication Services"
-description: "Alusat provides value-added fabrication of extruded aluminum profiles — precision cutting, drilling, tapping, bending, welding and assembly into finished, inspection-ready components for global OEM customers."
+description: "YuanZhong Technology Co., Limited provides value-added fabrication of extruded aluminum profiles — precision cutting, drilling, tapping, bending, welding and assembly into finished, inspection-ready components for global OEM customers."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Fabricated frames", "Welded sub-assemblies", "Bent brackets", "M
 industries: ["Automotive", "Industrial Automation", "Electronics", "Architecture", "Solar Energy"]
 internal_linking: ["custom-aluminum-extrusion", "aluminum-cnc-machining", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "Custom Aluminum Extrusion Fabrication Services | Alusat"
-  meta_description: "Value-added fabrication of extruded aluminum profiles — precision cutting, drilling, tapping, bending, welding and assembly into finished components by Alusat."
+  meta_title: "Custom Aluminum Extrusion Fabrication Services | YuanZhong Technology Co., Limited"
+  meta_description: "Value-added fabrication of extruded aluminum profiles — precision cutting, drilling, tapping, bending, welding and assembly into finished components by YuanZhong Technology Co., Limited."
   keywords: ["aluminum extrusion fabrication", "extruded aluminum fabrication services", "aluminum cutting bending welding", "aluminum assembly", "finished aluminum components"]
 schema:
   faq:
-    - question: "What fabrication operations does Alusat offer on extruded profiles?"
+    - question: "What fabrication operations does YuanZhong Technology Co., Limited offer on extruded profiles?"
       answer: "We offer precision cutting, drilling, tapping, bending, welding and assembly of extruded aluminum profiles into finished sub-assemblies, all performed in house so accountability for quality stays with one partner."
     - question: "Can you fabricate to my drawing and tolerances?"
       answer: "Yes. We build to print, holding cut lengths, hole patterns, bend angles and weld quality to your specification, then verify with in-process and final inspection."
@@ -31,14 +31,14 @@ schema:
 
 ## Custom Aluminum Extrusion Fabrication Services
 
-Alusat turns extruded aluminum profiles into **finished, inspection-ready components**. Beyond the extrusion itself, we provide precision cutting, drilling, tapping, bending, welding and assembly, so you receive a part that is ready to install rather than a raw length of profile that still needs work.
+YuanZhong Technology Co., Limited turns extruded aluminum profiles into **finished, inspection-ready components**. Beyond the extrusion itself, we provide precision cutting, drilling, tapping, bending, welding and assembly, so you receive a part that is ready to install rather than a raw length of profile that still needs work.
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Custom fabricated aluminum extrusion components produced by Alusat"
+     alt="Custom fabricated aluminum extrusion components produced by YuanZhong Technology Co., Limited"
      title="Fabricated aluminum extrusion components" >}}
 
-For procurement and engineering teams, fabrication is where an aluminum profile becomes a functional part. By keeping every operation under one roof, Alusat eliminates hand-offs between suppliers and keeps lead times short and results consistent.
+For procurement and engineering teams, fabrication is where an aluminum profile becomes a functional part. By keeping every operation under one roof, YuanZhong Technology Co., Limited eliminates hand-offs between suppliers and keeps lead times short and results consistent.
 
 ## Fabrication Capability
 
@@ -52,7 +52,7 @@ Our fabrication cell handles the operations most specified for extruded aluminum
 
 ## From Profile to Finished Component
 
-A typical fabrication program at Alusat follows a predictable path:
+A typical fabrication program at YuanZhong Technology Co., Limited follows a predictable path:
 
 1. **Review and fixturing** — we examine the drawing for bend allowance, weld access and hole placement, then build or program the fixtures.
 2. **Cutting** — profiles are cut to length and notched as required.
@@ -65,8 +65,8 @@ Because fabrication sits next to extrusion and machining, we iterate quickly whe
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="CMM precision inspection of fabricated aluminum components at Alusat"
-     title="Alusat fabricated component inspection" >}}
+     alt="CMM precision inspection of fabricated aluminum components at YuanZhong Technology Co., Limited"
+     title="YuanZhong Technology Co., Limited fabricated component inspection" >}}
 
 ## Tolerances and Quality Control
 
@@ -97,6 +97,6 @@ Because extrusion, fabrication, CNC machining and surface finishing share one si
 
 ## Start Your Fabrication Project
 
-Send your drawings, quantities, material grade, tolerances and finishing requirements, and Alusat will return a feasibility review and quotation. Use the quote form below or email our engineering team directly at hank@alusat.com.
+Send your drawings, quantities, material grade, tolerances and finishing requirements, and YuanZhong Technology Co., Limited will return a feasibility review and quotation. Use the quote form below or email our engineering team directly at hank@alusat.com.
 
 {{< rfq_form >}}

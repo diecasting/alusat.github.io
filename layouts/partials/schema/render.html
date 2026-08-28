@@ -33,6 +33,9 @@
   {{- .Scratch.Set "schema_org_emitted" true -}}
   {{ partial "schema/organization.html" . -}}
 
+  {{- .Scratch.Set "schema_localbusiness_emitted" true -}}
+  {{ partial "schema/local-business.html" . -}}
+
   {{- .Scratch.Set "schema_website_emitted" true -}}
   <script type="application/ld+json">
   {

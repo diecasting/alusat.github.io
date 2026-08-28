@@ -1,6 +1,6 @@
 ---
 title: "Servicios de fabricación de extrusiones de aluminio a medida"
-description: "Alusat ofrece fabricación de valor añadido sobre perfiles de aluminio extruido: corte de precisión, taladrado, roscado, curvado, soldadura y montaje hasta obtener componentes terminados y listos para inspección para clientes OEM de todo el mundo."
+description: "YuanZhong Technology Co., Limited ofrece fabricación de valor añadido sobre perfiles de aluminio extruido: corte de precisión, taladrado, roscado, curvado, soldadura y montaje hasta obtener componentes terminados y listos para inspección para clientes OEM de todo el mundo."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Bastidores fabricados", "Subconjuntos soldados", "Soportes curva
 industries: ["Automoción", "Automatización industrial", "Electrónica", "Arquitectura", "Energía solar"]
 internal_linking: ["custom-aluminum-extrusion", "aluminum-cnc-machining", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "Servicios de fabricación de extrusiones de aluminio a medida | Alusat"
-  meta_description: "Fabricación de valor añadido sobre perfiles de aluminio extruido: corte de precisión, taladrado, roscado, curvado, soldadura y montaje hasta componentes terminados por Alusat."
+  meta_title: "Servicios de fabricación de extrusiones de aluminio a medida | YuanZhong Technology Co., Limited"
+  meta_description: "Fabricación de valor añadido sobre perfiles de aluminio extruido: corte de precisión, taladrado, roscado, curvado, soldadura y montaje hasta componentes terminados por YuanZhong Technology Co., Limited."
   keywords: ["fabricación de extrusiones de aluminio", "servicios de fabricación de aluminio extruido", "corte curvado y soldadura de aluminio", "montaje de aluminio", "componentes de aluminio terminados"]
 schema:
   faq:
-    - question: "¿Qué operaciones de fabricación ofrece Alusat sobre perfiles extruidos?"
+    - question: "¿Qué operaciones de fabricación ofrece YuanZhong Technology Co., Limited sobre perfiles extruidos?"
       answer: "Ofrecemos corte de precisión, taladrado, roscado, curvado, soldadura y montaje de perfiles de aluminio extruido hasta obtener subconjuntos terminados, todo ello realizado en nuestras instalaciones para que la responsabilidad sobre la calidad quede en manos de un único socio."
     - question: "¿Pueden fabricar según mi plano y mis tolerancias?"
       answer: "Sí. Fabricamos según plano, manteniendo longitudes de corte, patrones de agujeros, ángulos de curvado y calidad de soldadura conforme a su especificación, y después lo verificamos con inspección en proceso y final."
@@ -31,14 +31,14 @@ schema:
 
 ## Servicios de fabricación de extrusiones de aluminio a medida
 
-Alusat convierte los perfiles de aluminio extruido en **componentes terminados y listos para inspección**. Más allá de la propia extrusión, ofrecemos corte de precisión, taladrado, roscado, curvado, soldadura y montaje, de modo que usted recibe una pieza lista para instalar y no una barra de perfil en bruto que todavía requiere trabajo.
+YuanZhong Technology Co., Limited convierte los perfiles de aluminio extruido en **componentes terminados y listos para inspección**. Más allá de la propia extrusión, ofrecemos corte de precisión, taladrado, roscado, curvado, soldadura y montaje, de modo que usted recibe una pieza lista para instalar y no una barra de perfil en bruto que todavía requiere trabajo.
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Componentes de extrusión de aluminio fabricados a medida producidos por Alusat"
+     alt="Componentes de extrusión de aluminio fabricados a medida producidos por YuanZhong Technology Co., Limited"
      title="Componentes de extrusión de aluminio fabricados" >}}
 
-Para los equipos de compras e ingeniería, la fabricación es el punto en el que un perfil de aluminio se convierte en una pieza funcional. Al mantener todas las operaciones bajo un mismo techo, Alusat elimina las transferencias entre proveedores y mantiene plazos de entrega cortos y resultados consistentes.
+Para los equipos de compras e ingeniería, la fabricación es el punto en el que un perfil de aluminio se convierte en una pieza funcional. Al mantener todas las operaciones bajo un mismo techo, YuanZhong Technology Co., Limited elimina las transferencias entre proveedores y mantiene plazos de entrega cortos y resultados consistentes.
 
 ## Capacidad de fabricación
 
@@ -52,7 +52,7 @@ Nuestra célula de fabricación cubre las operaciones más habituales para el al
 
 ## Del perfil al componente terminado
 
-Un programa de fabricación típico en Alusat sigue un recorrido previsible:
+Un programa de fabricación típico en YuanZhong Technology Co., Limited sigue un recorrido previsible:
 
 1. **Revisión y utillaje de fijación** — analizamos el plano en cuanto a tolerancia de curvado, acceso para soldar y ubicación de agujeros, y después construimos o programamos los utillajes.
 2. **Corte** — los perfiles se cortan a medida y se entallan según se requiera.
@@ -65,8 +65,8 @@ Como la fabricación está junto a la extrusión y el mecanizado, iteramos con r
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Inspección de precisión CMM de componentes de aluminio fabricados en Alusat"
-     title="Inspección de componentes fabricados por Alusat" >}}
+     alt="Inspección de precisión CMM de componentes de aluminio fabricados en YuanZhong Technology Co., Limited"
+     title="Inspección de componentes fabricados por YuanZhong Technology Co., Limited" >}}
 
 ## Tolerancias y control de calidad
 
@@ -97,6 +97,6 @@ Como la extrusión, la fabricación, el mecanizado CNC y el acabado de superfici
 
 ## Ponga en marcha su proyecto de fabricación
 
-Envíe sus planos, cantidades, calidad de material, tolerancias y requisitos de acabado, y Alusat le devolverá una revisión de viabilidad y una cotización. Utilice el formulario de cotización de abajo o escriba directamente a nuestro equipo de ingeniería a hank@alusat.com.
+Envíe sus planos, cantidades, calidad de material, tolerancias y requisitos de acabado, y YuanZhong Technology Co., Limited le devolverá una revisión de viabilidad y una cotización. Utilice el formulario de cotización de abajo o escriba directamente a nuestro equipo de ingeniería a hank@alusat.com.
 
 {{< rfq_form >}}

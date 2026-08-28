@@ -11,11 +11,12 @@
 
 [params]
 [params.schema]
-  legalName = "Alusat"
+  legalName = "YuanZhong Technology Co., Limited"
   url = "https://alusat.com/"
   logo = ""   # Absolute or root-relative logo URL. Empty = no logo in schema.
   images = ["/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp", "/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"]
 
+  streetAddress = "No.238 Guanbi Street"
   addressLocality = "Dongguan"
   addressRegion = "Guangdong"
   addressCountry = "CN"

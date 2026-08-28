@@ -1,6 +1,6 @@
 ---
 title: "Services de parachèvement d'extrusions d'aluminium sur mesure"
-description: "Alusat assure le parachèvement à valeur ajoutée des profilés en aluminium extrudé — coupe de précision, perçage, taraudage, cintrage, soudage et assemblage en composants finis et prêts au contrôle pour les clients OEM du monde entier."
+description: "YuanZhong Technology Co., Limited assure le parachèvement à valeur ajoutée des profilés en aluminium extrudé — coupe de précision, perçage, taraudage, cintrage, soudage et assemblage en composants finis et prêts au contrôle pour les clients OEM du monde entier."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,12 +12,12 @@ applications: ["Châssis parachevés", "Sous-ensembles soudés", "Supports cintr
 industries: ["Automobile", "Automatisation industrielle", "Électronique", "Architecture", "Énergie solaire"]
 internal_linking: ["custom-aluminum-extrusion", "aluminum-cnc-machining", "aluminum-surface-finishing", "oem-extrusion"]
 seo:
-  meta_title: "Services de parachèvement d'extrusions d'aluminium sur mesure | Alusat"
-  meta_description: "Parachèvement à valeur ajoutée des profilés en aluminium extrudé — coupe de précision, perçage, taraudage, cintrage, soudage et assemblage en composants finis par Alusat."
+  meta_title: "Services de parachèvement d'extrusions d'aluminium sur mesure | YuanZhong Technology Co., Limited"
+  meta_description: "Parachèvement à valeur ajoutée des profilés en aluminium extrudé — coupe de précision, perçage, taraudage, cintrage, soudage et assemblage en composants finis par YuanZhong Technology Co., Limited."
   keywords: ["parachèvement d'extrusion d'aluminium", "services de parachèvement d'aluminium extrudé", "coupe cintrage soudage d'aluminium", "assemblage d'aluminium", "composants en aluminium finis"]
 schema:
   faq:
-    - question: "Quelles opérations de parachèvement Alusat propose-t-il sur les profilés extrudés ?"
+    - question: "Quelles opérations de parachèvement YuanZhong Technology Co., Limited propose-t-il sur les profilés extrudés ?"
       answer: "Nous proposons la coupe de précision, le perçage, le taraudage, le cintrage, le soudage et l'assemblage des profilés en aluminium extrudé en sous-ensembles finis, toutes ces opérations étant réalisées en interne afin que la responsabilité de la qualité reste chez un seul partenaire."
     - question: "Pouvez-vous parachever selon mon plan et mes tolérances ?"
       answer: "Oui. Nous fabriquons sur plan en respectant les longueurs de coupe, les schémas de perçage, les angles de cintrage et la qualité des soudures conformément à votre spécification, puis nous vérifions par des contrôles en cours de production et un contrôle final."
@@ -31,14 +31,14 @@ schema:
 
 ## Services de parachèvement d'extrusions d'aluminium sur mesure
 
-Alusat transforme les profilés en aluminium extrudé en **composants finis, prêts au contrôle**. Au-delà de l'extrusion elle-même, nous assurons la coupe de précision, le perçage, le taraudage, le cintrage, le soudage et l'assemblage, afin que vous receviez une pièce prête à installer plutôt qu'une longueur de profilé brut qui nécessite encore du travail.
+YuanZhong Technology Co., Limited transforme les profilés en aluminium extrudé en **composants finis, prêts au contrôle**. Au-delà de l'extrusion elle-même, nous assurons la coupe de précision, le perçage, le taraudage, le cintrage, le soudage et l'assemblage, afin que vous receviez une pièce prête à installer plutôt qu'une longueur de profilé brut qui nécessite encore du travail.
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Composants d'extrusion d'aluminium parachevés sur mesure produits par Alusat"
+     alt="Composants d'extrusion d'aluminium parachevés sur mesure produits par YuanZhong Technology Co., Limited"
      title="Composants d'extrusion d'aluminium parachevés" >}}
 
-Pour les équipes achats et ingénierie, le parachèvement est l'étape où un profilé en aluminium devient une pièce fonctionnelle. En conservant chaque opération sous un même toit, Alusat supprime les transferts entre fournisseurs et maintient des délais courts et des résultats constants.
+Pour les équipes achats et ingénierie, le parachèvement est l'étape où un profilé en aluminium devient une pièce fonctionnelle. En conservant chaque opération sous un même toit, YuanZhong Technology Co., Limited supprime les transferts entre fournisseurs et maintient des délais courts et des résultats constants.
 
 ## Capacités de parachèvement
 
@@ -52,7 +52,7 @@ Notre îlot de parachèvement traite les opérations les plus couramment spécif
 
 ## Du profilé au composant fini
 
-Un programme de parachèvement type chez Alusat suit un parcours prévisible :
+Un programme de parachèvement type chez YuanZhong Technology Co., Limited suit un parcours prévisible :
 
 1. **Analyse et montage** — nous examinons le plan sous l'angle de l'allongement au cintrage, de l'accessibilité des soudures et de l'implantation des perçages, puis nous réalisons ou programmons les montages.
 2. **Coupe** — les profilés sont coupés à longueur et encochés selon les besoins.
@@ -65,8 +65,8 @@ Comme le parachèvement se situe à côté de l'extrusion et de l'usinage, nous 
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Contrôle de précision par CMM des composants en aluminium parachevés chez Alusat"
-     title="Contrôle des composants parachevés Alusat" >}}
+     alt="Contrôle de précision par CMM des composants en aluminium parachevés chez YuanZhong Technology Co., Limited"
+     title="Contrôle des composants parachevés YuanZhong Technology Co., Limited" >}}
 
 ## Tolérances et contrôle qualité
 
@@ -97,6 +97,6 @@ Comme l'extrusion, le parachèvement, l'usinage CNC et la finition de surface pa
 
 ## Lancez votre projet de parachèvement
 
-Envoyez vos plans, les quantités, la nuance de matériau, les tolérances et les exigences de finition : Alusat vous renverra une analyse de faisabilité et une offre de prix. Utilisez le formulaire de devis ci-dessous ou écrivez directement à notre équipe d'ingénierie à hank@alusat.com.
+Envoyez vos plans, les quantités, la nuance de matériau, les tolérances et les exigences de finition : YuanZhong Technology Co., Limited vous renverra une analyse de faisabilité et une offre de prix. Utilisez le formulaire de devis ci-dessous ou écrivez directement à notre équipe d'ingénierie à hank@alusat.com.
 
 {{< rfq_form >}}

@@ -7,7 +7,7 @@
 # ==========================================================================
 
 [Author]
-  name = "Alusat"
+  name = "YuanZhong Technology Co., Limited"
   email = "hank@alusat.com"
 
 # --- Feature flags ---
@@ -26,7 +26,7 @@
 
 # --- Footer ---
 [footer]
-  copyright = "Alusat. All rights reserved."
+  copyright = "YuanZhong Technology Co., Limited. All rights reserved."
   showLegalLinks = false
 
 # --- Conversion band (cta-band.html, before footer) ---
@@ -47,17 +47,19 @@
 # ==========================================================================
 
 [company]
-  name = "Alusat"
-  tagline = "Aluminum Extrusion Manufacturer"
+  name = "YuanZhong Technology Co., Limited"
+  tagline = "Aluminum Die Casting & Precision Metal Manufacturing"
 
   [company.branding]
     # Absolute or root-relative logo URL (PNG/SVG). Empty = text wordmark.
     logo = ""
+    # Short visible wordmark (header). Empty = company.name.
+    wordmark = "YuanZhong"
     # 1-3 letter monogram shown in the header logo mark.
     # Empty = first 2 letters of company.name.
-    logo_mark = "AL"
+    logo_mark = "YZ"
     # Small text under the wordmark. Empty = company.tagline.
-    logo_subtitle = "Aluminum Extrusion Manufacturer"
+    logo_subtitle = "Die Casting · CNC · OEM"
 
 # ==========================================================================
 # contact.toml — Contact Details (EDIT THIS TO BRAND YOUR SITE)
@@ -70,7 +72,7 @@
 [contact]
   email = "hank@alusat.com"
   phone = ""
-  address = "Dongguan, Guangdong, China"
+  address = "No.238 Guanbi Street, Daling Mountain Town, Dongguan City, China"
 
   # RFQ form endpoint (Formspree / HubSpot / etc. action URL).
   # If LEFT EMPTY, the RFQ form is replaced by an email CTA (graceful fallback).
@@ -88,8 +90,8 @@
 # ==========================================================================
 
 [seo]
-  description = "Alusat is a professional aluminum extrusion manufacturer in Dongguan, China, providing custom aluminum profiles, extrusion fabrication, CNC machining and surface finishing solutions for global OEM customers."
-  keywords = ["aluminum extrusion manufacturer", "custom aluminum profiles", "aluminum extrusion services", "aluminum fabrication services", "CNC machining aluminum", "aluminum surface finishing", "OEM aluminum extrusion China"]
+  description = "YuanZhong Technology Co., Limited is a precision metal manufacturing supplier in Dongguan, China, providing aluminum die casting, CNC machining, extrusion and surface finishing for global OEM customers."
+  keywords = ["aluminum die casting manufacturer", "CNC machining aluminum", "precision metal components", "OEM manufacturing supplier", "aluminum extrusion China", "die casting China", "custom aluminum profiles"]
 
 # ==========================================================================
 # schema.toml — Brand Identity for Structured Data (EDIT THIS TO BRAND)
@@ -103,11 +105,12 @@
 # ==========================================================================
 
 [schema]
-  legalName = "Alusat"
+  legalName = "YuanZhong Technology Co., Limited"
   url = "https://alusat.com/"
   logo = ""   # Absolute or root-relative logo URL. Empty = no logo in schema.
   images = ["/uploads/2026/03/aluminum-surface-finishing-anodizing-powder-coating.webp", "/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"]
 
+  streetAddress = "No.238 Guanbi Street"
   addressLocality = "Dongguan"
   addressRegion = "Guangdong"
   addressCountry = "CN"

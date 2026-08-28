@@ -4,7 +4,7 @@ description: "6082 t6 aluminum"
 date: "2023-10-29T06:48:00"
 lastmod: "2026-03-30T11:50:02"
 draft: false
-authors: ["Alusat"]
+authors: ["YuanZhong Technology Co., Limited"]
 categories: ["Knowledge"]
 slug: "6082-t6-aluminum-properties-specifications-guide"
 layout: "single"
@@ -12,7 +12,7 @@ layout: "single"
 
 ## 6082-T6 Aluminum: The High-Strength Structural Alloy
 
-6082-T6 aluminum stands as one of the highest strength alloys within the 6000 series. This alloy is the go-to material for engineers requiring a superior combination of [mechanical properties](/6082-aluminium-alloy-properties-applications-and-advantages/), weldability, and corrosion resistance. At Alusat, we specialize in providing precision extrusions that leverage the unique characteristics of this versatile material.
+6082-T6 aluminum stands as one of the highest strength alloys within the 6000 series. This alloy is the go-to material for engineers requiring a superior combination of [mechanical properties](/6082-aluminium-alloy-properties-applications-and-advantages/), weldability, and corrosion resistance. At YuanZhong Technology Co., Limited, we specialize in providing precision extrusions that leverage the unique characteristics of this versatile material.
 
 ## Key Properties of 6082-T6 Aluminum
 
@@ -47,7 +47,7 @@ The high manganese content (0.4-1.0%) in 6082-T6 controls the grain structure, l
 
 ## Looking for 6082-T6 Aluminum Solutions?
 
-From custom profiles to large-scale supply, Alusat provides high-quality structural aluminum for global industries.
+From custom profiles to large-scale supply, YuanZhong Technology Co., Limited provides high-quality structural aluminum for global industries.
 
 [Get Your Quote Today](#contact)
 

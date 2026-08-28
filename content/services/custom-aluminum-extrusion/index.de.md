@@ -1,6 +1,6 @@
 ---
 title: "Aluminium-Strangpressen — Dienstleistungen"
-description: "Alusat bietet kundenspezifische Aluminium-Strangpressdienstleistungen in Dongguan, China — stranggepresste Profile in 6061, 6063, 6005A, 6082 und 7075 mit hauseigener Werkzeugentwicklung, Wärmebehandlung und vollständiger Prüfung für globale OEM-Kunden."
+description: "YuanZhong Technology Co., Limited bietet kundenspezifische Aluminium-Strangpressdienstleistungen in Dongguan, China — stranggepresste Profile in 6061, 6063, 6005A, 6082 und 7075 mit hauseigener Werkzeugentwicklung, Wärmebehandlung und vollständiger Prüfung für globale OEM-Kunden."
 layout: "single"
 date: 2026-01-01
 draft: false
@@ -12,14 +12,14 @@ applications: ["Tragrahmen", "Kühlkörper", "Gehäuse", "Batteriewannen-Profile
 industries: ["Automobil", "Elektronik", "Solarenergie", "LED-Beleuchtung", "Architektur", "Industrieautomation"]
 internal_linking: ["extrusion-fabrication", "aluminum-cnc-machining", "aluminum-surface-finishing", "oem-extrusion", "complex-profiles", "manufacturing-process"]
 seo:
-  meta_title: "Aluminium-Strangpressen Dienstleistungen | Alusat"
-  meta_description: "Kundenspezifische Aluminium-Strangpressdienstleistungen von Alusat — hauseigene Werkzeugkonstruktion, Profile in 6061/6063/6082/7075, Wärmebehandlung und Prüfung für OEM-Kunden weltweit."
+  meta_title: "Aluminium-Strangpressen Dienstleistungen | YuanZhong Technology Co., Limited"
+  meta_description: "Kundenspezifische Aluminium-Strangpressdienstleistungen von YuanZhong Technology Co., Limited — hauseigene Werkzeugkonstruktion, Profile in 6061/6063/6082/7075, Wärmebehandlung und Prüfung für OEM-Kunden weltweit."
   keywords: ["Aluminium-Strangpressen Dienstleistungen", "kundenspezifische Aluminiumprofile", "Aluminium-Strangpresshersteller China", "Lieferant stranggepresstes Aluminium", "Strangpressen von Aluminiumprofilen"]
 schema:
   faq:
-    - question: "Welche Aluminiumlegierungen presst Alusat?"
-      answer: "Alusat verarbeitet das gesamte Spektrum der Aluminium-Knetlegierungen für strukturelle, thermische und optische Anwendungen, darunter 6061, 6063, 6005A, 6082 und 7075. Unsere Ingenieure empfehlen die passende Legierung und den passenden Werkstoffzustand für Ihre Last-, Wärme- und Optikanforderungen."
-    - question: "Kann Alusat kundenspezifische Strangpresswerkzeuge nach meinen Zeichnungen konstruieren?"
+    - question: "Welche Aluminiumlegierungen presst YuanZhong Technology Co., Limited?"
+      answer: "YuanZhong Technology Co., Limited verarbeitet das gesamte Spektrum der Aluminium-Knetlegierungen für strukturelle, thermische und optische Anwendungen, darunter 6061, 6063, 6005A, 6082 und 7075. Unsere Ingenieure empfehlen die passende Legierung und den passenden Werkstoffzustand für Ihre Last-, Wärme- und Optikanforderungen."
+    - question: "Kann YuanZhong Technology Co., Limited kundenspezifische Strangpresswerkzeuge nach meinen Zeichnungen konstruieren?"
       answer: "Ja. Unsere Ingenieure entwickeln Strangpresswerkzeuge auf Basis Ihrer 2D- oder 3D-Zeichnungen oder Muster, einschließlich einer Bewertung der fertigungsgerechten Konstruktion, sodass wir maßgeschneiderte Aluminiumprofile für OEM-Anwendungen herstellen können."
     - question: "Welche Profilgeometrien können Sie pressen?"
       answer: "Wir pressen Voll-, Hohl-, Halbhohl- und Mehrkammerprofile, einschließlich dünnwandiger Querschnitte für gewichtssensible Konstruktionen. Die Pressentonnage deckt einen breiten Bereich ab, sodass wir kleine wie große Querschnitte in einem Werk fertigen können."
@@ -31,14 +31,14 @@ schema:
 
 ## Kundenspezifische Aluminium-Strangpressdienstleistungen
 
-Alusat ist ein Hersteller von Aluminium-Strangpressprofilen mit Sitz in Dongguan, Guangdong, China, und beliefert OEM-Kunden in Nordamerika, Europa und Asien mit kundenspezifischen Aluminiumprofilen. Als Fertigungspartner aus einer Hand begleiten wir Ihre Zeichnung von der ersten Werkzeugkonstruktion über Wärmebehandlung, Weiterverarbeitung, Zerspanung und Veredelung bis zur Endprüfung — alles unter einem Dach und in einem Qualitätssystem.
+YuanZhong Technology Co., Limited ist ein Hersteller von Aluminium-Strangpressprofilen mit Sitz in Dongguan, Guangdong, China, und beliefert OEM-Kunden in Nordamerika, Europa und Asien mit kundenspezifischen Aluminiumprofilen. Als Fertigungspartner aus einer Hand begleiten wir Ihre Zeichnung von der ersten Werkzeugkonstruktion über Wärmebehandlung, Weiterverarbeitung, Zerspanung und Veredelung bis zur Endprüfung — alles unter einem Dach und in einem Qualitätssystem.
 
 {{< image
      src="/uploads/2026/03/aluminum-extrusion-cmm-inspection-precision-check.webp"
-     alt="Strangpressprozess und Fertigungslinie von Alusat in Dongguan, China"
+     alt="Strangpressprozess und Fertigungslinie von YuanZhong Technology Co., Limited in Dongguan, China"
      title="Fertigungslinie für Aluminium-Strangpressprofile" >}}
 
-Wenn Sie mehr benötigen als ein Katalogprofil, liefert Alusat **kundenspezifische Aluminiumprofil-Lösungen** — stranggepresste Querschnitte, die um Ihre Zeichnung, Ihre Toleranz und Ihre Oberfläche herum konstruiert und anschließend weiterverarbeitet, spanend bearbeitet und veredelt werden, sodass die Teile montagefertig ankommen.
+Wenn Sie mehr benötigen als ein Katalogprofil, liefert YuanZhong Technology Co., Limited **kundenspezifische Aluminiumprofil-Lösungen** — stranggepresste Querschnitte, die um Ihre Zeichnung, Ihre Toleranz und Ihre Oberfläche herum konstruiert und anschließend weiterverarbeitet, spanend bearbeitet und veredelt werden, sodass die Teile montagefertig ankommen.
 
 ## Kapazität der Strangpressen
 
@@ -53,7 +53,7 @@ Weil alle Arbeitsgänge an einem Standort liegen, wird eine Konstruktionsänderu
 
 ## Legierungsspektrum für Ihre Anwendung
 
-Alusat presst das gesamte Spektrum der Aluminium-Knetlegierungen für strukturelle, thermische und optische Anwendungen:
+YuanZhong Technology Co., Limited presst das gesamte Spektrum der Aluminium-Knetlegierungen für strukturelle, thermische und optische Anwendungen:
 
 - **6061** — die universelle Strukturlegierung, gut zerspan- und schweißbar, ideal für Rahmen und Halterungen.
 - **6063** — die Architektur- und Dekorlegierung mit hervorragendem Eloxierverhalten für sichtbare Oberflächen.
@@ -65,16 +65,16 @@ Unsere Ingenieure empfehlen die passende Legierung und den passenden Werkstoffzu
 
 {{< image
      src="/uploads/2026/07/custom-aluminum-extrusion-round-profile-component.webp"
-     alt="Kundenspezifische stranggepresste Aluminium-Rundprofilkomponenten von Alusat"
+     alt="Kundenspezifische stranggepresste Aluminium-Rundprofilkomponenten von YuanZhong Technology Co., Limited"
      title="Kundenspezifische stranggepresste Aluminium-Rundprofilkomponenten" >}}
 
 ## Strangpresswerkzeuge und Werkzeugbau
 
-Das Werkzeug bestimmt die Profilqualität — deshalb investieren wir vorab darin. Alusat konstruiert und fertigt Werkzeuge für Voll-, Hohl- und Mehrkammerprofile und wählt ein- oder mehrsträngige Auslegungen anhand von Querschnittsgröße, Wandstärke und Jahresvolumen. Werkzeugmerkmale wie Führungslänge und Freimachung werden abgestimmt, um den Materialfluss zu steuern, Werkzeugriefen zu reduzieren und Toleranzen zu halten; bei dünnwandigen oder komplexen Hohlprofilen entscheidet genau diese Abstimmung darüber, ob ein Profil wirtschaftlich oder ausschussanfällig ist. Vorhandene Werkzeuge werden zwischen den Pressungen eingelagert, gewartet und rezertifiziert, sodass Nachbestellungen von einem bekannt guten Werkzeug ausgehen statt von einer Neueinrichtung.
+Das Werkzeug bestimmt die Profilqualität — deshalb investieren wir vorab darin. YuanZhong Technology Co., Limited konstruiert und fertigt Werkzeuge für Voll-, Hohl- und Mehrkammerprofile und wählt ein- oder mehrsträngige Auslegungen anhand von Querschnittsgröße, Wandstärke und Jahresvolumen. Werkzeugmerkmale wie Führungslänge und Freimachung werden abgestimmt, um den Materialfluss zu steuern, Werkzeugriefen zu reduzieren und Toleranzen zu halten; bei dünnwandigen oder komplexen Hohlprofilen entscheidet genau diese Abstimmung darüber, ob ein Profil wirtschaftlich oder ausschussanfällig ist. Vorhandene Werkzeuge werden zwischen den Pressungen eingelagert, gewartet und rezertifiziert, sodass Nachbestellungen von einem bekannt guten Werkzeug ausgehen statt von einer Neueinrichtung.
 
 ## Wärmebehandlung und Toleranzen
 
-Typische Strangpress-Kapazitäten bei Alusat umfassen:
+Typische Strangpress-Kapazitäten bei YuanZhong Technology Co., Limited umfassen:
 
 - **Auslagerungsöfen** für die Zustände T4, T5 und T6, um die von Ihrer Anwendung geforderten mechanischen Eigenschaften zu erreichen.
 - **Maßtoleranzen** nach internationalen Normen, mit engeren Sondergrenzen, wo die Anwendung dies erfordert.
@@ -84,7 +84,7 @@ Verlangt Ihre Zeichnung eine engere als die übliche Toleranz, senden Sie sie un
 
 ## Branchen, die wir beliefern
 
-Die stranggepressten Aluminiumkomponenten von Alusat kommen in einem breiten Branchenspektrum zum Einsatz:
+Die stranggepressten Aluminiumkomponenten von YuanZhong Technology Co., Limited kommen in einem breiten Branchenspektrum zum Einsatz:
 
 - **Automobil & E-Mobilität** — Batteriewannen-Profile, Gehäuseprofile, Dachreling und Strukturbauteile, bei denen Gewichtsreduzierung Reichweite und Effizienz verbessert.
 - **Elektronik** — Verstärkergehäuse, Sensorgehäuse, Rack-Halterungen und Gehäuse mit integrierten Kühlkörperstrukturen.
@@ -95,14 +95,14 @@ Die stranggepressten Aluminiumkomponenten von Alusat kommen in einem breiten Bra
 
 ## Engineering-Unterstützung und fertigungsgerechte Konstruktion
 
-Bevor ein Werkzeug gefertigt wird, prüfen die Ingenieure von Alusat Ihre Zeichnung auf Pressbarkeit. Wir betrachten die Gleichmäßigkeit der Wandstärken, Symmetrie, das Risiko von Werkzeugriefen, die Erreichbarkeit der Toleranzen sowie Handling und Veredelung des Profils nach dem Pressen. Wo eine kleine Geometrieänderung einen Folgearbeitsgang einspart oder die Ausbringung verbessert, sagen wir es Ihnen — denn ein Profil, das günstig zu fertigen ist, ist auch günstig einzukaufen.
+Bevor ein Werkzeug gefertigt wird, prüfen die Ingenieure von YuanZhong Technology Co., Limited Ihre Zeichnung auf Pressbarkeit. Wir betrachten die Gleichmäßigkeit der Wandstärken, Symmetrie, das Risiko von Werkzeugriefen, die Erreichbarkeit der Toleranzen sowie Handling und Veredelung des Profils nach dem Pressen. Wo eine kleine Geometrieänderung einen Folgearbeitsgang einspart oder die Ausbringung verbessert, sagen wir es Ihnen — denn ein Profil, das günstig zu fertigen ist, ist auch günstig einzukaufen.
 
 ## Ausgelegt für globale OEM-Kunden und Exportmärkte
 
-Alusat beliefert OEM-Hersteller und Markenanbieter, die Produkte für die Exportmärkte in den Vereinigten Staaten, der Europäischen Union und in ganz Asien fertigen. Internationale Dokumentation, Verpackung und Logistik sind für uns Routine — von Erstmuster- und PPAP-ähnlichen Vorlagepaketen bis zu Exportverpackung und Containerkonsolidierung — und wir arbeiten mit metrischen wie zölligen Zeichnungen.
+YuanZhong Technology Co., Limited beliefert OEM-Hersteller und Markenanbieter, die Produkte für die Exportmärkte in den Vereinigten Staaten, der Europäischen Union und in ganz Asien fertigen. Internationale Dokumentation, Verpackung und Logistik sind für uns Routine — von Erstmuster- und PPAP-ähnlichen Vorlagepaketen bis zu Exportverpackung und Containerkonsolidierung — und wir arbeiten mit metrischen wie zölligen Zeichnungen.
 
 ## Starten Sie Ihr Aluminium-Strangpressprojekt
 
-Ob Einzelprototyp oder OEM-Serienprogramm — Alusat nimmt Ihre 2D- oder 3D-Zeichnung oder Ihr Muster entgegen und liefert eine Machbarkeitsbewertung, ein Werkzeugkonzept und ein Angebot. Nutzen Sie das Anfrageformular unten, um Zeichnung, gewünschte Legierung, Stückzahlen, Toleranzen und Anforderungen an die Oberfläche zu übermitteln, oder schreiben Sie unserem Engineering-Team direkt an hank@alusat.com.
+Ob Einzelprototyp oder OEM-Serienprogramm — YuanZhong Technology Co., Limited nimmt Ihre 2D- oder 3D-Zeichnung oder Ihr Muster entgegen und liefert eine Machbarkeitsbewertung, ein Werkzeugkonzept und ein Angebot. Nutzen Sie das Anfrageformular unten, um Zeichnung, gewünschte Legierung, Stückzahlen, Toleranzen und Anforderungen an die Oberfläche zu übermitteln, oder schreiben Sie unserem Engineering-Team direkt an hank@alusat.com.
 
 {{< rfq_form >}}
