@@ -30,9 +30,9 @@
     if (STATES.indexOf(state) === -1) return;
     if (typeof window.gtag === 'function') {
       window.gtag('consent', 'update', {
-        'ad_storage': state,
-        'ad_user_data': state,
-        'ad_personalization': state,
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
         'analytics_storage': state
       });
     }
