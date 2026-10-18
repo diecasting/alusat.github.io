@@ -1,0 +1,20 @@
+# Consent Mode v2 banner strings (alusat.com)
+# Key names are language-agnostic; all five language files must define every key.
+
+[consent_title]
+other = "Cookie & Analytics Consent"
+
+[consent_message]
+other = "We use cookies and Google Analytics to understand how visitors use our site. Analytics are loaded only after you accept. You can reject or change your choice at any time."
+
+[consent_accept]
+other = "Accept analytics"
+
+[consent_reject]
+other = "Reject optional analytics"
+
+[consent_manage]
+other = "Manage cookie settings"
+
+[consent_privacy]
+other = "Privacy Policy"

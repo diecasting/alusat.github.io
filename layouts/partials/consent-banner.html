@@ -1,0 +1,17 @@
+{{- /* consent-banner.html — Accessible Consent Mode v2 banner (Basic).
+   Non-modal: it does not trap focus or block page content (no "cookie wall").
+   Hidden by default; consent.js reveals it only when no choice is stored.
+   All visible text comes from i18n keys (must exist in all 5 languages). */ -}}
+<div id="consent-banner" class="consent-banner" role="dialog" aria-modal="false" aria-live="polite" aria-label="{{ i18n "consent_title" }}" hidden>
+  <div class="consent-banner__inner">
+    <div class="consent-banner__text">
+      <h2 class="consent-banner__title">{{ i18n "consent_title" }}</h2>
+      <p class="consent-banner__message">{{ i18n "consent_message" }}</p>
+      <p class="consent-banner__more"><a href="/privacy-policy/">{{ i18n "consent_privacy" }}</a></p>
+    </div>
+    <div class="consent-banner__actions">
+      <button type="button" id="consent-accept" class="consent-btn consent-btn--accept">{{ i18n "consent_accept" }}</button>
+      <button type="button" id="consent-reject" class="consent-btn consent-btn--reject">{{ i18n "consent_reject" }}</button>
+    </div>
+  </div>
+</div>
