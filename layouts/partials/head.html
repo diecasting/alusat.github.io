@@ -1,6 +1,10 @@
 {{- /* head.html — Document head with SEO meta and GEO Schema rendering */ -}}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{{/* GA4 consent gating: see the gated loader near the end of <head>. The Google tag
+     is loaded only after explicit analytics consent (Basic Consent Mode v2). */}}
+
 <title>{{ if .IsHome }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
 {{ with .Description }}<meta name="description" content="{{ . }}">{{ else }}<meta name="description" content="{{ .Site.Params.seo.description }}">{{ end }}
 {{ with .Keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
@@ -41,15 +45,40 @@
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | absURL }}">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-41EG879WCL"></script>
+<!-- Google tag (gtag.js) — Basic Consent Mode: loaded ONLY after explicit analytics
+     consent. No stored choice, or a stored 'denied', results in ZERO Google tag
+     requests (no gtag/js library load, no g/collect measurement). When granted, the
+     loader is injected and gtag('config') is issued in its onload so the page_view
+     is emitted reliably on every granted page load (including the accept-reload and
+     subsequent same-session navigations). -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-41EG879WCL');
+  (function () {
+    var KEY = 'alusat_consent';
+    var granted = false;
+    try { granted = localStorage.getItem(KEY) === 'granted'; } catch (e) {}
+    if (!granted) return;                 // undecided or denied → do nothing
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-41EG879WCL';
+    s.onload = function () {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', {
+        'ad_storage': 'granted',
+        'ad_user_data': 'granted',
+        'ad_personalization': 'granted',
+        'analytics_storage': 'granted'
+      });
+      gtag('js', new Date());
+      gtag('config', 'G-41EG879WCL');     // → exactly one page_view for this load
+    };
+    var f = document.getElementsByTagName('script')[0];
+    if (f && f.parentNode) { f.parentNode.insertBefore(s, f); }
+  })();
 </script>
+
+<!-- Consent UI logic (deferred; executes after parse, never before the synchronous default above) -->
+<script defer src="{{ "js/consent.js" | absURL }}"></script>
 
 <!-- Web Fonts (matched to WordPress: Poppins headings + Source Sans 3 body) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -59,6 +88,7 @@
 <!-- CSS -->
 {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+<link rel="stylesheet" href="{{ "css/consent.css" | absURL }}">
 
 <!-- GEO Schema Rendering Engine -->
 {{ partial "schema/render.html" . }}
